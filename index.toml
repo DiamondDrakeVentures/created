@@ -29,6 +29,10 @@ file = "config/deathfinder-server.toml"
 hash = "a70d4aa1f8970b5d54e55e37381393efad021a5307aa1499f72807181007e061"
 
 [[files]]
+file = "config/ding.toml"
+hash = "fe5f49ee102ed00b2e29fcbf1df5f6bf52d220bd7c100dd395acfd0b4cc48dd5"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "817eaa120fd29fdadc03a1ba009da9fdc5a487975a3295a7a03e047c86d5c37c"
 
