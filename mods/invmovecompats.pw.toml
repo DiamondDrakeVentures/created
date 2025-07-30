@@ -1,0 +1,13 @@
+name = "InvMoveCompats"
+filename = "InvMoveCompats-0.4.0+1.21.4-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6IpcGP7T/versions/H2qicTFZ/InvMoveCompats-0.4.0%2B1.21.4-NeoForge.jar"
+hash-format = "sha512"
+hash = "b6321ffa0d946311683c43ba86b12952a58f7a943f80cb9241a9562c88237c71884c83be08b462e3a2e5f3691db3b12a35939f4293dea381a5aa5263246a3f07"
+
+[update]
+[update.modrinth]
+mod-id = "6IpcGP7T"
+version = "H2qicTFZ"

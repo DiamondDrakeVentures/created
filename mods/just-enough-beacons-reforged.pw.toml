@@ -1,0 +1,13 @@
+name = "Just Enough Beacons Reforged"
+filename = "JustEnoughBeacons-NeoForge-1.21-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fgqpjvEk/versions/NXAVgiee/JustEnoughBeacons-NeoForge-1.21-1.3.0.jar"
+hash-format = "sha512"
+hash = "20040c02ca2dbf410156357e0a818270cf797b05a8b7611d07b28bc16da26fab014bee4fe2f2267968430da0bb6602064184fb0d1d09421f1e955799e5533437"
+
+[update]
+[update.modrinth]
+mod-id = "fgqpjvEk"
+version = "NXAVgiee"

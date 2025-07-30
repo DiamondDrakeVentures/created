@@ -1,0 +1,13 @@
+name = "DragonLib"
+filename = "dragonlib-neoforge-1.21.1-2.2.24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbIsGaOV/versions/Pg8xP8vM/dragonlib-neoforge-1.21.1-2.2.24.jar"
+hash-format = "sha512"
+hash = "fd2dab41559acc69644005553eb1c5cc461ba1d12214455354ebabc81fe04405784df9f43f5128577c1f0beed19a8d488bf7e5e3708d8f804a57e84f1581b0a1"
+
+[update]
+[update.modrinth]
+mod-id = "sbIsGaOV"
+version = "Pg8xP8vM"

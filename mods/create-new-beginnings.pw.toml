@@ -1,0 +1,13 @@
+name = "Create: New Beginnings"
+filename = "createnewbeg-0.1.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XDDw6edF/versions/UfZFVKXQ/createnewbeg-0.1.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "3b6882ea7237bab28af4103e1561ce57062a6451f394fc7c26e69209d9a172827267e148f26740ca9b87a92381e079ec92d2525d2200efbb8b000ea121a254b8"
+
+[update]
+[update.modrinth]
+mod-id = "XDDw6edF"
+version = "UfZFVKXQ"

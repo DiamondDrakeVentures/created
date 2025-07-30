@@ -1,0 +1,13 @@
+name = "Server Chat Sync"
+filename = "ServerChatSync-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pGKfWt9W/versions/wD64k7o2/ServerChatSync-neoforge-1.0.0.jar"
+hash-format = "sha512"
+hash = "6dee31863bb8b60c199a0bb913dfff93514def9880c5dcc385a0dc42bbf232d0324c2764551bfc3c7a2622eacd6e7a54ce754d0c1852dc6cc9508712a3382850"
+
+[update]
+[update.modrinth]
+mod-id = "pGKfWt9W"
+version = "wD64k7o2"

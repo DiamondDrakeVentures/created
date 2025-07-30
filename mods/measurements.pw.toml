@@ -1,0 +1,13 @@
+name = "Measurements"
+filename = "Measurements-neoforge-1.21.1-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wLINU2AB/versions/x35VNfAL/Measurements-neoforge-1.21.1-3.0.1.jar"
+hash-format = "sha512"
+hash = "bf7fe941943c734ca0ec6d90c2453158adf57cfb0dbbffdcc03b396e91c3840cd964809cf85befaa605e4b4dcffff395c68c025bf4c7b27f9e03b5c6f82ccc86"
+
+[update]
+[update.modrinth]
+mod-id = "wLINU2AB"
+version = "x35VNfAL"

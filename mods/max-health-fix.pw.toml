@@ -1,0 +1,13 @@
+name = "Max Health Fix"
+filename = "maxhealthfix-neoforge-1.21.1-21.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mH8wdmqr/versions/Oh3tUtEX/maxhealthfix-neoforge-1.21.1-21.1.4.jar"
+hash-format = "sha512"
+hash = "c4ce1c648b5babfc3578abb88b0b78f7d1338b8cb0375bfb43026c20435564e72ca615e5cc0a5fac024e5f4b657b0173aa10ef33b5a83f9072406d4ad618a3f8"
+
+[update]
+[update.modrinth]
+mod-id = "mH8wdmqr"
+version = "Oh3tUtEX"

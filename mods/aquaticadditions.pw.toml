@@ -1,0 +1,13 @@
+name = "Aquatic Additions"
+filename = "aquaticadditionsNEOFORGE-1-21-1_4-0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kvmNKS5S/versions/57nkDnYk/aquaticadditionsNEOFORGE-1-21-1_4-0.jar"
+hash-format = "sha512"
+hash = "2bfd91c009acf725d5d33a62d0f78bc95d45dbf67f37b3d86f5ceccf6ff78a25e3deebd70c0f7cd3ac7511d92c0e37054ad11fecf4bdfaae0597d10cce15bef4"
+
+[update]
+[update.modrinth]
+mod-id = "kvmNKS5S"
+version = "57nkDnYk"

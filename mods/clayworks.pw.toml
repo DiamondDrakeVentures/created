@@ -1,0 +1,13 @@
+name = "Clayworks"
+filename = "clayworks-1.21.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1iicrEO3/versions/jwuaMj8q/clayworks-1.21.1-4.0.0.jar"
+hash-format = "sha512"
+hash = "28ee06bb592949fb3747c045f5772b72ee87f8da21448a439cc37db235bd5e1d3a0ff5f94915fc98f6df0bceeced18a5be3e2f1f0bf7cc8698a36ba3e4177733"
+
+[update]
+[update.modrinth]
+mod-id = "1iicrEO3"
+version = "jwuaMj8q"

@@ -9,8 +9,10 @@ Thumbs.db
 lost+found
 
 # Stack ignores
+*.mrpack
 
 # IDE ignores
 .vscode
 
 # Project ignores
+tools/

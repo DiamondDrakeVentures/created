@@ -1,0 +1,13 @@
+name = "Macaw's Biomes O' Plenty"
+filename = "mcwbiomesoplenty-neoforge-1.21.1-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tanquv9C/versions/kyNS1Faj/mcwbiomesoplenty-neoforge-1.21.1-1.2.jar"
+hash-format = "sha512"
+hash = "4932f2c63c8f962072a2a17145f7f23cfcd8cfc3bccb84c25ea34113c934c2451181b7eecc90c26fd7e664c4c9cc565cc0ff36fc7de4e3fe561d4cc2baacfc61"
+
+[update]
+[update.modrinth]
+mod-id = "Tanquv9C"
+version = "kyNS1Faj"

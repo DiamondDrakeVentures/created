@@ -1,0 +1,13 @@
+name = "U Team Core"
+filename = "u_team_core-neoforge-1.21.1-5.6.2.384.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g2FGQs4R/versions/A0Rx4Pvw/u_team_core-neoforge-1.21.1-5.6.2.384.jar"
+hash-format = "sha512"
+hash = "b3219b26fe1c506a306e51ad19fcb3f6349e825ea2e976d13854af91509e72152c807d3adada08d541a4240a8ceba23fecfb019c9dd11adea1da21135eecc80f"
+
+[update]
+[update.modrinth]
+mod-id = "g2FGQs4R"
+version = "A0Rx4Pvw"

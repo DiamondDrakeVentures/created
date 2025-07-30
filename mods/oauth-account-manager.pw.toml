@@ -1,0 +1,13 @@
+name = "OAuth Account Manager"
+filename = "oauth-account-manager-neoforge-1.21.1-1.0.1.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NjkiUiZ7/versions/bKqCsvEs/oauth-account-manager-neoforge-1.21.1-1.0.1.6.jar"
+hash-format = "sha512"
+hash = "54078aa2f13db68d54e51966a34e4ae92f735aeba717cf920c4ff9f12a8c3f756e5d82cdd08e80798a7de614b098977988dbdf491974f2c07b9c2c7fc1dcb553"
+
+[update]
+[update.modrinth]
+mod-id = "NjkiUiZ7"
+version = "bKqCsvEs"

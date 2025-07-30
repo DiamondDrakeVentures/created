@@ -1,0 +1,13 @@
+name = "Void Totem"
+filename = "void-totem-3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vVZphdR0/versions/WKJx246r/void-totem-3.jar"
+hash-format = "sha512"
+hash = "d3339b15d9e1ad0ca3701d604b795d6f08dc7a76ec63d1de0593bbdf0332662644bde133385972e912ed17bfec4fee0a477775640854737c532950db82c21dc2"
+
+[update]
+[update.modrinth]
+mod-id = "vVZphdR0"
+version = "WKJx246r"

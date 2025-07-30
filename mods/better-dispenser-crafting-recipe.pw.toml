@@ -1,0 +1,13 @@
+name = "Better dispenser crafting recipe"
+filename = "better-dispenser-crafting-recipe-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wca7Hs1s/versions/QRlMjzvh/better-dispenser-crafting-recipe-1.21.jar"
+hash-format = "sha512"
+hash = "6c886736a805d76bee80afb6efc5093dc0d24751a7c8f08b9fddd12aca4fd6932f9820c2b5ba9d2c6add463de4687313cfc5bd12aa865815c2a24d1f800a2f1d"
+
+[update]
+[update.modrinth]
+mod-id = "wca7Hs1s"
+version = "QRlMjzvh"

@@ -1,0 +1,13 @@
+name = "Smithing Template Viewer"
+filename = "smithingtemplateviewer-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oJsYTCP3/versions/50hp2wB9/smithingtemplateviewer-1.0.3.jar"
+hash-format = "sha512"
+hash = "701ddacf511162283f2f5ad18893f2dc848269921a027f55905fc748eda32711939212694071d6b35dec026eccad6a68e8ec704ec7cab26491ff6b93c2014686"
+
+[update]
+[update.modrinth]
+mod-id = "oJsYTCP3"
+version = "50hp2wB9"

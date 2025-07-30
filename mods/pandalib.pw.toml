@@ -1,0 +1,13 @@
+name = "PandaLib"
+filename = "pandalib-neoforge-mc1.21-0.5.2-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mEEGbEIu/versions/NPR0EFtY/pandalib-neoforge-mc1.21-0.5.2-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "8a6a36cb2fad7ee1230f3b3745d73e5b66fee34710eba7a7152c3a718e012a6d91d707852ee59f51ca405462945c050e07d5ad4ba25424779c12f895f92dfef4"
+
+[update]
+[update.modrinth]
+mod-id = "mEEGbEIu"
+version = "NPR0EFtY"

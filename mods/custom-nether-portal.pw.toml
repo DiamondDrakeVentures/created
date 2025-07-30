@@ -1,0 +1,13 @@
+name = "Custom Nether Portal"
+filename = "custom_nether_portals-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2OCozLqc/versions/I68NwlOb/custom_nether_portals-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "fdafbe79953ca34936264a2693893179d1b9a0227e4b2650185988bbaf4d0412d98ae66e5d18f0cb06d4df579dfa8ee894207314feb163bd253d0b1eae994782"
+
+[update]
+[update.modrinth]
+mod-id = "2OCozLqc"
+version = "I68NwlOb"

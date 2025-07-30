@@ -1,0 +1,13 @@
+name = "Fated Inventory"
+filename = "fated_inventory-neoforge-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3EyAgeaS/versions/TkgyBDKP/fated_inventory-neoforge-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "398c3e90b6d2a625e35099afcf5f0c4de0118dce1c1f06eb3d9090be653f594091839dccad19e8862b85476d473e5a6966dce71d733d42a6e4ef71be6e823be3"
+
+[update]
+[update.modrinth]
+mod-id = "3EyAgeaS"
+version = "TkgyBDKP"

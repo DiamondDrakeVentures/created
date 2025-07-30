@@ -1,0 +1,13 @@
+name = "Sophisticated Backpack/Storage Emerald Upgrade"
+filename = "sophisticated_emerald_upgrade-1.0.3-NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qkIuMMRF/versions/MtnvEiK0/sophisticated_emerald_upgrade-1.0.3-NeoForge-1.21.1.jar"
+hash-format = "sha512"
+hash = "eebf7319cbe1c9840109ddef9c1156b8f8c0b818dfd1464e23c63c883191842979afbabdd5242528171fa306d59f4caee6359c396e1179f049205ab37195cf40"
+
+[update]
+[update.modrinth]
+mod-id = "qkIuMMRF"
+version = "MtnvEiK0"

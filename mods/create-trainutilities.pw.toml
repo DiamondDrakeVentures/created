@@ -1,0 +1,13 @@
+name = "Create: Train Utilities"
+filename = "trainutilities-neoforge-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kVIxLqso/versions/yS7ARA5A/trainutilities-neoforge-3.0.0.jar"
+hash-format = "sha512"
+hash = "d6a9910fa5271a026541c2ae33db617508d148f75ea96030ecf53acab36e4c1bad6a8995b0acf81f17ee0b44f507d2fa5a79dd73b20debf8afa8d301e5794e08"
+
+[update]
+[update.modrinth]
+mod-id = "kVIxLqso"
+version = "yS7ARA5A"

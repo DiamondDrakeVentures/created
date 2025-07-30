@@ -1,0 +1,13 @@
+name = "Create Train Tank Mod"
+filename = "createtraintankmod-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5yhozSar/versions/suWiBjak/createtraintankmod-1.0.2.jar"
+hash-format = "sha512"
+hash = "15201a7b262a556d3ee93c003c1a89efe58a829342a59d14fa8af3c30d1ded091d5330903394817d01a67a0c7677e8f8f7bafb6a73f54a817af366ce36438d88"
+
+[update]
+[update.modrinth]
+mod-id = "5yhozSar"
+version = "suWiBjak"

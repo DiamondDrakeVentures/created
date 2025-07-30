@@ -1,0 +1,13 @@
+name = "Glass Breaker"
+filename = "glassbreaker-2.0.0+1.21+neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vY7Ka6pe/versions/2YPMqEiY/glassbreaker-2.0.0%2B1.21%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "bc311b0574c2343ef168f337678603a3f93e7ff37b1f73aebe838c99db3f7d6be5e0565e9fb211c9827c860e55c48897aa7de7e8f203e7ce8829c547727d7ce4"
+
+[update]
+[update.modrinth]
+mod-id = "vY7Ka6pe"
+version = "2YPMqEiY"

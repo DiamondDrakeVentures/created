@@ -1,0 +1,13 @@
+name = "Sign Copy"
+filename = "signcopy-neoforge-2.0.2+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cK4nxndh/versions/NiWP1cbu/signcopy-neoforge-2.0.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "314f875d6bf8ddc8077554f71a64d2d1da60267064a87597d3e2d74388cd5bd361ec2bb0ff31c92f58d47b78258e54a122f768d1e700fe2d254582e7bc31704d"
+
+[update]
+[update.modrinth]
+mod-id = "cK4nxndh"
+version = "NiWP1cbu"

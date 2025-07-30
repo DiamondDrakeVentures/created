@@ -1,0 +1,13 @@
+name = "Better Tridents"
+filename = "BetterTridents-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KNUSlHiU/versions/UVSMPjiS/BetterTridents-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "2be3dbdadb6d2e71a4be9a4b96864af72fb9f358e9f6770e9a00565284d8aaa966f9d7a14917241234c340e7eadfb45603732d10c284b01325c749dd9d9fd629"
+
+[update]
+[update.modrinth]
+mod-id = "KNUSlHiU"
+version = "UVSMPjiS"

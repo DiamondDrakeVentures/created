@@ -1,0 +1,13 @@
+name = "Death Counter"
+filename = "DeathCounter-1.21-NeoForge-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PPtJBZAV/versions/fRa1zLHH/DeathCounter-1.21-NeoForge-1.4.0.jar"
+hash-format = "sha512"
+hash = "f021a2ce43f48139d8979784fa23124be3c4616be5793a9d63a10468890374dbd6dd0c6abacdaa6e38df3b5ba50d4e0d9b57b1ecf0ae89cd766508fb1b5d1c22"
+
+[update]
+[update.modrinth]
+mod-id = "PPtJBZAV"
+version = "fRa1zLHH"

@@ -1,0 +1,13 @@
+name = "Macaw's Paintings"
+filename = "mcw-paintings-1.0.5-1.21.1neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/okE6QVAY/versions/El2YIAWc/mcw-paintings-1.0.5-1.21.1neoforge.jar"
+hash-format = "sha512"
+hash = "b40d1b5f084117af1fa567eb3ca6d9987c3de78b5b83b5a80c5165f8dbfb12a66fbdfff42c7707a02eab7720c4408807ecef6069ed7d4ee18d4f554acb6c5759"
+
+[update]
+[update.modrinth]
+mod-id = "okE6QVAY"
+version = "El2YIAWc"

@@ -1,0 +1,13 @@
+name = "ShetiPhianCore"
+filename = "shetiphiancore-neoforge-1.21.1-0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oX7uP2kS/versions/YYLwOvwG/shetiphiancore-neoforge-1.21.1-0.3.jar"
+hash-format = "sha512"
+hash = "e969f008f4ff3cc1ffd7e869c063719b3cbff9dcecde60c185c1552139c3e1750b1b7869c634f0889396f989da7cd6b91826c28d86c801a31923d91e67479a9a"
+
+[update]
+[update.modrinth]
+mod-id = "oX7uP2kS"
+version = "YYLwOvwG"

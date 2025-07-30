@@ -1,0 +1,13 @@
+name = "Nether Weather"
+filename = "netherweather-1.1.2_backport.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XrxtjryC/versions/TVWCIOa0/netherweather-1.1.2_backport.jar"
+hash-format = "sha512"
+hash = "7d9cafb2357bce98833c03a4d9fabfa33ab6b7075be4dbd211c2070e0ed17d5ce30f00784ecb4296b2bda5001f967b10a27acb80363f3f7f70a9b2a32dd53231"
+
+[update]
+[update.modrinth]
+mod-id = "XrxtjryC"
+version = "TVWCIOa0"

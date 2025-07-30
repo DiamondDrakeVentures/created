@@ -1,0 +1,13 @@
+name = "Create Extra Casing"
+filename = "create_extra_casing-4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yEGVcr59/versions/7tky2h30/create_extra_casing-4.0.3.jar"
+hash-format = "sha512"
+hash = "15f13dc53d674fb549b2b9e816c9ebf4f9c6cb5a7fc3dd3439c48824b6c9da0093205c8d4375e106fcc97ec92ad740a3356a81a83983010990dc9daf4d3f1b56"
+
+[update]
+[update.modrinth]
+mod-id = "yEGVcr59"
+version = "7tky2h30"

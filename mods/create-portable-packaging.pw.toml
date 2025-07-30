@@ -1,0 +1,13 @@
+name = "Create: Portable Packaging"
+filename = "create_portable_packaging-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SjR6UJdL/versions/sBMCFI9L/create_portable_packaging-0.1.2.jar"
+hash-format = "sha512"
+hash = "9b2f6b7ddc382ed496709775978c3cb89678bf81ae7b6cdbbc17275ec38e8f1d5fac0cf51433cae2cb0122791e1dba687d1caf2bcfa67c6d8a3c1e52d42d8a46"
+
+[update]
+[update.modrinth]
+mod-id = "SjR6UJdL"
+version = "sBMCFI9L"

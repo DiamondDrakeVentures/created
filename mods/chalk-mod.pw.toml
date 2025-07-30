@@ -1,0 +1,13 @@
+name = "Chalk"
+filename = "chalk-1.6.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YWGP4Y1d/versions/pgGspa2K/chalk-1.6.10.jar"
+hash-format = "sha512"
+hash = "51ca8f7c3974d046007f59ae3703f2ce6304b149f2d2002ca084e868bedcdc73e53cfa1498e442abe34ede7aa15f668cdd7b66c7ee779724e83c466124e04634"
+
+[update]
+[update.modrinth]
+mod-id = "YWGP4Y1d"
+version = "pgGspa2K"

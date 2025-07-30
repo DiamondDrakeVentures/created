@@ -1,0 +1,13 @@
+name = "Create Unlimited"
+filename = "createunlimited-0.7.0-beta.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jyG2CDff/versions/Cx42mCfL/createunlimited-0.7.0-beta.1.jar"
+hash-format = "sha512"
+hash = "45a5145df30c43328a6e4217f5b170c52b00b81a698f91fa131652acf6506cf8222f65b6f625a9893de3911e9779bc4ba5e0643a8b9427549cc6daf9eb3d24aa"
+
+[update]
+[update.modrinth]
+mod-id = "jyG2CDff"
+version = "Cx42mCfL"
