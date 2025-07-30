@@ -1,0 +1,13 @@
+name = "Create: Drinks"
+filename = "create_drinks-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xo9yXF2c/versions/gO5GI4F9/create_drinks-0.1.0.jar"
+hash-format = "sha512"
+hash = "d1beb36cb49668e701e137afa52f02b534fa70a96ea837464d11a5e44e9a98899b2cdc631e835222c6e0a47a9cd235ba2fcc7dce6ab9af2be2557e76a75b0888"
+
+[update]
+[update.modrinth]
+mod-id = "Xo9yXF2c"
+version = "gO5GI4F9"

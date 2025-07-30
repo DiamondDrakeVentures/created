@@ -409,6 +409,11 @@ hash = "59ad052e60618924abec65d1ae84e37d61c522a155eb60c90823bb9f46e96bb2"
 metafile = true
 
 [[files]]
+file = "mods/create-drinks-vidtdm.pw.toml"
+hash = "41f1389c219f380f627f208e3797c0e6af8396fbcc1354c201e1c1df0cf75837"
+metafile = true
+
+[[files]]
 file = "mods/create-easy-structures.pw.toml"
 hash = "1d91b46a5973bda84e2b314878693ef5df83475b95569a75b00de096edfe3df4"
 metafile = true
