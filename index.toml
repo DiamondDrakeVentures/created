@@ -18,7 +18,7 @@ hash = "04f7add248cf50d97973565bdf0bcfadfbf54817f28af31487c5f59c2f3986dc"
 
 [[files]]
 file = "config/boatiview-client.toml"
-hash = "751c2cba4857a6bbd0e5c11933a813524adf037aa796c0eda3005aeb6db509d7"
+hash = "0c7b914a057e9166de3aeef7ae58021c8da5f836d737a82a1b549838e8a3a473"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
