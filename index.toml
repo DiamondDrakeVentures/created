@@ -49,6 +49,11 @@ file = "config/waystones-common.toml"
 hash = "817eaa120fd29fdadc03a1ba009da9fdc5a487975a3295a7a03e047c86d5c37c"
 
 [[files]]
+file = "mods/aa4-atlas.pw.toml"
+hash = "fcf0d1f6341d12d93a5507f13ac7f8d5677d45e1ef2d75fc6bb83eba129cd4c8"
+metafile = true
+
+[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "f3fad3a610f221a5a275f515708d27746680cfba626f2d37f490b77cb34b5a4d"
 metafile = true
