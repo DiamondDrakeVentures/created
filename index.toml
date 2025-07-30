@@ -17,6 +17,10 @@ file = "config/crash_assistant/modlist.json"
 hash = "022086513c45aaf23129a413d11e9fc1f3ea9634887f14238063dfab637a3069"
 
 [[files]]
+file = "config/create_extra_casing-common.toml"
+hash = "ac5721f07cf518814a8259315100f221d5b6479957cfe850a483faa576a0603e"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "817eaa120fd29fdadc03a1ba009da9fdc5a487975a3295a7a03e047c86d5c37c"
 
