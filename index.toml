@@ -5,6 +5,14 @@ file = "README.md"
 hash = "1c291a8640ca84e46cfcb1ea17b758ebcac4c1550173bf6c7c6ba9640c692db8"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "7d635cc997e1c664b71a17d001a5dcf55e22d3ec394495a98b150f0676032488"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "022086513c45aaf23129a413d11e9fc1f3ea9634887f14238063dfab637a3069"
+
+[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "f3fad3a610f221a5a275f515708d27746680cfba626f2d37f490b77cb34b5a4d"
 metafile = true
@@ -161,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "4925021964dc745510d669181aa79614363618950f0a597e30447602a555c05e"
+hash = "0fed00a73b4cb1c47fe596defe063b3f75b5883809f9c8bc9c77bd64a03eab8c"
 metafile = true
 
 [[files]]
@@ -971,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-biomes-o-plenty.pw.toml"
-hash = "4353dc49b4c81be0114f89da74f6d61056abc8ce8417b39ba74bf2da4edb6c84"
+hash = "2e3a2e626d50845fb132d49ce537cdc6d96cdd2e686b2b4abf9ae5910345d6b2"
 metafile = true
 
 [[files]]

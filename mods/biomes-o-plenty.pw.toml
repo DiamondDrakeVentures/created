@@ -2,6 +2,11 @@ name = "Biomes O' Plenty"
 filename = "BiomesOPlenty-neoforge-1.21.1-21.1.0.12.jar"
 side = "both"
 
+[option]
+optional = false
+default = false
+description = "Disabled due to memory budget constraints."
+
 [download]
 url = "https://cdn.modrinth.com/data/HXF82T3G/versions/3RGurDCA/BiomesOPlenty-neoforge-1.21.1-21.1.0.12.jar"
 hash-format = "sha512"

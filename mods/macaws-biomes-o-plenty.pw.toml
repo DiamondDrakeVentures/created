@@ -2,6 +2,11 @@ name = "Macaw's Biomes O' Plenty"
 filename = "mcwbiomesoplenty-neoforge-1.21.1-1.2.jar"
 side = "both"
 
+[option]
+optional = false
+default = false
+description = "Disabled due to memory budget constraints."
+
 [download]
 url = "https://cdn.modrinth.com/data/Tanquv9C/versions/kyNS1Faj/mcwbiomesoplenty-neoforge-1.21.1-1.2.jar"
 hash-format = "sha512"
