@@ -1435,11 +1435,6 @@ hash = "2ba1a8516df090c3c383c1a053d7f2b7c5a2df552f30866d48047875d189dc91"
 metafile = true
 
 [[files]]
-file = "mods/trash-cans.pw.toml"
-hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
-metafile = true
-
-[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "b7edb8bf6ab6913509a777faa013241784c3a75a966a1c62e4ddd786ecd2392f"
 metafile = true
