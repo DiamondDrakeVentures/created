@@ -49,6 +49,11 @@ file = "config/waystones-common.toml"
 hash = "817eaa120fd29fdadc03a1ba009da9fdc5a487975a3295a7a03e047c86d5c37c"
 
 [[files]]
+file = "mods/aa4-atlas.pw.toml"
+hash = "fcf0d1f6341d12d93a5507f13ac7f8d5677d45e1ef2d75fc6bb83eba129cd4c8"
+metafile = true
+
+[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "f3fad3a610f221a5a275f515708d27746680cfba626f2d37f490b77cb34b5a4d"
 metafile = true
@@ -401,6 +406,11 @@ metafile = true
 [[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
 hash = "59ad052e60618924abec65d1ae84e37d61c522a155eb60c90823bb9f46e96bb2"
+metafile = true
+
+[[files]]
+file = "mods/create-drinks-vidtdm.pw.toml"
+hash = "41f1389c219f380f627f208e3797c0e6af8396fbcc1354c201e1c1df0cf75837"
 metafile = true
 
 [[files]]
@@ -869,6 +879,11 @@ hash = "d144fd8da1186ae9350ec320af092584e9b398869564137c0da1843b34a26b7d"
 metafile = true
 
 [[files]]
+file = "mods/hypertube.pw.toml"
+hash = "9d99ba0b966242b05c160244c45e0dcdafdb4627d4993b05a4ede0321d7f2680"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "019fea93516a470bbcad284dd0cbad6f4e2914d96221c86e3f87c12fe6321e10"
 metafile = true
@@ -930,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "49b54c496707ed15e2f22cd806cbebb3d3ac489483d97f4b61495690e2eeecea"
+hash = "8d3e669a813af2e685efafeca797f95ad8a99c344078e72d2ce0ee1273369bd8"
 metafile = true
 
 [[files]]
@@ -1596,4 +1611,29 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "434ac58bf0c398eb06d03856a3de1edf30aba72ff11ac953bda99e34132c0376"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "d30923bf5cfb4988a372508cb461d8077609d79a38d0b170785804c7ad15f16e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "0a3f01f56afd065dc65dffb073b4fc5f9ae031aaef08d95d9df92e0093ac8504"
 metafile = true
