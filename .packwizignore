@@ -1,0 +1,16 @@
+# OS ignores
+## Windows
+Thumbs.db
+
+## macOS
+.DS_Store
+
+## Linux
+lost+found
+
+# Stack ignores
+
+# IDE ignores
+.vscode
+
+# Project ignores
