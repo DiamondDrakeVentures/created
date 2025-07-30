@@ -1,0 +1,13 @@
+name = "Soul Fire'd"
+filename = "soul-fire-d-neoforge-1.21-5.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d6MhxwRo/versions/YiJbR5Oa/soul-fire-d-neoforge-1.21-5.1.6.jar"
+hash-format = "sha512"
+hash = "aee834982614f936fc5873549bdfaa49de765cbf6cbd1a2ab23e95576df26af56434ac37cef80260c9ce0fd614643aab449a0467c43084a5628f0b619ad6e0d9"
+
+[update]
+[update.modrinth]
+mod-id = "d6MhxwRo"
+version = "YiJbR5Oa"

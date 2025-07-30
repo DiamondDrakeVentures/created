@@ -304,6 +304,11 @@ hash = "bef8d516741fbf4644103d8e39d270fe6bd9a0b10a182cb8f9a063ca2347a390"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "d45afeddc2c19eae08912378f3be8d9bd484a666b305b4858caa78c6e77b62ac"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib.pw.toml"
 hash = "1051d322f24322868b767199c0e6803bbc1c1c013c506f858eda02007c8fbc47"
 metafile = true
@@ -1426,6 +1431,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticatedfix.pw.toml"
 hash = "7a4751b8ee21dac7a319df6e886a770c6701d0fa88d1d1caed221b9e0ab466af"
+metafile = true
+
+[[files]]
+file = "mods/soul-fire-d.pw.toml"
+hash = "b0b3804c321b340fa4eaf2aba2f0d409eaa766708fe9d9910627fec1ff090f1c"
 metafile = true
 
 [[files]]
