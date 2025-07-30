@@ -45,6 +45,62 @@ file = "config/ding.toml"
 hash = "fe5f49ee102ed00b2e29fcbf1df5f6bf52d220bd7c100dd395acfd0b4cc48dd5"
 
 [[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5"
+
+[[files]]
+file = "config/fancymenu/assets/created-button-hover.png"
+hash = "81b80ac8baea63c934096a9f365f58c48451062955a2e176e4841dec64b542bc"
+
+[[files]]
+file = "config/fancymenu/assets/created-button-inactive.png"
+hash = "cea1facb8968a508dc8c378675a79a98514202af3b2a545f87cb82febdff87f2"
+
+[[files]]
+file = "config/fancymenu/assets/created-button.png"
+hash = "b1970c707af0d621b97f0c595c9c66e31b525fcb31d75f799b5149bd5f33ee4a"
+
+[[files]]
+file = "config/fancymenu/assets/created-title-placeholder.png"
+hash = "de06bfe2d551a97d566c8efc3ae2fafc36144af7e8d1b14e6db3a45d774fdff1"
+
+[[files]]
+file = "config/fancymenu/assets/ddv-bricks.png"
+hash = "4e8320e2f14678fb35323466ccd87a49aa2f02997ad342487b8b523f1dadfe13"
+
+[[files]]
+file = "config/fancymenu/assets/ddv-diamond.png"
+hash = "525f1b29e1fc885890ebf715a26773a5b5a5d5340dd7e772e4e56e090324ed72"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "d9bd3b98ab9e8b4f0415387eed45f390db5fda26858e22711e083b80ade89cc2"
+
+[[files]]
+file = "config/fancymenu/customization/ddv_loading_overlay_layout.txt"
+hash = "c2a1e6e1b48d070d43526675ad9261a70cd4f6eef10a6a993bc7a78e1d4c7152"
+
+[[files]]
+file = "config/fancymenu/customization/ddv_pause_screen_layout.txt"
+hash = "abf1b132941eb1ae7cdc75d9f4a797ab664b79c33822a2c8fc0643e602f3be13"
+
+[[files]]
+file = "config/fancymenu/customization/ddv_title_screen_layout.txt"
+hash = "0df3245a10eec1326045dbf1a22ee99f4d8591e99cf3d3963fe73ea9ae7b9980"
+
+[[files]]
+file = "config/fancymenu/customization/ddv_universal_layout.txt"
+hash = "042523ff8c33f2b67bd758498fe6c48577c501e8d4bbe11aa3d19761443f6851"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "cf62e0d755ed339c676a67fb5f516e5df4f2dd547ef5a1e296b566a350bae98f"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "f3d320f55ba26c595e9974ae703075330d6521ba74ac080e4f87ca94840b5453"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "817eaa120fd29fdadc03a1ba009da9fdc5a487975a3295a7a03e047c86d5c37c"
 

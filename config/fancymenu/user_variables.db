@@ -1,0 +1,8 @@
+type = user_variables
+
+variable {
+  name = ddv.server
+  value = localhost
+  reset_on_launch = false
+}
+
