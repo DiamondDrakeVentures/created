@@ -5,6 +5,10 @@ file = "README.md"
 hash = "1c291a8640ca84e46cfcb1ea17b758ebcac4c1550173bf6c7c6ba9640c692db8"
 
 [[files]]
+file = "config/boatiview-client.toml"
+hash = "751c2cba4857a6bbd0e5c11933a813524adf037aa796c0eda3005aeb6db509d7"
+
+[[files]]
 file = "config/crash_assistant/config.toml"
 hash = "7d635cc997e1c664b71a17d001a5dcf55e22d3ec394495a98b150f0676032488"
 
