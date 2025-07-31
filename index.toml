@@ -574,11 +574,6 @@ hash = "9d2eb0808d10182b7b2d1ae8c13ed7a1245631a8ebf926e86239e0a576fbf1c9"
 metafile = true
 
 [[files]]
-file = "mods/create-unlimited.pw.toml"
-hash = "d3e03fc02a440da8357a3a23a7aa59d6cca0f28767ec435a2e3a790f9329a3ce"
-metafile = true
-
-[[files]]
 file = "mods/create-vibrant-vaults.pw.toml"
 hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
