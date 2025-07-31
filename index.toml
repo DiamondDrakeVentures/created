@@ -174,11 +174,6 @@ hash = "8071f5bd344fcf5c1ecfd4dbf8830fcab70052931fdf17f372356df2e5bbb7b5"
 metafile = true
 
 [[files]]
-file = "mods/better-boat-movement.pw.toml"
-hash = "39276758811b75f37840f36b9817d3446e84f0091178e8145e27f278c5c67ea4"
-metafile = true
-
-[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "3b25384acb368599971dd72d3fa48f5449552e6f732d5c25caee154926a447b1"
 metafile = true
