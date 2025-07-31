@@ -1,13 +1,13 @@
 name = "AA4 Atlas"
-filename = "aa4-atlas-1.1.1+1.21.jar"
+filename = "aa4-atlas-1.1.2+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aR9FhY20/versions/Ikf32CBW/aa4-atlas-1.1.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/aR9FhY20/versions/6qNlFux1/aa4-atlas-1.1.2%2B1.21.jar"
 hash-format = "sha512"
-hash = "354ceb387140b119cccfeb8c9265052b2ca12ceb5bfb368d1dd8c784d0ae27057af106d22186c3ec82719aeb1d7d6bc196a6962c9f2ecec403d526f8fbc6c393"
+hash = "36d238f745195b38f24c709a5b099cac0a2f7f55e65688d6e15e97c07022584888358defa0d110acb408d99529009404e327fd1754c16ed43d3dd3fc11e79151"
 
 [update]
 [update.modrinth]
 mod-id = "aR9FhY20"
-version = "Ikf32CBW"
+version = "6qNlFux1"

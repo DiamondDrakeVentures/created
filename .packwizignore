@@ -16,3 +16,4 @@ lost+found
 
 # Project ignores
 tools/
+server/
