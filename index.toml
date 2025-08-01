@@ -355,11 +355,6 @@ hash = "d45afeddc2c19eae08912378f3be8d9bd484a666b305b4858caa78c6e77b62ac"
 metafile = true
 
 [[files]]
-file = "mods/codechicken-lib.pw.toml"
-hash = "1051d322f24322868b767199c0e6803bbc1c1c013c506f858eda02007c8fbc47"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
 metafile = true
@@ -762,11 +757,6 @@ metafile = true
 [[files]]
 file = "mods/emojiful.pw.toml"
 hash = "08196e1229f323cc1eaf5969b93111705e8302a02d2acf134956f735f69e02c4"
-metafile = true
-
-[[files]]
-file = "mods/ender-storage.pw.toml"
-hash = "302bd3b2339329f655f6bd46c3fe198a3bdd2eff755f9b64b2c1ebc10d3399c0"
 metafile = true
 
 [[files]]
