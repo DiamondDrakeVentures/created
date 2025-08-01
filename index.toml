@@ -17,6 +17,10 @@ file = "config/boatiview-client.toml"
 hash = "0c7b914a057e9166de3aeef7ae58021c8da5f836d737a82a1b549838e8a3a473"
 
 [[files]]
+file = "config/chunksfadein.properties"
+hash = "9a56884c4434052a2d345bbd132b9c92426ab8aa442402f1b23cf1da15ac0878"
+
+[[files]]
 file = "config/crash_assistant/config.toml"
 hash = "7d635cc997e1c664b71a17d001a5dcf55e22d3ec394495a98b150f0676032488"
 
