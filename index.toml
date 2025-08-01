@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "1c291a8640ca84e46cfcb1ea17b758ebcac4c1550173bf6c7c6ba9640c692db8"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "b4cfabec743909d67d6b25d4b90d7526417f3f82410592885a03d68b83bf5952"
 

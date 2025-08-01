@@ -9,7 +9,9 @@ Thumbs.db
 lost+found
 
 # Stack ignores
+README.md
 *.mrpack
+*.zip
 
 # IDE ignores
 .vscode
