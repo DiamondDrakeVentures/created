@@ -1141,7 +1141,7 @@ metafile = true
 
 [[files]]
 file = "mods/maintenancemode.pw.toml"
-hash = "be97476a17c343a9e5c2b5ba2616ed77b134777ceb23fa40940abd42acc128c2"
+hash = "55c90ab9545e0756c95a0b22dafb076555d05fccd1f84036ed62140915f6ab51"
 metafile = true
 
 [[files]]
