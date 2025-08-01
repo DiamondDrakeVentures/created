@@ -1,6 +1,7 @@
 name = "Supplementaries"
 filename = "supplementaries-1.21-3.3.5-neoforge.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/hc8opOzd/supplementaries-1.21-3.3.5-neoforge.jar"
