@@ -705,6 +705,11 @@ hash = "54c0985498a40c7b9c63e336c11c1c48770dbfdf50c07dff988c1b086d26ba2f"
 metafile = true
 
 [[files]]
+file = "mods/disable-end-portals.pw.toml"
+hash = "21abc0d7306f1ee047c479bbbdb1bdf53453fd7ab67fa93be9311b54bf6e0932"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
 metafile = true

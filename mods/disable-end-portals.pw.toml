@@ -1,0 +1,13 @@
+name = "Disable End Portals"
+filename = "disable-end-portals-1.0.0+1.19.4-1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ILMYHSRT/versions/Jjf3ioa6/disable-end-portals-1.0.0%2B1.19.4-1.21.x.jar"
+hash-format = "sha512"
+hash = "dbda67707835eda87b973da1660e49b9ec2fae64f71d3f82d0aec602b6c1a471cfd7b8eb592f98285e639b958bd6da7386d2e5dba62911b6723f3f3a10703bb6"
+
+[update]
+[update.modrinth]
+mod-id = "ILMYHSRT"
+version = "Jjf3ioa6"
