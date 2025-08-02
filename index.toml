@@ -41,6 +41,14 @@ file = "config/deathfinder-server.toml"
 hash = "a70d4aa1f8970b5d54e55e37381393efad021a5307aa1499f72807181007e061"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "b6579271e110d111b1c8a6a3c68f95648ee3307fd368a528e7dc348231a6e083"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "ca3909b023978114eea89d36e33d35d0b3f0f91496c1f28228f9cbf9df037b9c"
+
+[[files]]
 file = "config/ding.toml"
 hash = "fe5f49ee102ed00b2e29fcbf1df5f6bf52d220bd7c100dd395acfd0b4cc48dd5"
 
@@ -687,6 +695,11 @@ metafile = true
 [[files]]
 file = "mods/death-finder.pw.toml"
 hash = "feb4d7b53609a0a6bc0a913fe4dcaa4d3598eecdf19800293ed87a5909806e64"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "8950c7377844b642f7e6547b821691f395a6d3f90f8cf9a6d740e390792a2de3"
 metafile = true
 
 [[files]]
