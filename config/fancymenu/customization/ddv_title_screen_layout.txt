@@ -92,7 +92,7 @@ element {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   description = {"placeholder":"serverplayercount","values":{"ip":"{"placeholder":"getvariable","values":{"name":"ddv.server"}}"}} | {"placeholder":"serverping","values":{"ip":"{"placeholder":"getvariable","values":{"name":"ddv.server"}}"}}ms%n%{"placeholder":"servermotd","values":{"ip":"{"placeholder":"getvariable","values":{"name":"ddv.server"}}","line":"1"}}%n%{"placeholder":"servermotd","values":{"ip":"{"placeholder":"getvariable","values":{"name":"ddv.server"}}","line":"2"}}
-  label = DDV
+  label = Create(D) SMP
   navigatable = true
   widget_active_state_requirement_container_identifier = 94c21c07-071f-4cba-b637-eabf9a0ba8f3-1753762051735
   [loading_requirement_container_meta:94c21c07-071f-4cba-b637-eabf9a0ba8f3-1753762051735] = [groups:][instances:591c1757-df0f-4324-aa36-45e273954f46-1753776673256;]
@@ -1299,4 +1299,3 @@ vanilla_button {
   is_hidden = true
   automated_button_clicks = 0
 }
-
