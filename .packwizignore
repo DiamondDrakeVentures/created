@@ -9,6 +9,7 @@ Thumbs.db
 lost+found
 
 # Stack ignores
+.github/
 README.md
 *.mrpack
 *.zip
