@@ -27,7 +27,7 @@ B:game_intro_fade_out = 'true';
 B:show_custom_window_icon = 'true';
 S:custom_window_icon_macos = '/config/fancymenu/assets/created-icon.icns';
 S:custom_window_icon_32 = '/config/fancymenu/assets/created-icon-32.png';
-S:custom_window_title = 'CreateD v0.1.0';
+S:custom_window_title = 'CreateD v0.2.0';
 S:custom_window_icon_16 = '/config/fancymenu/assets/created-icon-16.png';
 
 
