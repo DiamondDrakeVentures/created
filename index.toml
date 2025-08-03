@@ -69,6 +69,18 @@ file = "config/fancymenu/assets/created-button.png"
 hash = "b1970c707af0d621b97f0c595c9c66e31b525fcb31d75f799b5149bd5f33ee4a"
 
 [[files]]
+file = "config/fancymenu/assets/created-icon-16.png"
+hash = "2fa5de1382e01126180ba19d5cba92120e245b0222a7aaa0e6a6000d65b17f17"
+
+[[files]]
+file = "config/fancymenu/assets/created-icon-32.png"
+hash = "7fcb7e62205f739349d1130360ffb7b0502fbba4b4ec53451090b0ea05b53427"
+
+[[files]]
+file = "config/fancymenu/assets/created-icon.icns"
+hash = "a7a772c8a9e67def41201a6b65bb038a6834bf716800652e62efcbbcabd07875"
+
+[[files]]
 file = "config/fancymenu/assets/created-title-placeholder.png"
 hash = "de06bfe2d551a97d566c8efc3ae2fafc36144af7e8d1b14e6db3a45d774fdff1"
 
@@ -102,7 +114,7 @@ hash = "042523ff8c33f2b67bd758498fe6c48577c501e8d4bbe11aa3d19761443f6851"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "b9154515332a8fbffa1a60d76d4027a03073014715e51ce12c5f6af61f9c1bb4"
+hash = "25c7acdb06ddab4767661efc35c9a087ca1eab824f0c275ab7f807481d52f7c4"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
