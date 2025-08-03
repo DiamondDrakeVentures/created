@@ -1,0 +1,35 @@
+name: Pack index up-to-date
+on:
+  push:
+    paths-ignore:
+      - README.md
+      - CHANGELOG.md
+      - "tools/**"
+  pull_request:
+    paths-ignore:
+      - README.md
+      - CHANGELOG.md
+      - "tools/**"
+  workflow_dispatch:
+
+jobs:
+  packwiz-index:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-go@v5
+      - name: Install Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      - name: Update pack index
+        run: packwiz refresh
+      - name: Assert pack index unchanged
+        run: |
+          if git status --porcelain | grep -q .; then
+            echo "::error::Pack index changed!"
+            git status
+            git diff
+          else
+            echo "No change detected."
+          fi
