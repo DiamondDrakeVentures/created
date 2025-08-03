@@ -10,6 +10,7 @@ lost+found
 
 # Stack ignores
 .github/
+CHANGELOG.md
 README.md
 *.mrpack
 *.zip
