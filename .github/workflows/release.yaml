@@ -1,0 +1,100 @@
+name: Release pack
+on:
+  push:
+    tags:
+      - "*"
+
+permissions:
+  contents: write
+
+jobs:
+  prepare-release:
+    runs-on: ubuntu-24.04
+    outputs:
+      version-id: ${{ steps.get_vars.outputs.VERSION_ID }}
+      tag-name: ${{ steps.get_vars.outputs.TAG_NAME }}
+      archive-name: ${{ steps.get_vars.outputs.ARCHIVE_NAME }}
+      changelog: ${{ steps.body.outputs.CHANGELOG }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-go@v5
+      - name: Install Changelog
+        run: go install github.com/ghifari160/changelog@latest
+      - name: Setup variables
+        id: get_vars
+        run:
+          TAG=${GITHUB_REF/refs\/tags\//}
+          echo "VERSION_ID=${TAG#v}" >> $GITHUB_ENV
+          echo "VERSION_ID=${TAG#v}" >> $GITHUB_OUTPUT
+          echo "TAG_NAME=$TAG" >> $GITHUB_ENV
+          echo "TAG_NAME=$TAG" >> $GITHUB_OUTPUT
+          echo "ARCHIVE_NAME=created-{0}-{1}.mrpack" >> $GITHUB_ENV
+          echo "ARCHIVE_NAME=created-{0}-{1}.mrpack" >> $GITHUB_OUTPUT
+      - name: Fetch release body
+        id: release
+        uses: cardinalby/git-get-release-action@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          releaseName: ${{ env.TAG_NAME }}
+          draft: true
+          doNotFailIfNotFound: true
+      - name: Write release body
+        id: body
+        env:
+          RELEASE_BODY: ${{ steps.release.outputs.body }}
+        run:
+          echo "$RELEASE_BODY" >> RELEASE.md
+          echo "## Changelog" >> RELEASE.md
+          changelog get -v $VERSION_ID >> RELEASE.md
+          echo "CHANGELOG=$(changelog get -v $VERSION_ID)" >> $GITHUB_OUTPUT
+      - name: Update release
+        uses: Wandalen/wretry.action@v3
+        with:
+          action: ncipollo/release-action@v1
+          attempt_limit: 5
+          attempt_delay: 250
+          with: |
+            allowUpdates: true
+            name: ${{ env.TAG_NAME }}
+            draft: true
+            tag: ${{ env.VERSION_ID }}
+            bodyFile: RELEASE.md
+
+  release-modrinth:
+    needs: prepare-release
+    runs-on: ubuntu-24.04
+    env:
+      VERSION_ID: ${{ needs.prepare-release.outputs.version-id }}
+      TAG_NAME: ${{ needs.prepare-release.outputs.tag-name }}
+      ARCHIVE_NAME: ${{ format(needs.prepare-release.outputs.archive-name, '1.21.1', needs.prepare-release.outputs.version-id) }}
+      CHANGELOG: ${{ needs.prepare-release.outputs.changelog }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - uses: actions/setup-go@v5
+      - name: Install Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      - name: Export pack
+        run: packwiz modrinth export -o $ARCHIVE_NAME
+      - name: Archive pack
+        uses: actions/upload-artifact@v4
+        with:
+          name: pack
+          path: ${{ env.ARCHIVE_NAME }}
+      - name: Update release
+        uses: Wandalen/wretry.action@v3
+        with:
+          action: ncipollo/release-action@v1
+          attempt_limit: 5
+          attempt_delay: 250
+          with: |
+            allowUpdates: true
+            name: ${{ env.TAG_NAME }}
+            draft: false
+            tag: ${{ env.VERSION_ID }}
+            omitBodyDuringUpdate: true
+            replacesArtifacts: false
