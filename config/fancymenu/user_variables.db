@@ -2,7 +2,6 @@ type = user_variables
 
 variable {
   name = ddv.server
-  value = localhost
+  value = created.diamonddrake.co
   reset_on_launch = false
 }
-

@@ -106,7 +106,7 @@ hash = "b9154515332a8fbffa1a60d76d4027a03073014715e51ce12c5f6af61f9c1bb4"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "f3d320f55ba26c595e9974ae703075330d6521ba74ac080e4f87ca94840b5453"
+hash = "9bbdaaf3cc126b1cb7d7de511f1b9756f89663b4b30bef8e3ad05473f3e4c327"
 
 [[files]]
 file = "config/waystones-common.toml"
