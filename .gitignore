@@ -15,4 +15,7 @@ lost+found
 .vscode
 
 # Project ignores
+licenses.csv
 server/
+tools/license_report/license_report
+tools/make_server_both/make_server_both
