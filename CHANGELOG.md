@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD024 -->
+
 # Changelog
 
 All notable changes in Create(D) will be documented in this file.
@@ -11,6 +13,333 @@ same Minecraft version (e.g. 1.21.1).
 ## [UNRELEASED]
 
 ### Added
+
+- Added performance mods:
+  - Alternate Current
+  - bad packets
+  - BadOptimizations
+  - Chunky
+  - Clumps
+  - Dynamic FPS
+  - Entity Culling
+  - Fast IP Ping
+  - Fast Item Frames
+  - Fast Paintings
+  - FastQuit
+  - FerriteCore
+  - GpuTape
+  - ImmediatelyFast
+  - Lithium
+  - ModernFix
+  - Noisium
+  - Observable
+  - Packet Fixer
+  - Sodium
+  - Sodium Extra
+  - spark
+  - Structure Layout Optimizer
+- Added QoL mods:
+  - AppleSkin
+  - Automatic Tool Swap
+  - Bad Wither No Coookie - Reloaded
+  - Better Advancements
+  - Better dispenser crafting recipe
+  - Better Safe Bed
+  - Better Third Person
+  - Better Tridents
+  - BetterF3
+  - Boat Item View
+  - Carry On
+  - Chat Heads
+  - Chunks fade in
+  - Cobweb
+  - Comfortable Campfires
+  - Comforts
+  - Companion
+  - Controlling
+  - Crash Assistant
+  - Cubes Without Borders
+  - Custom Nether Portal
+  - Customizable Elytra
+  - Death Backup
+  - Default Options
+  - Despawning Eggs Hatch
+  - Ding
+  - Disable End Portals
+  - Do a Barrel Roll
+  - Double Doors
+  - Elytra Slot
+  - Elytra Trims
+  - Emojiful
+  - Fated Inventory
+  - FindMe
+  - Glass Breaker
+  - Hand Over Your Items
+  - Horse Expert
+  - Infinite Trading
+  - InvMove
+  - Just Enough Archaeology
+  - Just Enough Beacons Reforged
+  - Just Enough Breeding
+  - Just Enough Effect Descriptions
+  - Just Enough Items
+  - Just Enough Professions
+  - Just Enough Resources
+  - KleeSlabs
+  - Longer Chat History
+  - Lootr
+  - Maintenance Mode
+  - Max Health Fix
+  - Measurements
+  - MixinTrace Reforged
+  - Model Gap Fix
+  - Mouse Tweaks
+  - Neruina - Ticking Entity Fixer
+  - NetherPortalFix
+  - No Chat Reports
+  - No Telemetry
+  - OAuth Account Manager
+  - Ping Wheel
+  - Reese's Sodium Options
+  - RightClickHarvest
+  - Scaffolding Drops Nearby
+  - Scholar
+  - Screenshot to Clipboard
+  - Screenshot Viewer
+  - Server Chat Sync
+  - Sign Copy
+  - Sit
+  - Smithing Template Viewer
+  - SophisticatedFix
+  - SwingThrough
+  - Too Fast
+  - TrashSlot
+  - VoidTotem
+  - Wall-Jump TXF
+  - Weaker Spiderwebs
+  - WorldEdit
+  - WorldEdit CUI
+  - Yeetus Experimentus
+  - Zume
+- Added Create ecosystem mods:
+  - Create
+  - Create Compressed
+  - Create Encased
+  - Create Extra Casing
+  - Create Jetpack
+  - Create Mechanical Extruder
+  - Create Mechanical Spawner
+  - Create More: Parallel Pipes
+  - Create Ore Excavation
+  - Create Railways Navigator
+  - Create Slice & Dice
+  - Create Smart Bounds
+  - Create Train Parts
+  - Create Train Tank Mod
+  - Create Train Utilities
+  - Create: Aquatic Ambitions
+  - Create: Bells & Whistles
+  - Create: Central Kitchen
+  - Create: Connected
+  - Create: Copycats+
+  - Create: Curious Jetpack & Backtank
+  - Create: Delivery Director
+  - Create: Design n' Decor
+  - Create: Diesel Genrators
+  - Create: Dragons Plus
+  - Create: Dreams & Desires
+  - Create: Drinks
+  - Create: Easy Stone Generators
+  - Create: Easy Structures
+  - Create: Enchantment Industry
+  - Create: Escalated
+  - Create: Extended Wrenches
+  - Create: Extra Gauges
+  - Create: Framed
+  - Create: Garnished
+  - Create: Hypertubes
+  - Create: Integrated Farming
+  - Create: Lazy Engines
+  - Create: Liquid Fuel
+  - Create: Misc and Things
+  - Create: Molten Vents
+  - Create: New Beginnings
+  - Create: Numismatics
+  - Create: Oxidized
+  - Create: Peaceful
+  - Create: Portable Packaging
+  - Create: Power Loader
+  - Create: Quality of Life
+  - Create: Simple Ore Doubling
+  - Create: Sound of Steam
+  - Create: Synthetic Pressure
+  - Create: Trading floor
+  - Create: Trimmed
+  - Create: Ultimate Factory
+  - Create: Vibrant Vaults
+  - Create: Winery
+- Added mapping and navigation mods:
+  - AA4 Atlas
+  - Antique Atlas
+  - Antique Trains
+  - Chalk
+  - Surveyor Map Framework
+  - Towers of the Wild Modded
+  - Waystones
+- Added compatibility mods:
+  - Architectury API
+  - Better Beds
+  - Connector
+  - Every Compat (Stone Zone)
+  - Every Compat (Wood Good)
+  - Forgified Fabric API
+  - InvMoveCompats
+  - Iris & Oculus Flywheel Compat
+  - Kotlin for Forge
+  - KotlinLangForge
+  - Macaw's Biomes O' Plenty
+  - Rechiseled: Create
+  - Sophisticated Backpacks Create Integration
+  - Sophisticated Storate Create Integration
+  - Sophisticated Storage in Motion
+- Added mods:
+  - Additional Lanterns
+  - AddonsLib
+  - Advancement Plaques
+  - Almanac
+  - Amendments
+  - Aquatic Additions
+  - Armor Statues
+  - Balm
+  - Bedspreads
+  - Berry Good
+  - Better Archeology
+  - Better Combat
+  - Biomes O' Plenty
+  - Block Runner
+  - Bookshelf
+  - Caelus API
+  - CERBON's API
+  - Chef's Delight
+  - Clayworks
+  - Cloth Config API
+  - Coastal Waves
+  - Collective
+  - Continuity
+  - Corn Delight
+  - CraterLib
+  - Critter Armory
+  - Curios API
+  - Custom Credits
+  - Death Counter
+  - Death Finder
+  - DragonLib
+  - Drippy Loading Screen
+  - Easy Magic
+  - Ecologics
+  - End's Delight
+  - Ender Dragon Fight Remastered
+  - Entity Model Features
+  - Entity Texture Features
+  - Expanded Delight
+  - Extended Bone Meal
+  - FancyMenu
+  - Farmer's Delight
+  - Forgeshot
+  - Friends&Foes - Beekeeper Hut
+  - Friends&Foes - Flowery Moonblooms
+  - Friends&Foes
+  - Fright's Delight
+  - Fusion (Connected Textures)
+  - Fzzy Config
+  - GlitchCore
+  - Iceberg
+  - iChunUtil
+  - Iris Shaders
+  - Item Borders
+  - Item Highlighter
+  - Item Obliterator
+  - JamLib
+  - Kiwi
+  - Konkrete
+  - Macaw's Bridges
+  - Macaw's Doors
+  - Macaw's Fences and Walls
+  - Macaw's Furniture
+  - Macaw's Holidays
+  - Macaw's Lights and Lamps
+  - Macaw's Paintings
+  - Macaw's Paths and Pavings
+  - Macaw's Roofs
+  - Macaw's Stairs
+  - Macaw's Trapdoors
+  - Macaw's Windows
+  - Mechanicals Lib
+  - Melody
+  - Moonlight Lib
+  - MultiBeds
+  - My Nether's Delight
+  - Mysterious Mountain Lib
+  - Necronomicon API
+  - Nether Weather
+  - Not Enough Animations
+  - Ocean's Delight
+  - Panda's Falling Tree's
+  - PandaLib
+  - Paxi
+  - Pehkui
+  - playerAnimator
+  - Prickle
+  - Prism
+  - Puzzles Lib
+  - Random Shulker Colours
+  - Realistic Bees
+  - Rechiseled
+  - Resourceful Config
+  - Resourceful Lib
+  - Responsive Shields
+  - Searchables
+  - SetiphianCore
+  - Simple Discord RPC
+  - Simple Voice Chat
+  - Simply Swords
+  - Size Shifting Potions
+  - Snow Under Trees
+  - Snow! Real Magic!
+  - Sophisticated Backpack/Storage Emerald Upgrade
+  - Sophisticated Backpacks
+  - Sophisticated Core
+  - Sophisticated Storage
+  - Soul Fire'd
+  - Storage Labels
+  - SuperMartijn642's Config Lib
+  - SuperMartijn642's Core Lib
+  - Supplementaries
+  - TerraBlender
+  - Tiny Item Animations
+  - Tips
+  - Too Many Paintings!
+  - U Team Core
+  - Wavey Capes
+  - Woodworks
+  - YetAnotherConfigLib (YACL)
+  - YUNG's API
+  - YUNG's Better Desert Temples
+  - YUNG's Better Dungeons
+  - YUNG's Better End Island
+  - YUNG's Better Jungle Temples
+  - YUNG's Better Mineshafts
+  - YUNG's Better Nether Fortresses
+  - YUNG's Better Ocean Monuments
+  - YUNG's Better Strongholds
+  - YUNG's Better Witch Huts
+  - YUNG's Bridges
+- Added shaders:
+  - BSL
+  - Complementary Shaders - Reimagined
+  - Complementary Shaders - Unbound
+  - Photon Shaders
+  - Rethinking Voxels
 
 ### Changed
 
