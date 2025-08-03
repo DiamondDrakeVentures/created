@@ -106,7 +106,7 @@ hash = "1a88e2d5e1c9f9b1c489e3eae00c12053e70e24b9dfcb5bac36c842cb397e4d2"
 
 [[files]]
 file = "config/fancymenu/customization/ddv_title_screen_layout.txt"
-hash = "0df3245a10eec1326045dbf1a22ee99f4d8591e99cf3d3963fe73ea9ae7b9980"
+hash = "47bc88fd63397035cba4ace642387c65735734c5ee7e9cea19ada5a6bd4bb470"
 
 [[files]]
 file = "config/fancymenu/customization/ddv_universal_layout.txt"

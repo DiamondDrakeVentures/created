@@ -22,6 +22,8 @@ same Minecraft version (e.g. 1.21.1).
 
 ### Fixed
 
+- Fixed an issue where the title screen footer can sometimes overlap with the options button.
+
 ### Security
 
 ## [0.1.0] - 2025-08-03
