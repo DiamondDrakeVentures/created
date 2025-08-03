@@ -14,7 +14,6 @@ jobs:
       version-id: ${{ steps.get_vars.outputs.VERSION_ID }}
       tag-name: ${{ steps.get_vars.outputs.TAG_NAME }}
       archive-name: ${{ steps.get_vars.outputs.ARCHIVE_NAME }}
-      changelog: ${{ steps.body.outputs.CHANGELOG }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -24,7 +23,7 @@ jobs:
         run: go install github.com/ghifari160/changelog@latest
       - name: Setup variables
         id: get_vars
-        run:
+        run: |
           TAG=${GITHUB_REF/refs\/tags\//}
           echo "VERSION_ID=${TAG#v}" >> $GITHUB_ENV
           echo "VERSION_ID=${TAG#v}" >> $GITHUB_OUTPUT
@@ -45,11 +44,10 @@ jobs:
         id: body
         env:
           RELEASE_BODY: ${{ steps.release.outputs.body }}
-        run:
+        run: |
           echo "$RELEASE_BODY" >> RELEASE.md
           echo "## Changelog" >> RELEASE.md
           changelog get -v $VERSION_ID >> RELEASE.md
-          echo "CHANGELOG=$(changelog get -v $VERSION_ID)" >> $GITHUB_OUTPUT
       - name: Update release
         uses: Wandalen/wretry.action@v3
         with:
@@ -70,7 +68,6 @@ jobs:
       VERSION_ID: ${{ needs.prepare-release.outputs.version-id }}
       TAG_NAME: ${{ needs.prepare-release.outputs.tag-name }}
       ARCHIVE_NAME: ${{ format(needs.prepare-release.outputs.archive-name, '1.21.1', needs.prepare-release.outputs.version-id) }}
-      CHANGELOG: ${{ needs.prepare-release.outputs.changelog }}
     steps:
       - uses: actions/checkout@v4
         with:
