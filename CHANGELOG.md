@@ -10,7 +10,7 @@ However, each version is only backwards compatible within the same Game Version.
 For example, v1.2.0 is backwards compatible with v1.0.0 as long as they are both installed on the
 same Minecraft version (e.g. 1.21.1).
 
-## [UNRELEASED]
+## [0.1.0] - 2025-08-03
 
 ### Added
 
@@ -340,13 +340,3 @@ same Minecraft version (e.g. 1.21.1).
   - Complementary Shaders - Unbound
   - Photon Shaders
   - Rethinking Voxels
-
-### Changed
-
-### Deprecated
-
-### Removed
-
-### Fixed
-
-### Security
