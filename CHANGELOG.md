@@ -14,6 +14,9 @@ same Minecraft version (e.g. 1.21.1).
 
 ### Added
 
+- Added Load Support to prevent game launch when minimum memory requirement is unmet.
+  The minimum requirement is 4 GB.
+
 ### Changed
 
 - Changed the invite-only server button from `DDV` to `Create(D) SMP`.

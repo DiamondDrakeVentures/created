@@ -1,0 +1,13 @@
+name = "Load Support"
+filename = "loadsupport-neoforge-1.21.1-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bnO15g6H/versions/pvzDBir7/loadsupport-neoforge-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "4b430ba2844b8a746471221ec5168df0060e449921d77261afc8332870b0dae00fdb552334c794568f9dec7cf809226a7a9b0b936f086b2477892af8c0fa526b"
+
+[update]
+[update.modrinth]
+mod-id = "bnO15g6H"
+version = "pvzDBir7"

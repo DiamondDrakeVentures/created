@@ -26,7 +26,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "b196d98453c6bd28c40ac3b21d6f141451cb82fa665a126750c19a12abbc3cfb"
+hash = "e945ef874a2fa8cd9cbe913412948c0c72f3d318f7ffaa94b58cf3f568a841e7"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -119,6 +119,10 @@ hash = "98fd2d2525df91f4da4ace83f5e887bfb97431601eca468b21f183afd1e2d7a1"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "9bbdaaf3cc126b1cb7d7de511f1b9756f89663b4b30bef8e3ad05473f3e4c327"
+
+[[files]]
+file = "config/loadsupport.toml"
+hash = "7ccbfd542d699a4da6472b5e23e5bf388e959dda1ccfb66694dcaadb4983aa41"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -1087,6 +1091,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/loadsupport.pw.toml"
+hash = "158122a35494206c28763f248721583c1e06624505a9c5f7f83d4522809f0f61"
 metafile = true
 
 [[files]]

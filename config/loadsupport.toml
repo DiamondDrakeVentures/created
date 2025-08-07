@@ -1,0 +1,6 @@
+loadFinishSound = ""
+minMemory = 4.0
+errorTitle = "Error: Not enough Java memory!"
+errorMinMemory = "Please allocate at least {minMemory} GB of Java memory to your Minecraft instance!"
+errorCurrentMemory = "You have currently {currentMemory} GB allocated."
+memoryInfoLink = "https://github.com/vaporvee/LoadSupport/wiki/How-to-allocate-more-memory-to-your-Minecraft-instance"

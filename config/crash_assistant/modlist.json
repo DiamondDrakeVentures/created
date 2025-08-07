@@ -933,6 +933,11 @@
     "modId": "lithium",
     "version": "0.15.0+mc1.21.1"
   },
+  "loadsupport-neoforge-1.21.1-1.2.1.jar": {
+    "jarName": "loadsupport-neoforge-1.21.1-1.2.1.jar",
+    "modId": "loadsupport",
+    "version": "1.2.1"
+  },
   "LongerChatHistory-neoforge-1.7.jar": {
     "jarName": "LongerChatHistory-neoforge-1.7.jar",
     "modId": "longerchathistory",
