@@ -1,0 +1,13 @@
+name = "Create Bugfix: Clipboard Patch"
+filename = "create_bugfix_clipboard_patch-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AonjKlxh/versions/ppBKgn9J/create_bugfix_clipboard_patch-1.0.0.jar"
+hash-format = "sha512"
+hash = "4eac2705b8475b6cb500b8555a828f4cb9e72bdfe47eca6348f975ff65bdbfe9e953a5a7b5905578795f51baf159d8c9dda1eabc08004da57a9f03c75d735507"
+
+[update]
+[update.modrinth]
+mod-id = "AonjKlxh"
+version = "ppBKgn9J"

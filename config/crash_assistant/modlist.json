@@ -341,6 +341,16 @@
     "modId": "create_aquatic_ambitions",
     "version": "1.21.1-2.0.1"
   },
+  "create_bugfix_clipboard_patch-1.0.0.jar": {
+    "jarName": "create_bugfix_clipboard_patch-1.0.0.jar",
+    "modId": "clipboard_patch",
+    "version": "1.0.0"
+  },
+  "Create_Bugfix_Schematic_Patch-1.0.0.jar": {
+    "jarName": "Create_Bugfix_Schematic_Patch-1.0.0.jar",
+    "modId": "schematicsfix",
+    "version": "1.0.0"
+  },
   "create_compressed-2.2.0-neoforge-1.21.1.jar": {
     "jarName": "create_compressed-2.2.0-neoforge-1.21.1.jar",
     "modId": "create_compressed",

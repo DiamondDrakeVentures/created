@@ -26,7 +26,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "6f3d24d016efa85791cc8841b54ffd7b2f683c3d4c87b6013239a0681c3ce967"
+hash = "5147a069239b61ba4aa396d0650751e5697ed16e2f2cdc188d0b48820a13e2ff"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -440,6 +440,16 @@ metafile = true
 [[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
 hash = "4307091fcb4796398e968c0a446654ef25c216ee0c269c82fbaa034b92071314"
+metafile = true
+
+[[files]]
+file = "mods/create-bugfix-clipboard-patch.pw.toml"
+hash = "110da5b3880952d29c0e7e0eeb266baa594f0cfdcf5d5a0ff07b8e7e3f44b5c6"
+metafile = true
+
+[[files]]
+file = "mods/create-bugfix-schematic-patch.pw.toml"
+hash = "b8f0f6f437ba24359a4b626547afb1f4ef544de6d694f7e3aa863c6c1391277d"
 metafile = true
 
 [[files]]
