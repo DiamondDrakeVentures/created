@@ -26,7 +26,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "7cc6c13f8197ccec73a8fcf9c6247677020cbb6dcefcbf662ac470db67a03164"
+hash = "cd52027daf9717f09c6e19c99e348f52ebb3e3fc16022b8226b7c3bc4c7deebc"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -1050,6 +1050,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "8d3e669a813af2e685efafeca797f95ad8a99c344078e72d2ce0ee1273369bd8"
+metafile = true
+
+[[files]]
+file = "mods/just-blahaj.pw.toml"
+hash = "7491e9214448052eb36f7cd4a66cf8d492b4569f666d1d3c412f3e81df38e4a9"
 metafile = true
 
 [[files]]
