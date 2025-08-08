@@ -30,6 +30,7 @@ jobs:
             echo "::error::Pack index changed!"
             git status
             git diff
+            exit 1
           else
             echo "No change detected."
           fi
