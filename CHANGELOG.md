@@ -20,6 +20,13 @@ same Minecraft version (e.g. 1.21.1).
 - Added Create Bugfix mods:
   - Create Bugfix: Clipboard Patch
   - Create Bugfix: Schematic Patch
+- Added Quality of Life mods:
+  - Cherished World
+  - Effect Insights
+  - Enchantment Descriptions
+  - Modern World Creation
+  - Superflat World No Slimes
+  - Updating World Icon
 
 ### Changed
 

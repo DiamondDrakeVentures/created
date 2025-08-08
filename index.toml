@@ -26,7 +26,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "5147a069239b61ba4aa396d0650751e5697ed16e2f2cdc188d0b48820a13e2ff"
+hash = "7cc6c13f8197ccec73a8fcf9c6247677020cbb6dcefcbf662ac470db67a03164"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -345,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "335d98debb12256815368fb77a3bec68b017c1bbf5969763087cd96f43c9a6ae"
+metafile = true
+
+[[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "63f417eca4f251f85a5ae512394cbb9fa88dfdfb2b934b94637ba8b7dac1a831"
 metafile = true
 
 [[files]]
@@ -793,6 +798,11 @@ hash = "ccd5ce47b97cdde28dbea9c3b3d49b5b89229ce5e260311688eb4a41182e5b78"
 metafile = true
 
 [[files]]
+file = "mods/effect-insights.pw.toml"
+hash = "e5b6e0e69276f5dcc5adb13db923679b6f2a4ccc3cf828f3adff24e4308db307"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
@@ -805,6 +815,11 @@ metafile = true
 [[files]]
 file = "mods/emojiful.pw.toml"
 hash = "08196e1229f323cc1eaf5969b93111705e8302a02d2acf134956f735f69e02c4"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
 
 [[files]]
@@ -1228,6 +1243,11 @@ hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
 
 [[files]]
+file = "mods/modern-world-creation.pw.toml"
+hash = "db66914d9b56888814b4135142661f98a632b1ab666da823d8cb2f6c7dfc9348"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
@@ -1563,6 +1583,11 @@ hash = "f91215e903b1a2a168961c2a51660f9e7f9f80ed1bdd575566f08a01b8a643bd"
 metafile = true
 
 [[files]]
+file = "mods/superflat-world-no-slimes.pw.toml"
+hash = "3d756e2aa497f9411cd1ff15fabe9084e4b51be586ac3d51d2ab1ef22b822203"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
@@ -1625,6 +1650,11 @@ metafile = true
 [[files]]
 file = "mods/u-team-core.pw.toml"
 hash = "89afc3b671b36c0cb2eb24a88d00f45b534be3f63d9f24a0d4ac004e1ca61c45"
+metafile = true
+
+[[files]]
+file = "mods/updating-world-icon.pw.toml"
+hash = "049242d53616cd1cafd66ef3f122ab9faa52c9e0713cb5ad751e1a9339ba94a1"
 metafile = true
 
 [[files]]

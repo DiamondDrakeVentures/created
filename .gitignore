@@ -18,4 +18,6 @@ lost+found
 licenses.csv
 server/
 tools/license_report/license_report
+tools/license_report/license_report.exe
 tools/make_server_both/make_server_both
+tools/make_server_both/make_server_both.exe

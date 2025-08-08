@@ -1,0 +1,13 @@
+name = "Effect Insights"
+filename = "EffectDescriptions-v21.1.1-1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kw73iLDq/versions/gKgYWwEQ/EffectDescriptions-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "021336f44f9966da2089a813421601f2607646394f66762e673f4de644858fc0d4c3ee33bd376bb32bde2cd8ea592c7869a8c06a36ad7c157fbace4ae53a12c2"
+
+[update]
+[update.modrinth]
+mod-id = "Kw73iLDq"
+version = "gKgYWwEQ"

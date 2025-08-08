@@ -1,0 +1,13 @@
+name = "Updating World Icon"
+filename = "Updating World Icon-neoforge-1.21.1-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZlX3EVmE/versions/qEFip2XZ/Updating%20World%20Icon-neoforge-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "deb739557f9edc3eadafb247b1aca04504b9e314e0f3344f8ec7846a2c363e3a40718a26f958da93bd03c2556c8f070add1c69d32d33b8fb9419cdd2c881ff59"
+
+[update]
+[update.modrinth]
+mod-id = "ZlX3EVmE"
+version = "qEFip2XZ"
