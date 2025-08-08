@@ -26,7 +26,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "e945ef874a2fa8cd9cbe913412948c0c72f3d318f7ffaa94b58cf3f568a841e7"
+hash = "6f3d24d016efa85791cc8841b54ffd7b2f683c3d4c87b6013239a0681c3ce967"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -123,6 +123,10 @@ hash = "9bbdaaf3cc126b1cb7d7de511f1b9756f89663b4b30bef8e3ad05473f3e4c327"
 [[files]]
 file = "config/loadsupport.toml"
 hash = "7ccbfd542d699a4da6472b5e23e5bf388e959dda1ccfb66694dcaadb4983aa41"
+
+[[files]]
+file = "config/saturn-optimizations.toml"
+hash = "4e71aa46661b461100c7f71fc134213a167ab2b2c9fc5d8f20d46feeb48077b6"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -1391,6 +1395,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "3bc82b2c795f11b9cda1e6aefc6d95cafeb5c1f702be1c9af711094babe0a2f6"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "d36d8736123e9d6dd79466ab908e83fc35529d25001b1a6770f22681c1316277"
 metafile = true
 
 [[files]]

@@ -1233,6 +1233,11 @@
     "modId": "rightclickharvest",
     "version": "4.5.3+1.21.1"
   },
+  "saturn-mc1.21.1-0.1.5.jar": {
+    "jarName": "saturn-mc1.21.1-0.1.5.jar",
+    "modId": "saturn",
+    "version": "0.1.5"
+  },
   "scaffoldingdropsnearby-1.21.1-3.4.jar": {
     "jarName": "scaffoldingdropsnearby-1.21.1-3.4.jar",
     "modId": "scaffoldingdropsnearby",

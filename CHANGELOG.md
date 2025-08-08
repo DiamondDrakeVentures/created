@@ -16,6 +16,7 @@ same Minecraft version (e.g. 1.21.1).
 
 - Added Load Support to prevent game launch when minimum memory requirement is unmet.
   The minimum requirement is 4 GB.
+- Added Saturn to further optimize memory usage.
 
 ### Changed
 
