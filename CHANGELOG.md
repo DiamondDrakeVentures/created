@@ -28,6 +28,7 @@ same Minecraft version (e.g. 1.21.1).
   - Modern World Creation
   - Superflat World No Slimes
   - Updating World Icon
+  - WorldEdit Items
 - Added EMI and add-ons:
   - EMI
   - Distraction Free Recipes

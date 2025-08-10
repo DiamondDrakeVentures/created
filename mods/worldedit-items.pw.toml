@@ -1,0 +1,13 @@
+name = "WorldEdit Items"
+filename = "worldedit_items-2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xBMX8ICO/versions/Ydc7G8p0/worldedit_items-2.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "74483884fbce5d23de479ad45671880b585cd7ebd2ce7a31cc6678cefc3b1e64145f7cff0300646cbb280c82fcf0ab3fdfcfde1160cb0312f00ff2848bf580d6"
+
+[update]
+[update.modrinth]
+mod-id = "xBMX8ICO"
+version = "Ydc7G8p0"

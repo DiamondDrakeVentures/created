@@ -137,6 +137,10 @@ file = "config/waystones-common.toml"
 hash = "817eaa120fd29fdadc03a1ba009da9fdc5a487975a3295a7a03e047c86d5c37c"
 
 [[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "f77882aa51025e80a56daecbad967487351a918e01326980c884a20270971da5"
+
+[[files]]
 file = "mods/aa4-atlas.pw.toml"
 hash = "c7bfef351745f41a87297176947fd72702b07606e74d9d875f3030c0ca971a4d"
 metafile = true
@@ -1729,6 +1733,11 @@ metafile = true
 [[files]]
 file = "mods/woodworks.pw.toml"
 hash = "54e5352e04ab06e8248bfebd62cd13339adf03613ec49d24abbad2d61ac6fc7e"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-items.pw.toml"
+hash = "bc9efcf0652a77b5a1b997d7d3b297098065bddb88348d114c3733edbfde6f04"
 metafile = true
 
 [[files]]
