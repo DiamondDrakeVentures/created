@@ -28,6 +28,17 @@ same Minecraft version (e.g. 1.21.1).
   - Modern World Creation
   - Superflat World No Slimes
   - Updating World Icon
+- Added EMI and add-ons:
+  - EMI
+  - Distraction Free Recipes
+  - EMIffect
+  - EMI Addon: Extra Mod Integrations
+  - EMI: Create Schematics
+  - EMI Enchanting
+  - EMI For Create Stock
+  - EMI Loot
+  - EMI professions (EMIP)
+  - EMI Ores
 
 ### Changed
 
@@ -36,6 +47,12 @@ same Minecraft version (e.g. 1.21.1).
 ### Deprecated
 
 ### Removed
+
+- Removed JEI add-ons:
+  - Just Enough Archaeology
+  - Just Enough Effect Descriptions
+  - Just Enough Professions
+  - Just Enough Resources
 
 ### Fixed
 
