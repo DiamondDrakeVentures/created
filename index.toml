@@ -1341,6 +1341,11 @@ hash = "5a36b7ea6ef010eaf8227dbe485edc1b9f6954660d8e79e9dc87cd79743e8c20"
 metafile = true
 
 [[files]]
+file = "mods/network-protocol-disconnect.pw.toml"
+hash = "0b3980036ac0847ad4b19e0e5dddd5e19e1c2a566cc2597d603194c2e3324bff"
+metafile = true
+
+[[files]]
 file = "mods/nightvision-spyglass.pw.toml"
 hash = "40beb3956ab597f22491ce4d1f7ccd712c9e03b5292dcd7fbb4bf68b6697a8ce"
 metafile = true

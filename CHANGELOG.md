@@ -27,6 +27,7 @@ same Minecraft version (e.g. 1.21.1).
   - Enchantment Descriptions
   - Flourish
   - Modern World Creation
+  - Network Protocol Disconnect
   - Nightvision Spyglass
   - Spyglass Improvements
   - Superflat World No Slimes
