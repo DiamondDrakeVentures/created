@@ -22,7 +22,9 @@ same Minecraft version (e.g. 1.21.1).
   - Create Bugfix: Clipboard Patch
   - Create Bugfix: Schematic Patch
 - Added Quality of Life mods:
+  - Accessories
   - Cherished World
+  - Curious Compat Layer for Accessories
   - Effect Insights
   - Enchantment Descriptions
   - Flourish
@@ -60,6 +62,9 @@ same Minecraft version (e.g. 1.21.1).
   - Just Enough Resources
 - Removed Carry On.
   There are compatibility issues with Carry On.
+- Removed Curious API.
+  Accessories + Curios Compat Layer for Accessories provides the functionality of Curios API.
+  They also conflict with the original Curious API.
 - Removed Zume.
   Spyglass Improvements replaces the functionality of Zume.
 

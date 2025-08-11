@@ -13,6 +13,10 @@ file = "config/NoChatReports/NCR-Encryption.json"
 hash = "04f7add248cf50d97973565bdf0bcfadfbf54817f28af31487c5f59c2f3986dc"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "a9b5f163d47b0eb22b2ed416bbf6f3c276470ba546396caf6e53879876389d5a"
+
+[[files]]
 file = "config/boatiview-client.toml"
 hash = "0c7b914a057e9166de3aeef7ae58021c8da5f836d737a82a1b549838e8a3a473"
 
@@ -143,6 +147,16 @@ hash = "f77882aa51025e80a56daecbad967487351a918e01326980c884a20270971da5"
 [[files]]
 file = "mods/aa4-atlas.pw.toml"
 hash = "c7bfef351745f41a87297176947fd72702b07606e74d9d875f3030c0ca971a4d"
+metafile = true
+
+[[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "8f90a500df28d497fe7e323b40ee55640bc63141284ce2189a7766c976a91378"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "6a87c6e5ead4431ad3ac84d7a81a7f13b88c2d9d598a830a04295096e6efd9f5"
 metafile = true
 
 [[files]]
@@ -703,11 +717,6 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
-metafile = true
-
-[[files]]
-file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -1388,6 +1397,11 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "152f6cfe8ee891ba80faa800dd3df3058be14882f9f8d07cb38eb6a6f96ece4b"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
