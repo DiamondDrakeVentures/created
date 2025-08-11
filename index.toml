@@ -211,6 +211,11 @@ hash = "3cf27ac264fd2fba14dec1c6055284f03b3dfe65d79adb265cb1e02a29ffd92a"
 metafile = true
 
 [[files]]
+file = "mods/ash-api.pw.toml"
+hash = "9369292bea18bb65ba56285a1da5929527b76deb11347ad062b9d82ac1a3b7e0"
+metafile = true
+
+[[files]]
 file = "mods/automatic-tool-swap.pw.toml"
 hash = "c2067aca7090f34de95803f556c9185d57a1a7ec2b0a067b9eb594799ffc1288"
 metafile = true
@@ -973,6 +978,11 @@ metafile = true
 [[files]]
 file = "mods/findme.pw.toml"
 hash = "ef9b249b2052ef6cc08214e63debd2a9a71d60b7fe1353bbff41634c3d6408ca"
+metafile = true
+
+[[files]]
+file = "mods/flourish.pw.toml"
+hash = "2404af0c52eae9244ce080bfd6dba3670851bbdf20149ed7ca226295cfbd71f0"
 metafile = true
 
 [[files]]

@@ -25,6 +25,7 @@ same Minecraft version (e.g. 1.21.1).
   - Cherished World
   - Effect Insights
   - Enchantment Descriptions
+  - Flourish
   - Modern World Creation
   - Superflat World No Slimes
   - Updating World Icon
