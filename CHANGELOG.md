@@ -27,6 +27,8 @@ same Minecraft version (e.g. 1.21.1).
   - Enchantment Descriptions
   - Flourish
   - Modern World Creation
+  - Nightvision Spyglass
+  - Spyglass Improvements
   - Superflat World No Slimes
   - Updating World Icon
   - WorldEdit Items
@@ -57,6 +59,8 @@ same Minecraft version (e.g. 1.21.1).
   - Just Enough Resources
 - Removed Carry On.
   There are compatibility issues with Carry On.
+- Removed Zume.
+  Spyglass Improvements replaces the functionality of Zume.
 
 ### Fixed
 

@@ -1341,6 +1341,11 @@ hash = "5a36b7ea6ef010eaf8227dbe485edc1b9f6954660d8e79e9dc87cd79743e8c20"
 metafile = true
 
 [[files]]
+file = "mods/nightvision-spyglass.pw.toml"
+hash = "40beb3956ab597f22491ce4d1f7ccd712c9e03b5292dcd7fbb4bf68b6697a8ce"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
@@ -1621,6 +1626,11 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
+metafile = true
+
+[[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "ab7339fcc350e14d194293e720af9776851b402b343abc16371937858ea64f10"
 metafile = true
@@ -1818,11 +1828,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "c5e5f5aed37edd8073ec736e179b6159530ff497f4fe4c4dfaf954c810910433"
-metafile = true
-
-[[files]]
-file = "mods/zume.pw.toml"
-hash = "434ac58bf0c398eb06d03856a3de1edf30aba72ff11ac953bda99e34132c0376"
 metafile = true
 
 [[files]]

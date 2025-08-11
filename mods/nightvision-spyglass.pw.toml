@@ -1,0 +1,13 @@
+name = "Night Vision Spyglass"
+filename = "nightvision-spyglass-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOl6kTX8/versions/i24czOXq/nightvision-spyglass-1.0.jar"
+hash-format = "sha512"
+hash = "d2ce94e2a0a7173c69e65f2b138ed9535edc8a9a0d2d874051561eca9f083b58d918e2166c14e27abc80ada50ef201802a61251d03ed74a7b7bc62a56666360a"
+
+[update]
+[update.modrinth]
+mod-id = "mOl6kTX8"
+version = "i24czOXq"
