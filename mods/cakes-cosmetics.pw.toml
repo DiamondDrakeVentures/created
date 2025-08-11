@@ -1,0 +1,13 @@
+name = "Cake's Cosmetics"
+filename = "cakescosmetics-1.21.1-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iviBLetS/versions/ctZHFYVu/cakescosmetics-1.21.1-0.3.0.jar"
+hash-format = "sha512"
+hash = "827e0ee6b3994e532b1961e6b4e4625330d94128d3cc65461f08eeca3447d336fd41a7fe298b416b48b6c09ac94b98de18fd2939202b59f00e2875ff6736a8f7"
+
+[update]
+[update.modrinth]
+mod-id = "iviBLetS"
+version = "ctZHFYVu"

@@ -350,6 +350,11 @@ hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
 
 [[files]]
+file = "mods/cakes-cosmetics.pw.toml"
+hash = "0d200cbc3af02a584c310d9e89002e50da571b3c5dc908ab48bdd50b0cce5495"
+metafile = true
+
+[[files]]
 file = "mods/cerbons-api.pw.toml"
 hash = "479dab388743fb59d3399d2d87a0a7dc0819a4184b74f734fa9cc1eecdd6f6f6"
 metafile = true
@@ -1027,6 +1032,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "b83675c9b88fcd909a7e1a0d93f8bfb06431f8f9f249d690520ba11e738c4402"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "9e80e6f2a680b052f2a66ade20a5abbd98a0abbebde6f30472d6ae6b993e9464"
 metafile = true
 
 [[files]]

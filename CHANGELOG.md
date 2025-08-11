@@ -47,6 +47,8 @@ same Minecraft version (e.g. 1.21.1).
   - EMI Loot
   - EMI professions (EMIP)
   - EMI Ores
+- Added cosmetic mods:
+  - Cake's Cosmetics
 
 ### Changed
 
