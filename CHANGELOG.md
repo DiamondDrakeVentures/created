@@ -49,6 +49,8 @@ same Minecraft version (e.g. 1.21.1).
   - EMI Ores
 - Added cosmetic mods:
   - Cake's Cosmetics
+- Added immersion mods:
+  - Northern Compass
 
 ### Changed
 

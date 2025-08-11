@@ -1385,6 +1385,11 @@ hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
 
 [[files]]
+file = "mods/northerncompass.pw.toml"
+hash = "fd2db1d40d4a12bb157a9ad4da34a7f926b860f32ebfb759dc1d0b25d734e08a"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "357a22e9cc8fadd4a31868b4a23ced6abbdd095eafd1e92daf048807806474cf"
 metafile = true

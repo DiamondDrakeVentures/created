@@ -1,0 +1,13 @@
+name = "Northern Compass"
+filename = "NorthernCompass-NeoForge-1.21-1.1.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5QyCeANZ/versions/FLOcthPK/NorthernCompass-NeoForge-1.21-1.1.3.jar"
+hash-format = "sha512"
+hash = "19a06e489e570e7a848162dcbbda14b7cf30c6bbf86122b4afc347105662580a43c3cf10bd835f6afb6f08db31e1bf6c209882e43d853bc023f3fd6b6ff971e1"
+
+[update]
+[update.modrinth]
+mod-id = "5QyCeANZ"
+version = "FLOcthPK"
