@@ -129,6 +129,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "9bbdaaf3cc126b1cb7d7de511f1b9756f89663b4b30bef8e3ad05473f3e4c327"
 
 [[files]]
+file = "config/immersiveoverlays.json"
+hash = "b3992d30c2a1606504e38d6036b58381e20204dfa948383a9ea624277b71f09d"
+
+[[files]]
 file = "config/loadsupport.toml"
 hash = "7ccbfd542d699a4da6472b5e23e5bf388e959dda1ccfb66694dcaadb4983aa41"
 
@@ -1082,6 +1086,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
+metafile = true
+
+[[files]]
+file = "mods/immersive-overlays.pw.toml"
+hash = "e46bed83d1578fc626e95518d8415b53b9150ff69f2de4a3445a215f1b474699"
 metafile = true
 
 [[files]]
