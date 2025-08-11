@@ -55,6 +55,8 @@ same Minecraft version (e.g. 1.21.1).
   - Just Enough Effect Descriptions
   - Just Enough Professions
   - Just Enough Resources
+- Removed Carry On.
+  There are compatibility issues with Carry On.
 
 ### Fixed
 
