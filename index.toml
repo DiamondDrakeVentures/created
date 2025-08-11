@@ -1740,6 +1740,11 @@ hash = "049242d53616cd1cafd66ef3f122ab9faa52c9e0713cb5ad751e1a9339ba94a1"
 metafile = true
 
 [[files]]
+file = "mods/vanity.pw.toml"
+hash = "678ffbe44007654fa572af716c884f604a1368f23959f09740c8cf3701373186"
+metafile = true
+
+[[files]]
 file = "mods/void-totem.pw.toml"
 hash = "d7758954f0c6be6346f05001ca5533c58d98c4114906308b6c34e4f0db6bedf8"
 metafile = true

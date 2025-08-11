@@ -35,6 +35,7 @@ same Minecraft version (e.g. 1.21.1).
   - Superflat World No Slimes
   - Updating World Icon
   - WorldEdit Items
+  - VanitySlots
 - Added EMI and add-ons:
   - EMI
   - Distraction Free Recipes
