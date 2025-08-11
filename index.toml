@@ -1719,6 +1719,11 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/the-ruler.pw.toml"
+hash = "104a3f9d8d5a5cf4faf27957e5503cf8d2f0d533edca474fdd972abae6d08177"
+metafile = true
+
+[[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "922febf9d28f1db3be54a689b99180eaa62f10e92e1df6938e8d5743b801f294"
 metafile = true

@@ -52,6 +52,8 @@ same Minecraft version (e.g. 1.21.1).
 - Added immersion mods:
   - Immersive Overlay
   - Northern Compass
+- Added pack utility mods:
+  - The Ruler
 
 ### Changed
 
