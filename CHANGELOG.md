@@ -58,6 +58,7 @@ same Minecraft version (e.g. 1.21.1).
 ### Changed
 
 - Changed the invite-only server button from `DDV` to `Create(D) SMP`.
+- Enabled `reducedDebugInfo` gamerule.
 
 ### Deprecated
 

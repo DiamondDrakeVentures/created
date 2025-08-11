@@ -141,6 +141,10 @@ file = "config/saturn-optimizations.toml"
 hash = "4e71aa46661b461100c7f71fc134213a167ab2b2c9fc5d8f20d46feeb48077b6"
 
 [[files]]
+file = "config/the_ruler.json"
+hash = "d0b9741bc36af0902e2e967762df2e6827714a3c8cfedd23ab5bf361f49e2840"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "817eaa120fd29fdadc03a1ba009da9fdc5a487975a3295a7a03e047c86d5c37c"
 
