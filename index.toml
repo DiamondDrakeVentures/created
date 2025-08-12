@@ -1693,6 +1693,11 @@ hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
 metafile = true
 
 [[files]]
+file = "mods/status.pw.toml"
+hash = "925f8fcae8b276f47a1579fa9c5a2c8720a2578f4208f65ae73a3a0f6ee7d948"
+metafile = true
+
+[[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "ab7339fcc350e14d194293e720af9776851b402b343abc16371937858ea64f10"
 metafile = true

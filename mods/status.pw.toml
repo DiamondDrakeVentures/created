@@ -1,0 +1,13 @@
+name = "Status"
+filename = "status-fabric-1.21.1-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b93awgkg/versions/nHVFRSfp/status-fabric-1.21.1-1.0.8.jar"
+hash-format = "sha512"
+hash = "25c2823f819809f927c4f532dd7958d8c26d29cfa0b34db3961e4832d5f08172b7daff80f638dfff76e307d4b709fd75c1c1a09390030c67cc4b780f1143c05f"
+
+[update]
+[update.modrinth]
+mod-id = "b93awgkg"
+version = "nHVFRSfp"

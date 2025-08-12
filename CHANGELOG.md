@@ -32,6 +32,7 @@ same Minecraft version (e.g. 1.21.1).
   - Network Protocol Disconnect
   - Nightvision Spyglass
   - Spyglass Improvements
+  - Status
   - Superflat World No Slimes
   - Updating World Icon
   - WorldEdit Items
