@@ -818,6 +818,11 @@ hash = "975f1280c712d2e86dd4ecddf89c516afbf3f1fb684499d3e5c71fc666c4888c"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "d7ca6eaf1169273edc6c1f76d5563dfe2aa3b2605cab47e2df9e49dc0dcbf618"
+metafile = true
+
+[[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "4485332b8ff7be999cc4142ecad55763acdb587df69f748170bf5644f72d5729"
 metafile = true
