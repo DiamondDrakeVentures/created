@@ -56,6 +56,7 @@ same Minecraft version (e.g. 1.21.1).
   - Northern Compass
 - Added pack utility mods:
   - The Ruler
+- Added Brewing Tea Tales.
 
 ### Changed
 

@@ -353,6 +353,11 @@ hash = "293ec22e4e8342a9bd0f338505a14e3794b44cd7ca1e5278a86f41f99c69a3af"
 metafile = true
 
 [[files]]
+file = "mods/brewingteatales.pw.toml"
+hash = "70c5fad28ba2d0d93c7df7f7388f79f273600fff3a5137be5b430e12024ce696"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true

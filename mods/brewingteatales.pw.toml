@@ -1,0 +1,13 @@
+name = "Brewing Tea Tales"
+filename = "brewingteatales+[1.21.1]+v1.0.1+NEOFORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KI1xQfNH/versions/rPBMzHxg/brewingteatales%2B%5B1.21.1%5D%2Bv1.0.1%2BNEOFORGE.jar"
+hash-format = "sha512"
+hash = "4d4139bb031653a5654da789c30af7f42cfd8f104b5c8e1afe5a3fc10da628310f7c673d14b9d373f357d71ee125adb36e1e9f9f6485021f2adacdab2c1b23f8"
+
+[update]
+[update.modrinth]
+mod-id = "KI1xQfNH"
+version = "rPBMzHxg"
