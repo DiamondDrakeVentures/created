@@ -1573,6 +1573,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/searchstats.pw.toml"
+hash = "e0f952317c108547176ca8989c4ecb81b734e642b8ebe7ddf9aae94a10c4dea2"
+metafile = true
+
+[[files]]
 file = "mods/server-chat-sync.pw.toml"
 hash = "c5fd50416e7cabd4c5c69cd527ab9d2d8f5adbb30046501e7340526e232b16de"
 metafile = true

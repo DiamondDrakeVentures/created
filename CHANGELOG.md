@@ -31,6 +31,7 @@ same Minecraft version (e.g. 1.21.1).
   - Modern World Creation
   - Network Protocol Disconnect
   - Nightvision Spyglass
+  - SearchStats
   - Spyglass Improvements
   - Status
   - Superflat World No Slimes
