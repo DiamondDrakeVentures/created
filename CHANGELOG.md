@@ -50,6 +50,7 @@ same Minecraft version (e.g. 1.21.1).
 - Added cosmetic mods:
   - Cake's Cosmetics
 - Added immersion mods:
+  - Connectible Chains
   - Dynamic Crosshair
   - Immersive Overlay
   - Northern Compass
