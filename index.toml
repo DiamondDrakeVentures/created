@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AdvancedBackups-client.properties"
+hash = "0ccf7084062f696c9c2c8255dc74994327a71512cb290f9e2e2b7ff502850b5e"
+
+[[files]]
+file = "config/AdvancedBackups.properties"
+hash = "3801d369e835030931b781c742c1d3fbf5f57b6171784ef3a3b470ceae69c1b2"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "b4cfabec743909d67d6b25d4b90d7526417f3f82410592885a03d68b83bf5952"
 
@@ -175,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/addonslib.pw.toml"
 hash = "39a237218d0f04a95ff015eb8456fef816434e70f5d208420864391e659b06a5"
+metafile = true
+
+[[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "732787f222641ecfed68d2cbf6e498324061b51ebb8ee08af322cefd9c4a91ed"
 metafile = true
 
 [[files]]

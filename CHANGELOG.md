@@ -23,6 +23,7 @@ same Minecraft version (e.g. 1.21.1).
   - Create Bugfix: Schematic Patch
 - Added Quality of Life mods:
   - Accessories
+  - Advanced Backups
   - Cherished World
   - Curious Compat Layer for Accessories
   - Effect Insights
