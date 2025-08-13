@@ -38,7 +38,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "cd52027daf9717f09c6e19c99e348f52ebb3e3fc16022b8226b7c3bc4c7deebc"
+hash = "07b1f0fc7b163cd2bf34913cdcf76a1f70f95e6bb885d1682e49a55e86da4ffa"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
