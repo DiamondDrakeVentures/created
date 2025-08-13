@@ -1270,11 +1270,6 @@ hash = "2e3a2e626d50845fb132d49ce537cdc6d96cdd2e686b2b4abf9ae5910345d6b2"
 metafile = true
 
 [[files]]
-file = "mods/macaws-bridges.pw.toml"
-hash = "c6887c071d6515a39aeb915429304ea9fdae876decde3ad66062c9ba779b16b4"
-metafile = true
-
-[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "702df8b679041c5f459da5a0dc456f70de336810bc69ff726d8c925bf484e99c"
 metafile = true
@@ -1307,16 +1302,6 @@ metafile = true
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
 hash = "4f3d43b696c5081e35eea3cee0588efd5f6b8d547b603b24645fe1edc0b0ba3e"
-metafile = true
-
-[[files]]
-file = "mods/macaws-roofs.pw.toml"
-hash = "b5f1c37740051774214d8dd035df9bac68ddd4d8c71ed8949fdaabd5949829de"
-metafile = true
-
-[[files]]
-file = "mods/macaws-stairs.pw.toml"
-hash = "662593e017611512dfc07d2f3d8cdbc1e9c75c063bcc3921a959dd44dd23af6a"
 metafile = true
 
 [[files]]

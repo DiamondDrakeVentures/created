@@ -89,6 +89,10 @@ same Minecraft version (e.g. 1.21.1).
   Spyglass Improvements replaces the functionality of Zume.
 - Removed Elytra Trims.
   Conflicts with Customizable Elytra and many other things.
+- Removed Macaw's mods:
+  - Macaw's Bridges
+  - Macaw's Roofs
+  - Macaw's Stairs
 
 ### Fixed
 
