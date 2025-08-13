@@ -220,6 +220,11 @@ hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
 metafile = true
 
 [[files]]
+file = "mods/animal-garden-owl.pw.toml"
+hash = "31b13137df9143524847f2bdb49d94e6ba496d30b90277b7494d54d71d052e06"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
 metafile = true
