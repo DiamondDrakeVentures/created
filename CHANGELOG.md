@@ -69,6 +69,7 @@ same Minecraft version (e.g. 1.21.1).
 
 - Changed the invite-only server button from `DDV` to `Create(D) SMP`.
 - Enabled `reducedDebugInfo` gamerule.
+- Bumped Neoforge to 21.1.196.
 
 ### Deprecated
 
