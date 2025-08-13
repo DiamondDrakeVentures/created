@@ -70,6 +70,8 @@ same Minecraft version (e.g. 1.21.1).
 - Changed the invite-only server button from `DDV` to `Create(D) SMP`.
 - Enabled `reducedDebugInfo` gamerule.
 - Bumped Neoforge to 21.1.196.
+- Disabled Waystones from generating in the wild.
+  This does not stop Towers of the Wild from generating the Waystone towers.
 
 ### Deprecated
 

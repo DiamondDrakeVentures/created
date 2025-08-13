@@ -158,7 +158,7 @@ hash = "d0b9741bc36af0902e2e967762df2e6827714a3c8cfedd23ab5bf361f49e2840"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "817eaa120fd29fdadc03a1ba009da9fdc5a487975a3295a7a03e047c86d5c37c"
+hash = "9307b5ff32a5c62bfdb129381544f1a106d990afd0516ec253a94cf174714337"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
