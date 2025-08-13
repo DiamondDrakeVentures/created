@@ -876,11 +876,6 @@ hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
 
 [[files]]
-file = "mods/elytra-trims.pw.toml"
-hash = "07ea5950240bde3452c93be59647a662dd790692e5eeb5d3c4266910781d6d6d"
-metafile = true
-
-[[files]]
 file = "mods/emi-create-schematics.pw.toml"
 hash = "8a9bf4dfd8d29112e64dbffd71a84aba5279f6c85ed31233f026c84ebc4ef688"
 metafile = true

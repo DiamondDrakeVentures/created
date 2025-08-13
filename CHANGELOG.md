@@ -83,6 +83,8 @@ same Minecraft version (e.g. 1.21.1).
   They also conflict with the original Curious API.
 - Removed Zume.
   Spyglass Improvements replaces the functionality of Zume.
+- Removed Elytra Trims.
+  Conflicts with Customizable Elytra and many other things.
 
 ### Fixed
 
