@@ -9,10 +9,6 @@ file = "config/AdvancedBackups.properties"
 hash = "3801d369e835030931b781c742c1d3fbf5f57b6171784ef3a3b470ceae69c1b2"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "6ac239de556a09f80976bb6be4c84fbca30bf2b0e5aaff99e360dfcbcbbaa1a1"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "b4cfabec743909d67d6b25d4b90d7526417f3f82410592885a03d68b83bf5952"
 
@@ -822,11 +818,6 @@ metafile = true
 [[files]]
 file = "mods/disable-end-portals.pw.toml"
 hash = "21abc0d7306f1ee047c479bbbdb1bdf53453fd7ab67fa93be9311b54bf6e0932"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
 
 [[files]]

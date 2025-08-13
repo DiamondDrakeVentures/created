@@ -26,7 +26,6 @@ same Minecraft version (e.g. 1.21.1).
   - Advanced Backups
   - Cherished World
   - Curious Compat Layer for Accessories
-  - Distant Horizons
   - Effect Insights
   - Enchantment Descriptions
   - Flourish
