@@ -641,6 +641,11 @@ hash = "1f888caa5c68fc4e1a03873c7722ac53949f4177c423e3400039f77e5b90aecd"
 metafile = true
 
 [[files]]
+file = "mods/create-ornithopter-glider.pw.toml"
+hash = "5645f6c705e4cf4cb33042589f873141d9fb34fada8deb261775bf9685255b63"
+metafile = true
+
+[[files]]
 file = "mods/create-peaceful.pw.toml"
 hash = "d547838994e5b62b39d167b7a1e10e026a4783cac9f1a48128888324078e0b4a"
 metafile = true

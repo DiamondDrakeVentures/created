@@ -60,6 +60,7 @@ same Minecraft version (e.g. 1.21.1).
 - Added pack utility mods:
   - The Ruler
 - Added Brewing Tea Tales.
+- Added Create: Ornithopter Glider.
 
 ### Changed
 
