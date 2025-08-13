@@ -3,18 +3,18 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1753996490722
+  last_edited_time = 1755112125023
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
   universal_layout_blacklist = title_screen;de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen;pause_screen;
-  [loading_requirement_container_meta:985c1f83-dd5d-4507-9fbc-3bf6f2854319-1753996478502] = [groups:][instances:]
+  [loading_requirement_container_meta:2d77b980-5091-42e6-8cd9-4e335b85586f-1755112106733] = [groups:][instances:]
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/created-title-placeholder.png
+  image_path = [source:local]/config/fancymenu/assets/created-menu.png
   slide = false
   repeat_texture = false
   parallax = false

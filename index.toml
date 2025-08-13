@@ -97,8 +97,12 @@ file = "config/fancymenu/assets/created-icon.icns"
 hash = "a7a772c8a9e67def41201a6b65bb038a6834bf716800652e62efcbbcabd07875"
 
 [[files]]
-file = "config/fancymenu/assets/created-title-placeholder.png"
-hash = "de06bfe2d551a97d566c8efc3ae2fafc36144af7e8d1b14e6db3a45d774fdff1"
+file = "config/fancymenu/assets/created-menu.png"
+hash = "d3f85a597849519d99b074e870bb4c1dc4dc9a55f562424ef777cdb4f040bd6e"
+
+[[files]]
+file = "config/fancymenu/assets/created-title.png"
+hash = "167c8d9f1e48eddb51e067869b9447bc7e130c18000dd39071c6a7a6ecfa138e"
 
 [[files]]
 file = "config/fancymenu/assets/ddv-bricks.png"
@@ -110,7 +114,7 @@ hash = "525f1b29e1fc885890ebf715a26773a5b5a5d5340dd7e772e4e56e090324ed72"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "d9bd3b98ab9e8b4f0415387eed45f390db5fda26858e22711e083b80ade89cc2"
+hash = "cf1694cc7ea9899b9347b48ab276c6699e09a70f144a1737651ca11961dbaab3"
 
 [[files]]
 file = "config/fancymenu/customization/ddv_loading_overlay_layout.txt"
@@ -122,11 +126,11 @@ hash = "1a88e2d5e1c9f9b1c489e3eae00c12053e70e24b9dfcb5bac36c842cb397e4d2"
 
 [[files]]
 file = "config/fancymenu/customization/ddv_title_screen_layout.txt"
-hash = "8a2406424200c18bb5a8d745fc520691ecd7ffae698d7e81831f09ba2888d627"
+hash = "af3ce3fde2a836f2fadc7d068eaac74016977f77bd7fb801913b3a1e3f41a67f"
 
 [[files]]
 file = "config/fancymenu/customization/ddv_universal_layout.txt"
-hash = "042523ff8c33f2b67bd758498fe6c48577c501e8d4bbe11aa3d19761443f6851"
+hash = "115f4e90acad292cbaf1e5da4b811e67113f8ee72523b1f0e3218172e25178b7"
 
 [[files]]
 file = "config/fancymenu/options.txt"

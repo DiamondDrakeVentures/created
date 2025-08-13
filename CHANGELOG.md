@@ -71,6 +71,8 @@ same Minecraft version (e.g. 1.21.1).
 - Bumped Neoforge to 21.1.196.
 - Disabled Waystones from generating in the wild.
   This does not stop Towers of the Wild from generating the Waystone towers.
+- Title screen background image is now from an earlier time in the Minecraft day.
+- Centered the title contraption in the menu screen background image.
 
 ### Deprecated
 

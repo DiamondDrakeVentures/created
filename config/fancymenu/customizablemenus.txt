@@ -75,3 +75,29 @@ de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen {
 net.minecraft.client.gui.screens.PauseScreen {
 }
 
+net.minecraft.client.gui.screens.ConfirmScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.CreateWorldScreen {
+}
+
+net.minecraft.client.gui.screens.CreateFlatWorldScreen {
+}
+
+net.minecraft.client.gui.screens.PresetFlatWorldScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.EditGameRulesScreen {
+}
+
+net.neoforged.neoforge.client.gui.ScrollableExperimentsScreen {
+}
+
+me.juancarloscp52.spyglass_improvements.client.SpyglassConfigurationScreen {
+}
+
+me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.options.SoundOptionsScreen {
+}
