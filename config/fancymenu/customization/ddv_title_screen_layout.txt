@@ -246,7 +246,7 @@ element {
 
 element {
   interactable = false
-  source = Create(D) 0.2.0%n%{"placeholder":"loadername"} {"placeholder":"loaderver"} ({"placeholder":"loadedmods"} / {"placeholder":"totalmods"})%n%Minecraft {"placeholder":"mcversion"}
+  source = Create(D) 0.2.1%n%{"placeholder":"loadername"} {"placeholder":"loaderver"} ({"placeholder":"loadedmods"} / {"placeholder":"totalmods"})%n%Minecraft {"placeholder":"mcversion"}
   source_mode = direct
   shadow = true
   scale = 1.0

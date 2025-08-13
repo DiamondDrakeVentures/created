@@ -1,13 +1,13 @@
 name = "Create(D)"
 author = "Diamond Drake Ventures"
-version = "0.2.0"
+version = "0.2.1"
 description = "Create+ modpack that sticks to the Vanilla+ experience"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3fada27c3d42753e145d9ffcd186cc35feec9c6083704cf3a69e56a3157f2589"
+hash = "cdacc795a86b4bc1d1ff98cf33f293ad13237e6e38a0d46b88628bdddfb3c2c6"
 
 [versions]
 minecraft = "1.21.1"
