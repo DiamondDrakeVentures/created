@@ -1,6 +1,6 @@
 name = "Advanced Backups"
 filename = "AdvancedBackups-neoforge-1.21-3.7.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Jrmoreqs/versions/ufIaRDFo/AdvancedBackups-neoforge-1.21-3.7.1.jar"

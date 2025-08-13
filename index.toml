@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "732787f222641ecfed68d2cbf6e498324061b51ebb8ee08af322cefd9c4a91ed"
+hash = "6ff0459e53f8bc6d77862c242f96b321db7d99cc27398ced9cf7c94a39814ad0"
 metafile = true
 
 [[files]]
