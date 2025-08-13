@@ -61,6 +61,7 @@ same Minecraft version (e.g. 1.21.1).
   - The Ruler
 - Added Brewing Tea Tales.
 - Added Create: Ornithopter Glider.
+- Added Immersive Aircraft.
 
 ### Changed
 
