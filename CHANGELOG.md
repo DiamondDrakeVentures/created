@@ -10,13 +10,12 @@ However, each version is only backwards compatible within the same Game Version.
 For example, v1.2.0 is backwards compatible with v1.0.0 as long as they are both installed on the
 same Minecraft version (e.g. 1.21.1).
 
-## [UNRELEASED]
+## [0.2.0] - 2025-08-13
 
 ### Added
 
 - Added backup solution (Advanced Backups).
-  By default, backups are taken incrementally every 15 minutes, with a full backup taken about
-  every six hours.
+  By default, backups are taken incrementally every 15 minutes, with a full backup taken about every six hours.
 - Added shark plushies (Just Blahaj).
 - Added Nightvision enchantment, which can be applied to Spyglass (Nightvision Spyglass).
   Spyglasses enchanted with Nightvision grant the nightvision effect while looking through them.
@@ -66,12 +65,9 @@ same Minecraft version (e.g. 1.21.1).
   This does not stop Towers of the Wild from generating the Waystone towers.
 - Title screen background image is now from an earlier time in the Minecraft day.
 - Centered the title contraption in the menu screen background image.
-- Items and recipes list no longer are no longer displayed on the sides of the inventory screen
-  by default (Distraction Free Recipes).
+- Items and recipes list no longer are no longer displayed on the sides of the inventory screen by default (Distraction Free Recipes).
   Search an item or recipe to display them again.
 - Replaced inventory items and recipes list with EMI (EMI).
-
-### Deprecated
 
 ### Removed
 
@@ -96,15 +92,11 @@ same Minecraft version (e.g. 1.21.1).
 ### Fixed
 
 - Fixed an issue where the title screen footer can sometimes overlap with the options button.
-- Fixed a critical issue where Create Clipboard can be modified and causes items to be duplicated
-  (Create Bugfix: Clipboard Patch).
-- Fixed a critical issue where Create Schematic can be modified and causes items to be duplicated
-  (Create Bugfix: Schematic Patch).
+- Fixed a critical issue where Create Clipboard can be modified and causes items to be duplicated (Create Bugfix: Clipboard Patch).
+- Fixed a critical issue where Create Schematic can be modified and causes items to be duplicated (Create Bugfix: Schematic Patch).
 - Packet inconsistencies no longer disconnects the player (Network Protocol Disconnect).
   This is done at the risk of desynced state.
   Do not connect to untrusted servers as there is no longer a protection against malicious packets.
-
-### Security
 
 ## [0.1.0] - 2025-08-03
 
