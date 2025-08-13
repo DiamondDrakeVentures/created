@@ -14,92 +14,95 @@ same Minecraft version (e.g. 1.21.1).
 
 ### Added
 
-- Added Load Support to prevent game launch when minimum memory requirement is unmet.
-  The minimum requirement is 4 GB.
-- Added Saturn to further optimize memory usage.
-- Added Just Blahaj.
-- Added Create Bugfix mods:
-  - Create Bugfix: Clipboard Patch
-  - Create Bugfix: Schematic Patch
-- Added Quality of Life mods:
-  - Accessories
-  - Advanced Backups
-  - Cherished World
-  - Curious Compat Layer for Accessories
-  - Effect Insights
-  - Enchantment Descriptions
-  - Flourish
-  - Modern World Creation
-  - Network Protocol Disconnect
-  - Nightvision Spyglass
-  - SearchStats
-  - Spyglass Improvements
-  - Status
-  - Superflat World No Slimes
-  - Updating World Icon
-  - WorldEdit Items
-  - VanitySlots
-- Added EMI and add-ons:
-  - EMI
-  - Distraction Free Recipes
-  - EMIffect
-  - EMI Addon: Extra Mod Integrations
-  - EMI: Create Schematics
-  - EMI Enchanting
-  - EMI For Create Stock
-  - EMI Loot
-  - EMI professions (EMIP)
-  - EMI Ores
-- Added cosmetic mods:
-  - Cake's Cosmetics
-- Added immersion mods:
-  - Connectible Chains
-  - Dynamic Crosshair
-  - Immersive Overlay
-  - Northern Compass
-- Added pack utility mods:
-  - The Ruler
-- Added Brewing Tea Tales.
-- Added Create: Ornithopter Glider.
-- Added Immersive Aircraft.
-- Added Animal Garden - Owl.
+- Added backup solution (Advanced Backups).
+  By default, backups are taken incrementally every 15 minutes, with a full backup taken about
+  every six hours.
+- Added shark plushies (Just Blahaj).
+- Added Nightvision enchantment, which can be applied to Spyglass (Nightvision Spyglass).
+  Spyglasses enchanted with Nightvision grant the nightvision effect while looking through them.
+- Added player availability and streaming status on the tablist (Status).
+  Status changes are done manually by the player.
+- Added cosmetic hats (Cake's Cosmetics).
+- Added a HUD overlay displaying coordinates, weather, and time (Immersive Overlay).
+  The appropriate items must be present in the player inventory:
+  - Compass for X and Z coordinate
+  - Altimeter for Y coordinate
+  - Clock for time and weather information
+- Added aircrafts (Immersive Aircraft).
+- Added ornithopter gliders (Create: Ornithopter Glider).
+- Added teas and related things (Brewing Tea Tales).
+- Added owls (Animal Garden - Owls).
+- Added vanity armor slots (VanitySlots).
+- Added accessory slots (Accessories).
+- Added compatibility layer for Curios API (Curious Compat Layer for Accessories).
+- Added global game rules (The Ruler).
 
 ### Changed
 
-- Changed the invite-only server button from `DDV` to `Create(D) SMP`.
-- Enabled `reducedDebugInfo` gamerule.
-- Bumped Neoforge to 21.1.196.
-- Disabled Waystones from generating in the wild.
+- Updated the Neoforge loader to 21.1.196.
+- The game will abort the launch when the minimum memory requirement is not met (Load Support).
+  The minimum requirement is 4 GB.
+- Memory usage has been further optimized (Saturn).
+- Singleplayer world can now be favorited (Cherised World).
+  Favorited worlds are pinned to the top and cannot be deleted.
+- Singleplayer world creation screen has been modernized (Modern World Creation).
+- Singleplayer world thumbnails are now updated on every load (Updating World Icon).
+- Flowers can be bonemealed, which will grow more of that specific flower (Flourish).
+  This is a port of the Bedrock Edition mechanic.
+- Statistics screen is now searchable (SearchStats).
+- Viewing through a Spyglass can be done with a hotkey.
+  The Spyglass does not need to be equipped but it must still be present in the inventory.
+- Superflat world no longer spawns slimes (Superflat World No Slimes).
+- WorldEdit now uses dedicated items as wands (WorldEdit Items).
+- Most enchantments now show descriptions of their functionality (Enchantment Descriptions).
+- Most potions and food items now show descriptions of their functionality (Effect Insights).
+- Chains can now connect to fenceposts and walls (Connectible Chains).
+- Crosshair now changes based on what the target (Dynamic Crosshair).
+  It is also hidden when there is no target.
+- Compass now always points north.
+- Coordinates are no longer shown in the F3 debug screen (game rule `reducedDebugInfo`).
+- Invite-only server button now shows `Create(D) SMP`.
+- Waystones no longer generate in the wild (Waystones).
   This does not stop Towers of the Wild from generating the Waystone towers.
 - Title screen background image is now from an earlier time in the Minecraft day.
 - Centered the title contraption in the menu screen background image.
+- Items and recipes list no longer are no longer displayed on the sides of the inventory screen
+  by default (Distraction Free Recipes).
+  Search an item or recipe to display them again.
+- Replaced inventory items and recipes list with EMI (EMI).
 
 ### Deprecated
 
 ### Removed
 
+- Removed the ability to pick up entities and block entities (Carry On).
+  There are compatibility issues with Carry On.
+  The specifics of the issues are difficult to triage.
+- Removed Elytra Trims.
+  Conflicts with Customizable Elytra and many other things.
+- Removed Macaw's Bridges.
+- Removed Macaw's Roofs.
+- Removed Macaw's Stairs.
+- Removed zoom hotkey without Spyglass (Zume).
+  The zoom hotkey now requires a Spyglass to be present in the inventory.
+- Removed Curious API.
+  Accessories + Curios Compat Layer for Accessories provides the functionality of Curios API.
 - Removed JEI add-ons:
   - Just Enough Archaeology
   - Just Enough Effect Descriptions
   - Just Enough Professions
   - Just Enough Resources
-- Removed Carry On.
-  There are compatibility issues with Carry On.
-- Removed Curious API.
-  Accessories + Curios Compat Layer for Accessories provides the functionality of Curios API.
-  They also conflict with the original Curious API.
-- Removed Zume.
-  Spyglass Improvements replaces the functionality of Zume.
-- Removed Elytra Trims.
-  Conflicts with Customizable Elytra and many other things.
-- Removed Macaw's mods:
-  - Macaw's Bridges
-  - Macaw's Roofs
-  - Macaw's Stairs
 
 ### Fixed
 
 - Fixed an issue where the title screen footer can sometimes overlap with the options button.
+- Fixed a critical issue where Create Clipboard can be modified and causes items to be duplicated
+  (Create Bugfix: Clipboard Patch).
+- Fixed a critical issue where Create Schematic can be modified and causes items to be duplicated
+  (Create Bugfix: Schematic Patch).
+- Packet inconsistencies no longer disconnects the player (Network Protocol Disconnect).
+  This is done at the risk of desynced state.
+  Do not connect to untrusted servers as there is no longer a protection against malicious packets.
 
 ### Security
 
