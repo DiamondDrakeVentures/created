@@ -1,13 +1,13 @@
 name = "Create More: Parallel Pipes"
-filename = "cmparallelpipes-1.21.1-1.1.0.jar"
+filename = "cmparallelpipes-1.21.1-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5jfUeix5/versions/43LHGSAR/cmparallelpipes-1.21.1-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/5jfUeix5/versions/hdCcWNwt/cmparallelpipes-1.21.1-1.1.1.jar"
 hash-format = "sha512"
-hash = "df36f653b3bc00f589569df34d31bf4a0a37d4ed3d2dd2d6159903cd1c2e8df3cfb6325e9062fc3d5039d42ceca7f41c67732bd0a868843a4d85ba35c0486310"
+hash = "a3dcd6b6c741ea02a0561767afc04d4aaa1845528c50bb2f6d769a9ee370d1ed2e6f24421447d7012228cff62ad52307884b4df9aadd2c9c57bc386514965b66"
 
 [update]
 [update.modrinth]
 mod-id = "5jfUeix5"
-version = "43LHGSAR"
+version = "hdCcWNwt"

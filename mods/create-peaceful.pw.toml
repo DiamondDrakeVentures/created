@@ -1,13 +1,13 @@
 name = "Create: Peaceful [Forge/Fabric/NeoForge]"
-filename = "create_peaceful-2.0.0-neoforge-1.21.1.jar"
+filename = "create_peaceful-2.0.1-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9mmhz018/versions/LQtObKpL/create_peaceful-2.0.0-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/9mmhz018/versions/zM8teXgi/create_peaceful-2.0.1-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "00e342ce75645876a8942558fba418c1c7442287cababb3d16662171d04216125d56b3925b10e443ef5e3a19245fdc8d4aca7151165f7e3630eed1f1450e5e51"
+hash = "5f0338c829b06dddf69c49bdc8f569b3315b1f80ace931ce051862b816dff540d8c15f810a5276c29773cb2dc75f7a55c1eb9f53424860b3ce3b65dedc0855f3"
 
 [update]
 [update.modrinth]
 mod-id = "9mmhz018"
-version = "LQtObKpL"
+version = "zM8teXgi"

@@ -14,13 +14,65 @@ same Minecraft version (e.g. 1.21.1).
 
 ### Added
 
+- Added Sepia Fungus Colony (Create: Garnished).
+- Added Hypertube Accelerator (Create: Hypertubes).
+- Added `polished` and `bricks` `StoneType`s (Every Compat (Stone Zone)).
+- Added Forward Error Correction (FEC) to Opus encoder/decoder (Simple Voice Chat).
+- Added Classical Chinese translation (Sophisticated Backpacks).
+
 ### Changed
+
+- Adjusted Limestone crushing/milling recipes (Create: Garnished).
+- Adjusted Dragon's Breath fluids to be inclusive of the one from Create: Dragons Plus (Create: Garnished).
+- Improved emoji compatibility (Chat Heads).
+- Improved hypertube travel speed handling (Create: Hypertubes).
+- Create Train Parts blocks are now minable (Create Train Parts).
+- Renamed Mob Essence items to be number tiered (Create: Peaceful).
+- Statue poses of copper golem can now be changed by right clicking (Friends&Foes).
+- Changed copper golem sounds (Friends&Foes).
+- Improved audio quality in bad networking conditions (Simple Voice Chat).
+- Updated mods:
+  - Balm 21.0.48 => 21.0.49
+  - Chat Heads 0.13.18 => 0.13.20
+  - Create: Garnished 2.1.6.2 => 2.1.6.5
+  - Create: Hypertubes 0.2.4 => 0.2.5
+  - Create More: Parallel Pipes 1.1.0 => 1.1.1
+  - Create: Peaceful 2.0.0 => 2.0.1
+  - Create Train Parts 0.1.3 => 0.2.0
+  - Every Compat (Stone Zone) 1.21-2.10.6 => 1.21-2.10.8
+  - Friends&Foes 4.0.7 => 4.0.8
+  - Fzzy Config 0.7.1+1.21+neoforge => 0.7.2+1.21+neoforge
+  - Just Blahaj 2.0.3 => 2.0.5
+  - KleeSlabs 21.1.6 => 21.1.7
+  - KotlinLangForge 2.10.1-k2.2.0-3.0 => 2.10.3-k2.2.0-3.0
+  - Puzzles Lib v21.1.36 => v21.1.38
+  - Simple Voice Chat 2.5.35 => 2.5.36
+  - Sophisiticated Backpacks 3.24.19.1292 => 3.24.19.1301
+  - Sophisticated Core 1.3.59.1062 => 1.3.63.1086
+  - Sophisticated Storage 1.4.46.1216 => 1.4.47.1223
+  - Waystones 21.1.20 => 21.1.22
+  - Wavey Capes 1.6.1.1 => 1.6.2
 
 ### Deprecated
 
 ### Removed
 
 ### Fixed
+
+- Fixed potential dedicated server crash with Waystones (Balm).
+- Fixed inventory button refusing on target-bound warp conditions before a target is chosen (Waystones).
+- Fixed feature cycle order crash when `wildWaystoneStyle` was set to `MOSSY` (Waystones).
+- Fixed Farmer's Delight cutting compatibility recipes loading (Create: Garnished).
+- Fixed tool validity for Farmer's Delight cutting compatibility recipes (Create: Garnished).
+- Fixed `create:packages` tag loading (Create: Garnished).
+- Fixed compatibility recipe(s) with Create: Framed (Create: Garnished).
+- Fixed detection system to detect similar blocks (Every Compat (Stone Zone)).
+- Fixed Create blocks drops (Every Compat (Stone Zone)).
+- Fixed es_mx translation (Friends&Foes).
+- Fixed "no items match result" message duplication when the window gets resized (Sophisticated Core).
+- Fixed calculation of total player XP in XP Pump Upgrade (Sophisticated Core).
+- Fixed issues with Tank Upgrade I/O when handling fluids with NBT components (Sophisticated Core).
+- Fixed an issue where chests and shulker boxes are see through when there are hidden tier or upgrade slots displayed when the player has storage tool or relevant upgrade in hand (Sophisticated Storage).
 
 ### Security
 
