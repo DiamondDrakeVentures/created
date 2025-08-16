@@ -145,6 +145,18 @@ file = "config/immersiveoverlays.json"
 hash = "b3992d30c2a1606504e38d6036b58381e20204dfa948383a9ea624277b71f09d"
 
 [[files]]
+file = "config/jade/jade.json"
+hash = "9155663d219d6cc785c2994519b00d64a75194c33f1b311d5de6ba875f280cfa"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "62ee7f094dc0614e5b9065b535c970880697b089ccec07c390a8f653b37daa1d"
+
+[[files]]
+file = "config/jade/server-plugin-overrides.json"
+hash = "fd5351f91711481a2475f3ec2530ea370f9d9a5e9e91ac76cb9235404f6cd6b4"
+
+[[files]]
 file = "config/loadsupport.toml"
 hash = "7ccbfd542d699a4da6472b5e23e5bf388e959dda1ccfb66694dcaadb4983aa41"
 
@@ -1177,6 +1189,16 @@ metafile = true
 [[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e7d3f7e0472ba9a3ef946fa5defcb157e4126636e603c2306d4ad6065936d5e2"
 metafile = true
 
 [[files]]

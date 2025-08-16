@@ -19,6 +19,10 @@ same Minecraft version (e.g. 1.21.1).
 - Added `polished` and `bricks` `StoneType`s (Every Compat (Stone Zone)).
 - Added Forward Error Correction (FEC) to Opus encoder/decoder (Simple Voice Chat).
 - Added Classical Chinese translation (Sophisticated Backpacks).
+- Added HUD component showing the target blocks and entities (Jade).
+- Added mods:
+  - Jade
+  - Jade Addons
 
 ### Changed
 
