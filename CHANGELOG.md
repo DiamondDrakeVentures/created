@@ -36,6 +36,7 @@ same Minecraft version (e.g. 1.21.1).
 - Statue poses of copper golem can now be changed by right clicking (Friends&Foes).
 - Changed copper golem sounds (Friends&Foes).
 - Improved audio quality in bad networking conditions (Simple Voice Chat).
+- Ticking entity actions are now only sent to players with the appropriate permissions to perform such actions (Neruina).
 - Updated mods:
   - Balm 21.0.48 => 21.0.49
   - Chat Heads 0.13.18 => 0.13.20
@@ -50,6 +51,7 @@ same Minecraft version (e.g. 1.21.1).
   - Just Blahaj 2.0.3 => 2.0.5
   - KleeSlabs 21.1.6 => 21.1.7
   - KotlinLangForge 2.10.1-k2.2.0-3.0 => 2.10.3-k2.2.0-3.0
+  - Neruina 2.3.1-beta.1 => 3.0.0
   - Puzzles Lib v21.1.36 => v21.1.38
   - Simple Voice Chat 2.5.35 => 2.5.36
   - Sophisiticated Backpacks 3.24.19.1292 => 3.24.19.1301
