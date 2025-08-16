@@ -21,6 +21,7 @@ same Minecraft version (e.g. 1.21.1).
 - Added Classical Chinese translation (Sophisticated Backpacks).
 - Added HUD component showing the target blocks and entities (Jade).
 - Added mods:
+  - Configurable
   - Jade
   - Jade Addons
 
