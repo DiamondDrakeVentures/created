@@ -887,8 +887,8 @@ hash = "6424e91859f327b6c7b27ec835ad2b00f81926e83116c78a098a95731c594889"
 metafile = true
 
 [[files]]
-file = "mods/edf-remastered.pw.toml"
-hash = "ccd5ce47b97cdde28dbea9c3b3d49b5b89229ce5e260311688eb4a41182e5b78"
+file = "mods/edfr-created.pw.toml"
+hash = "a601acd70ffeef3cef68592305ff28b2a82f85702f3d726b89533d33bd82b707"
 metafile = true
 
 [[files]]

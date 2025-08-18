@@ -20,8 +20,10 @@ same Minecraft version (e.g. 1.21.1).
 - Added Forward Error Correction (FEC) to Opus encoder/decoder (Simple Voice Chat).
 - Added Classical Chinese translation (Sophisticated Backpacks).
 - Added HUD component showing the target blocks and entities (Jade).
+- Added configuration menu (Ender Dragon Fight Remastered: Create(D) Edition).
 - Added mods:
   - Configurable
+  - Ender Dragon Fight Remastered: Create(D) Edition
   - Jade
   - Jade Addons
 
@@ -37,6 +39,8 @@ same Minecraft version (e.g. 1.21.1).
 - Changed copper golem sounds (Friends&Foes).
 - Improved audio quality in bad networking conditions (Simple Voice Chat).
 - Ticking entity actions are now only sent to players with the appropriate permissions to perform such actions (Neruina).
+- Ads now die after the Dragon dies (Ender Dragon Fight Remastered: Create(D) Edition).
+- Dragon is now invulnerable when the miniboss is active (Ender Dragon Fight Remastered: Create(D) Edition).
 - Updated mods:
   - Balm 21.0.48 => 21.0.49
   - Chat Heads 0.13.18 => 0.13.20
@@ -63,6 +67,9 @@ same Minecraft version (e.g. 1.21.1).
 ### Deprecated
 
 ### Removed
+
+- Removed mods:
+  - Ender Dragon Fight Remastered
 
 ### Fixed
 

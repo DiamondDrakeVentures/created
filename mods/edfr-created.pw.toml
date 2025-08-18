@@ -1,0 +1,8 @@
+name = "Ender Dragon Fight Remastered: Create(D) Edition"
+filename = "edfr-created-5.0.0-2cbec9c.jar"
+side = "both"
+
+[download]
+url = "https://nightly.link/DiamondDrakeVentures/Ender-Dragon-Fight-Remastered/workflows/pack.yaml/main/edfr-created-5.0.0-2cbec9c.zip"
+hash-format = "sha512"
+hash = "5338d7b5201b4f4414187bfeca33b4c4c111dc03fe5b50277532a0e315f1057a5f25cbb01b6b792ecdb0aa2b1894f4991738716c07b7a6dfe3c2579303e4ce58"
