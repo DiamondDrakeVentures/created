@@ -25,6 +25,10 @@ file = "config/accessories.json5"
 hash = "a9b5f163d47b0eb22b2ed416bbf6f3c276470ba546396caf6e53879876389d5a"
 
 [[files]]
+file = "config/betterendisland-neoforge-1_21.toml"
+hash = "d87a74c86570952a48aa5d043a967b9c275fef3a0e68fae0ef1ce06b936828ca"
+
+[[files]]
 file = "config/boatiview-client.toml"
 hash = "0c7b914a057e9166de3aeef7ae58021c8da5f836d737a82a1b549838e8a3a473"
 

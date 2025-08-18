@@ -41,6 +41,7 @@ same Minecraft version (e.g. 1.21.1).
 - Ticking entity actions are now only sent to players with the appropriate permissions to perform such actions (Neruina).
 - Ads now die after the Dragon dies (Ender Dragon Fight Remastered: Create(D) Edition).
 - Dragon is now invulnerable when the miniboss is active (Ender Dragon Fight Remastered: Create(D) Edition).
+- Dragon egg now respawns at the end of every Dragon fight.
 - Updated mods:
   - Balm 21.0.48 => 21.0.49
   - Chat Heads 0.13.18 => 0.13.20
