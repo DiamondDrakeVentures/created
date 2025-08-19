@@ -1961,6 +1961,11 @@ hash = "c5e5f5aed37edd8073ec736e179b6159530ff497f4fe4c4dfaf954c810910433"
 metafile = true
 
 [[files]]
+file = "resourcepacks/create-waystones-texture-+-gui.pw.toml"
+hash = "9e77cd5c9c9b584c44ed4be0fe93aaaf8777a20720e918364cac065fa24eeeda"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "d30923bf5cfb4988a372508cb461d8077609d79a38d0b170785804c7ad15f16e"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Create Waystones Texture + GUI"
+filename = "CreateWaystones v1.0.2.b.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ERIIRqC7/versions/uezQsgW3/CreateWaystones%20v1.0.2.b.zip"
+hash-format = "sha512"
+hash = "3fdd8e0cb77397362d84402c17d1ae2fbf22f52cb437bf40b89917cd3d2150be28febf52e17999d3a699ed1915c2008f1d62408957d73c1692c379693813dc10"
+
+[update]
+[update.modrinth]
+mod-id = "ERIIRqC7"
+version = "uezQsgW3"

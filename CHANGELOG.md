@@ -27,6 +27,8 @@ same Minecraft version (e.g. 1.21.1).
   - Ender Dragon Fight Remastered: Create(D) Edition
   - Jade
   - Jade Addons
+- Added resource packs:
+  - Create Waystones Texture + GUI
 
 ### Changed
 
@@ -44,6 +46,7 @@ same Minecraft version (e.g. 1.21.1).
 - Dragon is now invulnerable when the miniboss is active (Ender Dragon Fight Remastered: Create(D) Edition).
 - Dragon egg now respawns at the end of every Dragon fight.
 - Waystones, Portstones, and Sharestones can now only be crafted with Mechanical Crafters (Create Waystones Recipes).
+- Waystones, Portstones, and Sharestones block texture and UI are now in-line with the Create aesthetics (Create Waystones Texture + GUI).
 - Updated mods:
   - Balm 21.0.48 => 21.0.49
   - Chat Heads 0.13.18 => 0.13.20
