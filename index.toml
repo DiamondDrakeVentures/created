@@ -146,7 +146,7 @@ hash = "9bbdaaf3cc126b1cb7d7de511f1b9756f89663b4b30bef8e3ad05473f3e4c327"
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "2cee13d9b479e3eea2ebbedbc8e2a006f6e7190279ff136033ccebd5927da26b"
+hash = "622e1a4eefb236ec77fe6ef36255f7deb2a9745c3dac95c6d285d700d98bc9d2"
 
 [[files]]
 file = "config/immersiveoverlays.json"

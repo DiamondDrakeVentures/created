@@ -16,7 +16,10 @@ log_pack_ids = false
 	required = ["resourcepacks/CreateWaystones v1.0.2.b.zip"]
 	# Check game log if log_pack_ids is set to true, you need to add the full IDs listed in there.
 	# Search for "# Listing Resource Packs #" inside the log
-	enable_builtin = []
+	enable_builtin = [
+		"continuity:default",
+		"continuity:glass_pane_culling_fix",
+	]
 
 [datapacks]
 	required = []
