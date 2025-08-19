@@ -1,0 +1,32 @@
+{
+  "parent": "created:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "created:compass"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_compass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:compass"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_compass"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "created:compass"
+    ]
+  }
+}

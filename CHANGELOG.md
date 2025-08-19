@@ -22,6 +22,7 @@ same Minecraft version (e.g. 1.21.1).
 - Added HUD component showing the target blocks and entities (Jade).
 - Added configuration menu (Ender Dragon Fight Remastered: Create(D) Edition).
 - Added training dummy (MmmMmmMmmMmm).
+- Added a recipe to demagnetize Lodestone Compass.
 - Added mods:
   - Configurable
   - Create Waystones Recipes

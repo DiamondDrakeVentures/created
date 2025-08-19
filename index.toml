@@ -189,6 +189,18 @@ file = "config/worldedit/worldedit.properties"
 hash = "f77882aa51025e80a56daecbad967487351a918e01326980c884a20270971da5"
 
 [[files]]
+file = "datapacks/created/data/created/advancement/recipes/root.json"
+hash = "300ec3f0a5446b43762a0e99d2bba4ea5c483a3105c4d5eab11e6da820e524c8"
+
+[[files]]
+file = "datapacks/created/data/created/advancement/recipes/tools/compass.json"
+hash = "f1486541cff04ad230048aca138f4fcc3833666e2637bea847a6f1000b438441"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/compass.json"
+hash = "8b59ebbdf150c5c90a3b9fcabe2757d543123d480fa07fa9c4a665f98350c6aa"
+
+[[files]]
 file = "datapacks/created/data/minecraft/advancement/adventure/use_lodestone.json"
 hash = "d497dae559b34e3dd204efdcb8ebba0c4eab081a7c8a97d8d0527fa65dcb4a91"
 
