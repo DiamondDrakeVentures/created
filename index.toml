@@ -145,6 +145,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "9bbdaaf3cc126b1cb7d7de511f1b9756f89663b4b30bef8e3ad05473f3e4c327"
 
 [[files]]
+file = "config/global_packs.toml"
+hash = "c89ea51a30e15044f12e98b30e7f9fed4e14d3364a430ffef3e53fb2cf623518"
+
+[[files]]
 file = "config/immersiveoverlays.json"
 hash = "b3992d30c2a1606504e38d6036b58381e20204dfa948383a9ea624277b71f09d"
 
@@ -1121,6 +1125,11 @@ hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
+metafile = true
+
+[[files]]
 file = "mods/gputape.pw.toml"
 hash = "08481ad00651a7603f846d9bbb4285e995eee8d883e024ffead443524c640ee4"
 metafile = true
@@ -1508,11 +1517,6 @@ metafile = true
 [[files]]
 file = "mods/pandas-falling-trees.pw.toml"
 hash = "17d8f71ce8116dafddbc8ea08f7bf089fcfc4a1c3b2544277df66b458ce21878"
-metafile = true
-
-[[files]]
-file = "mods/paxi.pw.toml"
-hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]

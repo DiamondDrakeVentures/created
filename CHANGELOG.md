@@ -25,6 +25,7 @@ same Minecraft version (e.g. 1.21.1).
   - Configurable
   - Create Waystones Recipes
   - Ender Dragon Fight Remastered: Create(D) Edition
+  - Global Packs
   - Jade
   - Jade Addons
 - Added resource packs:
@@ -76,6 +77,7 @@ same Minecraft version (e.g. 1.21.1).
 
 - Removed mods:
   - Ender Dragon Fight Remastered
+  - Paxi
 
 ### Fixed
 
