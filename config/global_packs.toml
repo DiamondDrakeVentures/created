@@ -19,6 +19,9 @@ log_pack_ids = false
 	enable_builtin = [
 		"continuity:default",
 		"continuity:glass_pane_culling_fix",
+		"scholar:chiseled_bookshelf_colored_books_abnww_compat",
+		"scholar:chiseled_bookshelf_colored_books",
+		"scholar:colored_books",
 	]
 
 [datapacks]
