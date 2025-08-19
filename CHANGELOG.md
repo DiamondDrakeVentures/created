@@ -21,6 +21,7 @@ same Minecraft version (e.g. 1.21.1).
 - Added Classical Chinese translation (Sophisticated Backpacks).
 - Added HUD component showing the target blocks and entities (Jade).
 - Added configuration menu (Ender Dragon Fight Remastered: Create(D) Edition).
+- Added training dummy (MmmMmmMmmMmm).
 - Added mods:
   - Configurable
   - Create Waystones Recipes
@@ -28,6 +29,7 @@ same Minecraft version (e.g. 1.21.1).
   - Global Packs
   - Jade
   - Jade Addons
+  - MmmMmmMmmMmm
 - Added resource packs:
   - Create Waystones Texture + GUI
 

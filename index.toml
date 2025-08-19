@@ -73,6 +73,10 @@ file = "config/drippyloadingscreen/options.txt"
 hash = "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5"
 
 [[files]]
+file = "config/dummmmmmy-client.toml"
+hash = "f027a9841c3a7259076fe392b426c9d89f990636db871de32c83b6f15c933c9f"
+
+[[files]]
 file = "config/emi.css"
 hash = "4bd16699333c93480589dc9a90b252c033b752b5666f4bee91fa69f273e94767"
 
@@ -1387,6 +1391,11 @@ metafile = true
 [[files]]
 file = "mods/mmlib.pw.toml"
 hash = "59f033615895cd019f9fb168fa93590422c5050274630a8faec46460979a5156"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "9a7118b1d0ae1239f880c4f7fb921d14f49ed04b780fb8d0d439f923c0b6e523"
 metafile = true
 
 [[files]]
