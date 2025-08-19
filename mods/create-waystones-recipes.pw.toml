@@ -1,0 +1,13 @@
+name = "Create Waystones Recipes"
+filename = "create_waystones_recipes-3.0.0-NeoForge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wQpKGqNJ/versions/RLFXmYNg/create_waystones_recipes-3.0.0-NeoForge-1.21.1.jar"
+hash-format = "sha512"
+hash = "156a67e3ce2e6836e23878545768868807455819cf83c46639872cb5b059107ced6f54b2ae24be21be3741bf9140cde081fdd5edbe0c87dfed5943a47c71f671"
+
+[update]
+[update.modrinth]
+mod-id = "wQpKGqNJ"
+version = "RLFXmYNg"

@@ -23,6 +23,7 @@ same Minecraft version (e.g. 1.21.1).
 - Added configuration menu (Ender Dragon Fight Remastered: Create(D) Edition).
 - Added mods:
   - Configurable
+  - Create Waystones Recipes
   - Ender Dragon Fight Remastered: Create(D) Edition
   - Jade
   - Jade Addons
@@ -42,6 +43,7 @@ same Minecraft version (e.g. 1.21.1).
 - Ads now die after the Dragon dies (Ender Dragon Fight Remastered: Create(D) Edition).
 - Dragon is now invulnerable when the miniboss is active (Ender Dragon Fight Remastered: Create(D) Edition).
 - Dragon egg now respawns at the end of every Dragon fight.
+- Waystones, Portstones, and Sharestones can now only be crafted with Mechanical Crafters (Create Waystones Recipes).
 - Updated mods:
   - Balm 21.0.48 => 21.0.49
   - Chat Heads 0.13.18 => 0.13.20

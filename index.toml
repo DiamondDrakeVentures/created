@@ -761,6 +761,11 @@ hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
 
 [[files]]
+file = "mods/create-waystones-recipes.pw.toml"
+hash = "556a6d6bbc2a5d1449fdbc09cef6ab7c776377cbe4b5fc7f47f885557f6522ec"
+metafile = true
+
+[[files]]
 file = "mods/create-winery.pw.toml"
 hash = "7d654b00f69bd958c15188ff16d2b917c98f6a44c05dd4fa3861eb8901b4c168"
 metafile = true
