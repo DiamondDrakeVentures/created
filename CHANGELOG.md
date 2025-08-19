@@ -50,6 +50,8 @@ same Minecraft version (e.g. 1.21.1).
 - Dragon egg now respawns at the end of every Dragon fight.
 - Waystones, Portstones, and Sharestones can now only be crafted with Mechanical Crafters (Create Waystones Recipes).
 - Waystones, Portstones, and Sharestones block texture and UI are now in-line with the Create aesthetics (Create Waystones Texture + GUI).
+- Lodestones now cost an Iron Ingot rather than a Netherite Ingot to craft.
+- Advancement for using a Lodestone now reside under the Adventure category.
 - Updated mods:
   - Balm 21.0.48 => 21.0.49
   - Chat Heads 0.13.18 => 0.13.20

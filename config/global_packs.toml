@@ -25,6 +25,6 @@ log_pack_ids = false
 	]
 
 [datapacks]
-	required = []
+	required = ["datapacks/created"]
 	optional = []
 	enable_builtin = []

@@ -150,7 +150,7 @@ hash = "9bbdaaf3cc126b1cb7d7de511f1b9756f89663b4b30bef8e3ad05473f3e4c327"
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "339fe8e75e92526e3319a146c385208cd1f8345e8ef89b6f4612b2e2126a2148"
+hash = "1e22f867246fa91ca099fda9d16502e8407f5800a82889cb629e9a524b465ce9"
 
 [[files]]
 file = "config/immersiveoverlays.json"
@@ -187,6 +187,30 @@ hash = "9307b5ff32a5c62bfdb129381544f1a106d990afd0516ec253a94cf174714337"
 [[files]]
 file = "config/worldedit/worldedit.properties"
 hash = "f77882aa51025e80a56daecbad967487351a918e01326980c884a20270971da5"
+
+[[files]]
+file = "datapacks/created/data/minecraft/advancement/adventure/use_lodestone.json"
+hash = "d497dae559b34e3dd204efdcb8ebba0c4eab081a7c8a97d8d0527fa65dcb4a91"
+
+[[files]]
+file = "datapacks/created/data/minecraft/advancement/nether/use_lodestone.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/minecraft/advancement/recipes/decorations/lodestone.json"
+hash = "6ab2704611b297816e4a840986c0fd9e1a9d9447c13c4e10c9e0ba173fe6ba65"
+
+[[files]]
+file = "datapacks/created/data/minecraft/recipe/lodestone.json"
+hash = "0bebf5b6b78319aab7c511e964203face9f4bd3ac56d437b97ef2b0d3e223acc"
+
+[[files]]
+file = "datapacks/created/pack.mcmeta"
+hash = "3db86d80112f0d03509c0e6284e812ebd3d6aef0c9d8755950e6504d976ebadf"
+
+[[files]]
+file = "datapacks/created/pack.png"
+hash = "7fcb7e62205f739349d1130360ffb7b0502fbba4b4ec53451090b0ea05b53427"
 
 [[files]]
 file = "mods/aa4-atlas.pw.toml"
