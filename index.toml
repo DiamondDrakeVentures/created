@@ -157,6 +157,10 @@ file = "config/immersiveoverlays.json"
 hash = "b3992d30c2a1606504e38d6036b58381e20204dfa948383a9ea624277b71f09d"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "38dfbc0141dbac44827f182bc0fd1214e6a5e434007a3b8441d254d9d5366008"
+
+[[files]]
 file = "config/jade/jade.json"
 hash = "9155663d219d6cc785c2994519b00d64a75194c33f1b311d5de6ba875f280cfa"
 

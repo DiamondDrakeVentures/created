@@ -84,6 +84,8 @@ same Minecraft version (e.g. 1.21.1).
 
 ### Deprecated
 
+- Disabled Dragon's Breath Bucket from Create: Garnished.
+
 ### Removed
 
 - Removed mods:
