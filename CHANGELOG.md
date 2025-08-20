@@ -88,6 +88,10 @@ same Minecraft version (e.g. 1.21.1).
 
 ### Removed
 
+- Removed duplicate Ending recipe for Chorus Fruit.
+- Removed Ending recipe for Crying Obsidian.
+- Removed duplicate Ending recipe for End Stone.
+- Removed Ending recipe for Magma Cream.
 - Removed mods:
   - Ender Dragon Fight Remastered
   - Paxi

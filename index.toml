@@ -245,7 +245,23 @@ file = "datapacks/created/data/created/recipe/milling/granite.json"
 hash = "635b0c378364571b4be65d26322374c433677282bf28791548b6dfea91fd3a47"
 
 [[files]]
+file = "datapacks/created/data/dndesires/recipe/dragon_breathing/chorus_fruit_from_apple.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/dndesires/recipe/dragon_breathing/crying_obsidian.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
 file = "datapacks/created/data/dndesires/recipe/dragon_breathing/dragon_breath.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/dndesires/recipe/dragon_breathing/end_stone.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/dndesires/recipe/dragon_breathing/ender_pearl_from_magma_cream.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
