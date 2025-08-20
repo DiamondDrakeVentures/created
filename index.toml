@@ -197,6 +197,10 @@ file = "datapacks/created/data/create/recipe/milling/granite.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
+file = "datapacks/created/data/create_dragons_plus/recipe/ending/end_stone_from_cobblestone.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
 file = "datapacks/created/data/create_ultimate_factory/recipe/crushing_blackstone.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
@@ -231,6 +235,10 @@ hash = "8aaa91720287148cbfc547f8f9fb6a2cd4b91771ce6d67a2697cd72b4bf8a8a5"
 [[files]]
 file = "datapacks/created/data/created/recipe/ending/dragon_breath_bucket.json"
 hash = "a69214675e82f8a337bd5ca341980615e00f6957439154af5a54e964ea1b3f91"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/ending/end_stone.json"
+hash = "b40e7a93b2005f3fc92ce2f5f240c5c16f801f7e6f6f9333b44e04f1c97af1d0"
 
 [[files]]
 file = "datapacks/created/data/created/recipe/milling/blackstone.json"

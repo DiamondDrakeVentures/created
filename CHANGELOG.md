@@ -59,6 +59,7 @@ same Minecraft version (e.g. 1.21.1).
 - Advancement for using a Lodestone now reside under the Adventure category.
 - Tweaked Milling and Crushing recipes for Red Sand.
 - Tweaked Crushing recipes with Blackstone as ingredient.
+- Tweaked Ending recipe for End Stone.
 - Updated mods:
   - Balm 21.0.48 => 21.0.49
   - Chat Heads 0.13.18 => 0.13.20
