@@ -16,9 +16,7 @@ jobs:
   packwiz-index:
     runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
-        with:
-          lfs: true
+      - uses: diamonddrakeventures/actions/cached-lfs-checkout@3bff8f022fb6d5ad4f16366df47ca612dba97258
       - uses: actions/setup-go@v5
       - name: Install Packwiz
         run: go install github.com/packwiz/packwiz@latest
