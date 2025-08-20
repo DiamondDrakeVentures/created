@@ -23,6 +23,9 @@ same Minecraft version (e.g. 1.21.1).
 - Added configuration menu (Ender Dragon Fight Remastered: Create(D) Edition).
 - Added training dummy (MmmMmmMmmMmm).
 - Added a recipe to demagnetize Lodestone Compass.
+- Added Crushing and Milling recipes for White Sand.
+- Added Crushing and Milling recipes for Orange Sand.
+- Added Milling recipe for Black Sand.
 - Added mods:
   - Configurable
   - Create Waystones Recipes
@@ -53,6 +56,8 @@ same Minecraft version (e.g. 1.21.1).
 - Waystones, Portstones, and Sharestones block texture and UI are now in-line with the Create aesthetics (Create Waystones Texture + GUI).
 - Lodestones now cost an Iron Ingot rather than a Netherite Ingot to craft.
 - Advancement for using a Lodestone now reside under the Adventure category.
+- Tweaked Milling and Crushing recipes for Red Sand.
+- Tweaked Crushing recipes with Blackstone as ingredient.
 - Updated mods:
   - Balm 21.0.48 => 21.0.49
   - Chat Heads 0.13.18 => 0.13.20

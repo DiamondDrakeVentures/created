@@ -189,6 +189,14 @@ file = "config/worldedit/worldedit.properties"
 hash = "f77882aa51025e80a56daecbad967487351a918e01326980c884a20270971da5"
 
 [[files]]
+file = "datapacks/created/data/create/recipe/milling/granite.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/create_ultimate_factory/recipe/crushing_blackstone.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
 file = "datapacks/created/data/created/advancement/recipes/root.json"
 hash = "300ec3f0a5446b43762a0e99d2bba4ea5c483a3105c4d5eab11e6da820e524c8"
 
@@ -199,6 +207,30 @@ hash = "f1486541cff04ad230048aca138f4fcc3833666e2637bea847a6f1000b438441"
 [[files]]
 file = "datapacks/created/data/created/recipe/compass.json"
 hash = "8b59ebbdf150c5c90a3b9fcabe2757d543123d480fa07fa9c4a665f98350c6aa"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crushing/blackstone.json"
+hash = "54ec544ba3887470d4ebf299a6eddcaa1137e63c2d033a4d030cab43acb09e35"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crushing/diorite.json"
+hash = "0326183f04bbcae5cea03ec9fee4bbd92f90b821f1e1db80a0b1b5c3698fa979"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crushing/granite.json"
+hash = "4f375c5302a8c01e385cc93bf2a53d0aa0feff4cbaf1f7d5e7cf91219bd79c26"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/milling/blackstone.json"
+hash = "6c0ec72cbafb60d61b0b2e8faf9743ce415b64739d79f1fba43afc8f4cbde627"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/milling/diorite.json"
+hash = "265d5f5c2f10ad8bcbb67f8cde8d689a1532b9764282dd10e0c66bbf156a853c"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/milling/granite.json"
+hash = "635b0c378364571b4be65d26322374c433677282bf28791548b6dfea91fd3a47"
 
 [[files]]
 file = "datapacks/created/data/minecraft/advancement/adventure/use_lodestone.json"

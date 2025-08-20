@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "processing_time": 350,
+  "ingredients": [
+    {
+      "item": "minecraft:blackstone"
+    }
+  ],
+  "results": [
+    {
+      "id": "biomesoplenty:black_sand"
+    }
+  ]
+}
