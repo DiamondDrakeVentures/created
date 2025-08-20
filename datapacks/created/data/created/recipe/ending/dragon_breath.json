@@ -1,0 +1,13 @@
+{
+  "type": "create_dragons_plus:ending",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:dragon_breath"
+    }
+  ]
+}

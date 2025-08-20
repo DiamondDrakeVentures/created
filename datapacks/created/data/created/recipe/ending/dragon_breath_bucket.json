@@ -1,0 +1,13 @@
+{
+  "type": "create_dragons_plus:ending",
+  "ingredients": [
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_dragons_plus:dragon_breath_bucket"
+    }
+  ]
+}

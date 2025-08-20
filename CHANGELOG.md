@@ -26,6 +26,7 @@ same Minecraft version (e.g. 1.21.1).
 - Added Crushing and Milling recipes for White Sand.
 - Added Crushing and Milling recipes for Orange Sand.
 - Added Milling recipe for Black Sand.
+- Added Ending recipe for Bucket of Dragon's Breath.
 - Added mods:
   - Configurable
   - Create Waystones Recipes
@@ -105,6 +106,7 @@ same Minecraft version (e.g. 1.21.1).
 - Fixed calculation of total player XP in XP Pump Upgrade (Sophisticated Core).
 - Fixed issues with Tank Upgrade I/O when handling fluids with NBT components (Sophisticated Core).
 - Fixed an issue where chests and shulker boxes are see through when there are hidden tier or upgrade slots displayed when the player has storage tool or relevant upgrade in hand (Sophisticated Storage).
+- Fixed Dragon's Breath Ending recipe.
 
 ### Security
 

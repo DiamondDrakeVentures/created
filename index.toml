@@ -221,6 +221,14 @@ file = "datapacks/created/data/created/recipe/crushing/granite.json"
 hash = "4f375c5302a8c01e385cc93bf2a53d0aa0feff4cbaf1f7d5e7cf91219bd79c26"
 
 [[files]]
+file = "datapacks/created/data/created/recipe/ending/dragon_breath.json"
+hash = "8aaa91720287148cbfc547f8f9fb6a2cd4b91771ce6d67a2697cd72b4bf8a8a5"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/ending/dragon_breath_bucket.json"
+hash = "a69214675e82f8a337bd5ca341980615e00f6957439154af5a54e964ea1b3f91"
+
+[[files]]
 file = "datapacks/created/data/created/recipe/milling/blackstone.json"
 hash = "6c0ec72cbafb60d61b0b2e8faf9743ce415b64739d79f1fba43afc8f4cbde627"
 
@@ -231,6 +239,10 @@ hash = "265d5f5c2f10ad8bcbb67f8cde8d689a1532b9764282dd10e0c66bbf156a853c"
 [[files]]
 file = "datapacks/created/data/created/recipe/milling/granite.json"
 hash = "635b0c378364571b4be65d26322374c433677282bf28791548b6dfea91fd3a47"
+
+[[files]]
+file = "datapacks/created/data/dndesires/recipe/dragon_breathing/dragon_breath.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
 file = "datapacks/created/data/minecraft/advancement/adventure/use_lodestone.json"
