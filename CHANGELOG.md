@@ -27,6 +27,8 @@ same Minecraft version (e.g. 1.21.1).
 - Added Crushing and Milling recipes for Orange Sand.
 - Added Milling recipe for Black Sand.
 - Added Ending recipe for Bucket of Dragon's Breath.
+- Added Hydraulic Compacting recipe for processing Graphite.
+- Added Hydraulic Compacting recipe for Diamond from Diamond Shards.
 - Added mods:
   - Configurable
   - Create Waystones Recipes
@@ -60,6 +62,8 @@ same Minecraft version (e.g. 1.21.1).
 - Tweaked Milling and Crushing recipes for Red Sand.
 - Tweaked Crushing recipes with Blackstone as ingredient.
 - Tweaked Ending recipe for End Stone.
+- Tweaked Compacting recipe for Graphite.
+- Tweaked Crushing recipe for recyling Impure Diamond.
 - Updated mods:
   - Balm 21.0.48 => 21.0.49
   - Chat Heads 0.13.18 => 0.13.20
@@ -93,6 +97,9 @@ same Minecraft version (e.g. 1.21.1).
 - Removed Ending recipe for Crying Obsidian.
 - Removed duplicate Ending recipe for End Stone.
 - Removed Ending recipe for Magma Cream.
+- Removed Packing recipe for Diamond from Coal Blocks.
+- Removed Shaped Crafting recipe for Diamond from Diamond Shards.
+- Removed Compacting recipe for processing Graphite.
 - Removed mods:
   - Ender Dragon Fight Remastered
   - Paxi

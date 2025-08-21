@@ -201,6 +201,22 @@ file = "datapacks/created/data/create_dragons_plus/recipe/ending/end_stone_from_
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
+file = "datapacks/created/data/create_synthetic_pressure/recipe/compacting/compressing_graphite.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/create_synthetic_pressure/recipe/compacting/graphite_processing.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/create_synthetic_pressure/recipe/crushing/recycling.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/create_ultimate_factory/recipe/compacting_coalblock.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
 file = "datapacks/created/data/create_ultimate_factory/recipe/crushing_blackstone.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
@@ -211,6 +227,10 @@ hash = "300ec3f0a5446b43762a0e99d2bba4ea5c483a3105c4d5eab11e6da820e524c8"
 [[files]]
 file = "datapacks/created/data/created/advancement/recipes/tools/compass.json"
 hash = "f1486541cff04ad230048aca138f4fcc3833666e2637bea847a6f1000b438441"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/compacting/graphite_powder.json"
+hash = "f7b5905d52d3d856b64601ce6b7744c931a4dfb5878a6e059aaa89e0709fd84a"
 
 [[files]]
 file = "datapacks/created/data/created/recipe/compass.json"
@@ -229,6 +249,10 @@ file = "datapacks/created/data/created/recipe/crushing/granite.json"
 hash = "4f375c5302a8c01e385cc93bf2a53d0aa0feff4cbaf1f7d5e7cf91219bd79c26"
 
 [[files]]
+file = "datapacks/created/data/created/recipe/crushing/impure_diamond.json"
+hash = "88e32a503f1b96608e4c1f37f4cb8e7d33b013bf4fe516e8067ace0b5f4d6492"
+
+[[files]]
 file = "datapacks/created/data/created/recipe/ending/dragon_breath.json"
 hash = "8aaa91720287148cbfc547f8f9fb6a2cd4b91771ce6d67a2697cd72b4bf8a8a5"
 
@@ -241,6 +265,14 @@ file = "datapacks/created/data/created/recipe/ending/end_stone.json"
 hash = "b40e7a93b2005f3fc92ce2f5f240c5c16f801f7e6f6f9333b44e04f1c97af1d0"
 
 [[files]]
+file = "datapacks/created/data/created/recipe/hydraulic_compacting/diamond_shard.json"
+hash = "26e90ec0582b3f2b340e540b1f62f4425fe663db3c6ed61b8639dc161d55961c"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/hydraulic_compacting/graphite.json"
+hash = "0929899d8a10b01acee6449fa13957c45eb0ff6104be26a227e75fce0decc634"
+
+[[files]]
 file = "datapacks/created/data/created/recipe/milling/blackstone.json"
 hash = "6c0ec72cbafb60d61b0b2e8faf9743ce415b64739d79f1fba43afc8f4cbde627"
 
@@ -251,6 +283,14 @@ hash = "265d5f5c2f10ad8bcbb67f8cde8d689a1532b9764282dd10e0c66bbf156a853c"
 [[files]]
 file = "datapacks/created/data/created/recipe/milling/granite.json"
 hash = "635b0c378364571b4be65d26322374c433677282bf28791548b6dfea91fd3a47"
+
+[[files]]
+file = "datapacks/created/data/dndesires/recipe/advancement/recipes/misc/crafting/diamond_from_diamond_shard.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/dndesires/recipe/crafting/diamond_from_diamond_shard.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
 file = "datapacks/created/data/dndesires/recipe/dragon_breathing/chorus_fruit_from_apple.json"

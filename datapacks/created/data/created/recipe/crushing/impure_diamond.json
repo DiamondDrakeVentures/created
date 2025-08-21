@@ -1,0 +1,26 @@
+{
+  "type": "create:crushing",
+  "processing_time": 350,
+  "ingredients": [
+    {
+      "item": "create_synthetic_pressure:impure_diamond"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:gravel"
+    },
+    {
+      "id": "create_synthetic_pressure:graphite_powder",
+      "chance": 0.5
+    },
+    {
+      "id": "create:experience_nugget",
+      "chance": 0.5
+    },
+    {
+      "id": "dndesires:diamond_shard",
+      "chance": 0.25
+    }
+  ]
+}

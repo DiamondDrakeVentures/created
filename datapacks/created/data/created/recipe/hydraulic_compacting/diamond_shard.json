@@ -1,0 +1,23 @@
+{
+  "type": "dndesires:hydraulic_compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "dndesires:diamond_shard"
+    },
+    {
+      "item": "dndesires:diamond_shard"
+    },
+    {
+      "item": "dndesires:diamond_shard"
+    },
+    {
+      "item": "dndesires:diamond_shard"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:diamond"
+    }
+  ]
+}

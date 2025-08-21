@@ -1,0 +1,19 @@
+{
+  "type": "dndesires:hydraulic_compacting",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    {
+      "item": "create_synthetic_pressure:graphite"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:diamond",
+      "chance": 0.2
+    },
+    {
+      "id": "create_synthetic_pressure:impure_diamond",
+      "chance": 0.8
+    }
+  ]
+}
