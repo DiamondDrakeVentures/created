@@ -201,6 +201,14 @@ file = "datapacks/created/data/bettertridents/recipe/trident.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
+file = "datapacks/created/data/c/tags/block/chains.json"
+hash = "af31408cf2cf562f2eefad04a460255a0d0cbc63e70dfae5c21999f74764e895"
+
+[[files]]
+file = "datapacks/created/data/c/tags/item/chains.json"
+hash = "af31408cf2cf562f2eefad04a460255a0d0cbc63e70dfae5c21999f74764e895"
+
+[[files]]
 file = "datapacks/created/data/c/tags/item/ropes.json"
 hash = "0df3af4ebedf3046a3353fc922f063f5b321cff9a75c9f80ce7661d3392ce5a5"
 
@@ -210,7 +218,7 @@ hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
 file = "datapacks/created/data/connectiblechains/tags/item/catenary_items.json"
-hash = "d5302f0cc77e7313dc17aa950333ba21782f605ee3a124548f5b2f8089756865"
+hash = "db7ae83033aa8ab98cbd9d298b9fbb71831e8b4cba69a36c6ce6fd957bfc2bd9"
 
 [[files]]
 file = "datapacks/created/data/create/recipe/milling/granite.json"
@@ -339,6 +347,14 @@ hash = "4007af030823fb1c56a2b78903f50adcc2852c2fcd6c844612dee80eadebb0c0"
 [[files]]
 file = "datapacks/created/data/created/recipe/supplementaries_rope_from_farmersdelight_rope.json"
 hash = "f5725294a77567f3f38c66894178e602c40b81cb26fc67b82342f726dc755a65"
+
+[[files]]
+file = "datapacks/created/data/created/tags/block/chains.json"
+hash = "001459acd074d1fe4ce22bbaa5ad9f751942d11250e7837750fb1eeccf89697a"
+
+[[files]]
+file = "datapacks/created/data/created/tags/item/chains.json"
+hash = "001459acd074d1fe4ce22bbaa5ad9f751942d11250e7837750fb1eeccf89697a"
 
 [[files]]
 file = "datapacks/created/data/createornithopterglider/recipe/rope.json"
