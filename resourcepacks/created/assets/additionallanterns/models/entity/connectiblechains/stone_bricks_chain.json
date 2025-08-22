@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "chain": "additionallanterns:block/materials/stone_bricks_chain",
+    "knot": "additionallanterns:block/materials/stone_bricks_chain"
+  }
+}

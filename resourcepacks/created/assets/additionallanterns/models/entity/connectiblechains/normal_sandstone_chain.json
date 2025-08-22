@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "chain": "additionallanterns:block/materials/normal_sandstone_chain",
+    "knot": "additionallanterns:block/materials/normal_sandstone_chain"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "chain": "additionallanterns:block/materials/oxidized_copper_chain",
+    "knot": "additionallanterns:block/materials/oxidized_copper_chain"
+  }
+}

@@ -150,7 +150,7 @@ hash = "9bbdaaf3cc126b1cb7d7de511f1b9756f89663b4b30bef8e3ad05473f3e4c327"
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "1e22f867246fa91ca099fda9d16502e8407f5800a82889cb629e9a524b465ce9"
+hash = "859a14ad23a46fc50985ebc95dde21024a311daf972907f150b413be80ec6f08"
 
 [[files]]
 file = "config/immersiveoverlays.json"
@@ -201,6 +201,14 @@ file = "datapacks/created/data/bettertridents/recipe/trident.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
+file = "datapacks/created/data/c/tags/block/chains.json"
+hash = "af31408cf2cf562f2eefad04a460255a0d0cbc63e70dfae5c21999f74764e895"
+
+[[files]]
+file = "datapacks/created/data/c/tags/item/chains.json"
+hash = "af31408cf2cf562f2eefad04a460255a0d0cbc63e70dfae5c21999f74764e895"
+
+[[files]]
 file = "datapacks/created/data/c/tags/item/ropes.json"
 hash = "0df3af4ebedf3046a3353fc922f063f5b321cff9a75c9f80ce7661d3392ce5a5"
 
@@ -210,7 +218,7 @@ hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
 file = "datapacks/created/data/connectiblechains/tags/item/catenary_items.json"
-hash = "d5302f0cc77e7313dc17aa950333ba21782f605ee3a124548f5b2f8089756865"
+hash = "db7ae83033aa8ab98cbd9d298b9fbb71831e8b4cba69a36c6ce6fd957bfc2bd9"
 
 [[files]]
 file = "datapacks/created/data/create/recipe/milling/granite.json"
@@ -339,6 +347,14 @@ hash = "4007af030823fb1c56a2b78903f50adcc2852c2fcd6c844612dee80eadebb0c0"
 [[files]]
 file = "datapacks/created/data/created/recipe/supplementaries_rope_from_farmersdelight_rope.json"
 hash = "f5725294a77567f3f38c66894178e602c40b81cb26fc67b82342f726dc755a65"
+
+[[files]]
+file = "datapacks/created/data/created/tags/block/chains.json"
+hash = "001459acd074d1fe4ce22bbaa5ad9f751942d11250e7837750fb1eeccf89697a"
+
+[[files]]
+file = "datapacks/created/data/created/tags/item/chains.json"
+hash = "001459acd074d1fe4ce22bbaa5ad9f751942d11250e7837750fb1eeccf89697a"
 
 [[files]]
 file = "datapacks/created/data/createornithopterglider/recipe/rope.json"
@@ -2225,6 +2241,170 @@ metafile = true
 file = "resourcepacks/create-waystones-texture-+-gui.pw.toml"
 hash = "9e77cd5c9c9b584c44ed4be0fe93aaaf8777a20720e918364cac065fa24eeeda"
 metafile = true
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/amethyst_chain.json"
+hash = "927480a6c44976a410a3e0d17f0954fbbecbdf45e7bbf0bb0a5f2c732d1bfc6d"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/andesite_chain.json"
+hash = "5277e6a4fa65078b6190f6e21403cb7e80c3c2bcdc6b52e9224f4f1d45d2f162"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/basalt_chain.json"
+hash = "72088c5ae2ca8b9bd3115e9a2900d0c759f2bf70500cbdbaca5ff3aae939b802"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/blackstone_chain.json"
+hash = "41d1f7e8f12ecb49e0014101d4d6a594f28a1273994d8978fef57041a29cf3f0"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/bone_chain.json"
+hash = "e64a908b3e128b319be04cb0abfc086fb11d67af23f08dd62e5cb657f6f80977"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/bricks_chain.json"
+hash = "2f9991e8fbae433e07862a846c06fedd83f32f477abb4b3ff380be844dadd15f"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/cobbled_deepslate_chain.json"
+hash = "81bb668373240a718103fcc530dfab425262c0269c228e427f15c8eb515168eb"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/cobblestone_chain.json"
+hash = "15bdf4decd48b37265a150ec040038ca70449454a96f9e0d463e1261084cd8f6"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/copper_chain.json"
+hash = "f22919f16c0647af7e308c9bd06ae103bed9bfdae02d2cbf326314529abbc2c8"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/crimson_chain.json"
+hash = "9aab7c8a923b897464da3a059cc290e38affd7371b3d39af26d6f6968e269adb"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/dark_prismarine_chain.json"
+hash = "cbdd229b77eb6e9a2cbf284cb0012f1cc47182bfbd253d84f6a3a82bf07e890a"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/deepslate_bricks_chain.json"
+hash = "f3b61b36175ab1d111b9e48ad5f30c49f423f95e50949ca8fb282f795fefc469"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/diamond_chain.json"
+hash = "54f0f98b8fe98fe4b2047b9bfbd74a4b794417290140823da3beddf950d6e6a1"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/diorite_chain.json"
+hash = "04fcad40f4650fefef48a7a54188635c591b90bd0f52849f3541e341fe0774fa"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/emerald_chain.json"
+hash = "3a35be686252ccbe2e01b80ff6b32709ca43a58730319669390991b8ab7b7154"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/end_stone_chain.json"
+hash = "76fd0608f39f0a1d4d19db88aa704346c2dc29aa20ebcba67ad857691fe0aacb"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/exposed_copper_chain.json"
+hash = "f9eff56a5e978c75a06c6181cc7e3d7e6637abca49b82e2c1e0c883da10f6c14"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/gold_chain.json"
+hash = "5b1eb250fb0d7f67592d01a14f9de890c457a4e5d06ea654f5fac1021f58d807"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/granite_chain.json"
+hash = "b8b3c196aaaabe80e84e43c509f78fe15b12cb663fbe134cca729e9782f715aa"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/mossy_cobblestone_chain.json"
+hash = "e0addda51775adac528a083b36db0979c55163388045ce9990580502980847c2"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/netherite_chain.json"
+hash = "96b851c2d18f54e4c2d9a8498085b50fca04d6b65b5602f437c8d60486b4bd7d"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/normal_nether_bricks_chain.json"
+hash = "a273a194ea8583ea1185b3ce205cec415dcdf9657c1bcfb0bbff7a357f2ed06d"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/normal_sandstone_chain.json"
+hash = "86f3f3e535d5de62407e3fdfdd14e7a0b677174464ee6f237837f5155ace4016"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/obsidian_chain.json"
+hash = "176badc7d1b0a400523f20248f3c6d3f931185ae73266481e3bfafaeed29618f"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/oxidized_copper_chain.json"
+hash = "54796b851574cdb1f52ff7e13bfe3d8e96eb7f56aeb25aaa2bb1ad831b308821"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/prismarine_chain.json"
+hash = "74ff16fefb06076fcfc2a3b4c68f0432aa61b03dd90131aa9e3ef6e8bbdced0a"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/purpur_chain.json"
+hash = "57942b7a6a951298c565c29d30d12bd698a8573a96785ce1f81a9a3ddf5f216d"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/quartz_chain.json"
+hash = "70498ba8374b45bc1b4ca6b0c74862fe63801da8025e13ade9444ffac97a4ebe"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/red_nether_bricks_chain.json"
+hash = "49b80bb377fb2159ad510c15fc8db5614b928608862db0e25c9bf93a49e4bd82"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/red_sandstone_chain.json"
+hash = "c85e79458701af604b0a838a5fe409fc1f9ce251e411b62441d4fd53d2b9a95c"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/smooth_stone_chain.json"
+hash = "4032dc6a5f61de28cd0b1235aad92acbdfb7374944de2ab45a930ec83b021d4d"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/stone_bricks_chain.json"
+hash = "8d0fa07df473b8a779adc2e58d140892d89285e10de735341d0a0e4bd81fe16c"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/stone_chain.json"
+hash = "15b9bf302651149ff615865fe14949d1f53578aa42944a695068b921c191e3ad"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/warped_chain.json"
+hash = "13d2da24f626cfab1c4687e61e89c4c4d3a499c8cbdf77cf91800129287d2bf6"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/waxed_copper_chain.json"
+hash = "f36ed2c4def8cddf492d57ee3561f64253aead0e41f08f7785bf0c6811bf5fff"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/waxed_exposed_copper_chain.json"
+hash = "d56bcdd44b0f6a4249fc0909a20e39c16a46c915356b5f7f9df54f36c9271e61"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/waxed_oxidized_copper_chain.json"
+hash = "d1aaa50b451b6e564fbfc1efd26fb0c5167bd03ac27a80ce61724d1132902704"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/waxed_weathered_copper_chain.json"
+hash = "a13ae539f1b550b72c4888355f3399ada98652afdf8ab394bc49a56da840db32"
+
+[[files]]
+file = "resourcepacks/created/assets/additionallanterns/models/entity/connectiblechains/weathered_copper_chain.json"
+hash = "f3b408409c9424aa3232d22fc6c9f733d8bd91d1e7b24414e0d92a385faa4938"
+
+[[files]]
+file = "resourcepacks/created/pack.mcmeta"
+hash = "15be68cecb7716fce2a49163f628e4db09b22eb9cfc57bf412d796e696ecabc4"
+
+[[files]]
+file = "resourcepacks/created/pack.png"
+hash = "7fcb7e62205f739349d1130360ffb7b0502fbba4b4ec53451090b0ea05b53427"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"

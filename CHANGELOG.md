@@ -69,6 +69,7 @@ same Minecraft version (e.g. 1.21.1).
 - Farmer's Delight Rope and Supplementaries Rope can be converted to and from each other.
 - Ornithopter Glider now requires Supplementaries Ropes.
 - Farmer's Delight Rope is no longer a Catenary item.
+- All Chains are now Catenary compatible.
 - Updated mods:
   - Balm 21.0.48 => 21.0.49
   - Chat Heads 0.13.18 => 0.13.20

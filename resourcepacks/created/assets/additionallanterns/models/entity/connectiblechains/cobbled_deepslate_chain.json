@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "chain": "additionallanterns:block/materials/cobbled_deepslate_chain",
+    "knot": "additionallanterns:block/materials/cobbled_deepslate_chain"
+  }
+}
