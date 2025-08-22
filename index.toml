@@ -193,6 +193,14 @@ file = "config/worldedit/worldedit.properties"
 hash = "f77882aa51025e80a56daecbad967487351a918e01326980c884a20270971da5"
 
 [[files]]
+file = "datapacks/created/data/bettertridents/advancement/recipes/combat/trident.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/bettertridents/recipe/trident.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
 file = "datapacks/created/data/create/recipe/milling/granite.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 

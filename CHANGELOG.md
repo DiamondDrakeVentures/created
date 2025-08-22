@@ -100,6 +100,7 @@ same Minecraft version (e.g. 1.21.1).
 - Removed Packing recipe for Diamond from Coal Blocks.
 - Removed Shaped Crafting recipe for Diamond from Diamond Shards.
 - Removed Compacting recipe for processing Graphite.
+- Removed duplicate Trident recipe.
 - Removed mods:
   - Ender Dragon Fight Remastered
   - Paxi
