@@ -158,7 +158,7 @@ hash = "b3992d30c2a1606504e38d6036b58381e20204dfa948383a9ea624277b71f09d"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "38dfbc0141dbac44827f182bc0fd1214e6a5e434007a3b8441d254d9d5366008"
+hash = "64e787b81af1a69a793e97f6de2257f77588387473cef2988540d7ed7f35f4d2"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -201,6 +201,18 @@ file = "datapacks/created/data/bettertridents/recipe/trident.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
+file = "datapacks/created/data/c/tags/item/ropes.json"
+hash = "0df3af4ebedf3046a3353fc922f063f5b321cff9a75c9f80ce7661d3392ce5a5"
+
+[[files]]
+file = "datapacks/created/data/comforts/recipe/rope_and_nail.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/connectiblechains/tags/item/catenary_items.json"
+hash = "d5302f0cc77e7313dc17aa950333ba21782f605ee3a124548f5b2f8089756865"
+
+[[files]]
 file = "datapacks/created/data/create/recipe/milling/granite.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
@@ -229,12 +241,28 @@ file = "datapacks/created/data/create_ultimate_factory/recipe/crushing_blackston
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
+file = "datapacks/created/data/created/advancement/recipes/decorations/safety_net.json"
+hash = "b16cd13b7cbdb3e9eec78d893cfe9ca4c81d952661c50a67d2adf561aa15095d"
+
+[[files]]
+file = "datapacks/created/data/created/advancement/recipes/misc/rope_conversion.json"
+hash = "a6dcb9dffa86f71be62d22578a6f4c1323b9a53de0eeec5ad89d84c4498dad7f"
+
+[[files]]
+file = "datapacks/created/data/created/advancement/recipes/misc/rope_from_safety_net.json"
+hash = "96b4daaf2ceb983986f2267821feed3a08775791f63502b12c6378f60f5bc1e7"
+
+[[files]]
 file = "datapacks/created/data/created/advancement/recipes/root.json"
 hash = "300ec3f0a5446b43762a0e99d2bba4ea5c483a3105c4d5eab11e6da820e524c8"
 
 [[files]]
 file = "datapacks/created/data/created/advancement/recipes/tools/compass.json"
 hash = "f1486541cff04ad230048aca138f4fcc3833666e2637bea847a6f1000b438441"
+
+[[files]]
+file = "datapacks/created/data/created/advancement/recipes/tools/rope.json"
+hash = "41ed55daf1b506b8c318fa7ca4f42a5bbe4bf78d2d1bc090d199d0d12eabaf5c"
 
 [[files]]
 file = "datapacks/created/data/created/recipe/compacting/graphite_powder.json"
@@ -273,6 +301,10 @@ file = "datapacks/created/data/created/recipe/ending/end_stone.json"
 hash = "b40e7a93b2005f3fc92ce2f5f240c5c16f801f7e6f6f9333b44e04f1c97af1d0"
 
 [[files]]
+file = "datapacks/created/data/created/recipe/farmersdelight_rope_from_supplementaries_rope.json"
+hash = "cc974cd777214af267dc2055ccfdfb50cf8ff021ee5b26fcb37bf2090a32da7f"
+
+[[files]]
 file = "datapacks/created/data/created/recipe/hydraulic_compacting/diamond_shard.json"
 hash = "26e90ec0582b3f2b340e540b1f62f4425fe663db3c6ed61b8639dc161d55961c"
 
@@ -291,6 +323,30 @@ hash = "265d5f5c2f10ad8bcbb67f8cde8d689a1532b9764282dd10e0c66bbf156a853c"
 [[files]]
 file = "datapacks/created/data/created/recipe/milling/granite.json"
 hash = "635b0c378364571b4be65d26322374c433677282bf28791548b6dfea91fd3a47"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/rope.json"
+hash = "160e7cb8a836471ce6d62fca6a788c475c27a01073fd31dccacb3b7e947262e3"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/rope_from_safety_net.json"
+hash = "5b578c2a236a92746b698474d74e4c79d965fb29c9b2bdf723b92d26dfacc3f2"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/safety_net.json"
+hash = "4007af030823fb1c56a2b78903f50adcc2852c2fcd6c844612dee80eadebb0c0"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/supplementaries_rope_from_farmersdelight_rope.json"
+hash = "f5725294a77567f3f38c66894178e602c40b81cb26fc67b82342f726dc755a65"
+
+[[files]]
+file = "datapacks/created/data/createornithopterglider/recipe/rope.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/createornithopterglider/tags/item/ropes.json"
+hash = "0df3af4ebedf3046a3353fc922f063f5b321cff9a75c9f80ce7661d3392ce5a5"
 
 [[files]]
 file = "datapacks/created/data/dndesires/recipe/advancement/recipes/misc/crafting/diamond_from_diamond_shard.json"
@@ -321,6 +377,30 @@ file = "datapacks/created/data/dndesires/recipe/dragon_breathing/ender_pearl_fro
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
+file = "datapacks/created/data/farmersdelight/advancement/recipes/decorations/rope.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/farmersdelight/advancement/recipes/decorations/rope_from_safety_net.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/farmersdelight/advancement/recipes/decorations/safety_net.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/farmersdelight/recipe/rope.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/farmersdelight/recipe/rope_from_safety_net.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/farmersdelight/recipe/safety_net.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
 file = "datapacks/created/data/minecraft/advancement/adventure/use_lodestone.json"
 hash = "d497dae559b34e3dd204efdcb8ebba0c4eab081a7c8a97d8d0527fa65dcb4a91"
 
@@ -335,6 +415,18 @@ hash = "6ab2704611b297816e4a840986c0fd9e1a9d9447c13c4e10c9e0ba173fe6ba65"
 [[files]]
 file = "datapacks/created/data/minecraft/recipe/lodestone.json"
 hash = "0bebf5b6b78319aab7c511e964203face9f4bd3ac56d437b97ef2b0d3e223acc"
+
+[[files]]
+file = "datapacks/created/data/supplementaries/advancement/recipes/rope.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/supplementaries/recipe/rope.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/supplementaries/tags/item/ropes.json"
+hash = "0df3af4ebedf3046a3353fc922f063f5b321cff9a75c9f80ce7661d3392ce5a5"
 
 [[files]]
 file = "datapacks/created/pack.mcmeta"

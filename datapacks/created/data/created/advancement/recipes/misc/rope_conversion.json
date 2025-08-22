@@ -1,0 +1,39 @@
+{
+  "parent": "created:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": [
+          "created:supplementaries_rope_from_farmersdelight_rope",
+          "created:farmersdelight_rope_from_supplementaries_rope"
+        ]
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_rope": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "supplementaries:rope",
+              "farmersdelight:rope"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_rope"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "created:supplementaries_rope_from_farmersdelight_rope",
+      "created:farmersdelight_rope_from_supplementaries_rope"
+    ]
+  }
+}

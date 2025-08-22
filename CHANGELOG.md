@@ -64,6 +64,11 @@ same Minecraft version (e.g. 1.21.1).
 - Tweaked Ending recipe for End Stone.
 - Tweaked Compacting recipe for Graphite.
 - Tweaked Crushing recipe for recyling Impure Diamond.
+- Supplementaries Rope can now be crafted with Flax and Straws.
+- Safety Net can now be crafted (uncrafted) into Supplementaries Ropes instead of Farmer's Delight Ropes.
+- Farmer's Delight Rope and Supplementaries Rope can be converted to and from each other.
+- Ornithopter Glider now requires Supplementaries Ropes.
+- Farmer's Delight Rope is no longer a Catenary item.
 - Updated mods:
   - Balm 21.0.48 => 21.0.49
   - Chat Heads 0.13.18 => 0.13.20
@@ -90,6 +95,7 @@ same Minecraft version (e.g. 1.21.1).
 ### Deprecated
 
 - Disabled Dragon's Breath Bucket from Create: Garnished.
+- Disabled Create: Ornithopter Glider Rope.
 
 ### Removed
 
@@ -101,6 +107,9 @@ same Minecraft version (e.g. 1.21.1).
 - Removed Shaped Crafting recipe for Diamond from Diamond Shards.
 - Removed Compacting recipe for processing Graphite.
 - Removed duplicate Trident recipe.
+- Removed recipe for Create: Ornithopter Glider Rope.
+- Removed recipe for Rope and Nail using Strings.
+- Removed recipe for Farmer's Delight Rope using Straws.
 - Removed mods:
   - Ender Dragon Fight Remastered
   - Paxi

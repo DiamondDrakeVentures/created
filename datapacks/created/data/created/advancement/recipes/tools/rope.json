@@ -1,0 +1,35 @@
+{
+  "parent": "created:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "created:rope"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_straw": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "supplementaries:flax",
+              "farmersdelight:straw"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_straw"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "created:rope"
+    ]
+  }
+}

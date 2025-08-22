@@ -17,7 +17,8 @@
   //    Example: minecraft:diamond
   "blacklisted_items": [
     "garnished:dragon_breath_bucket",
-    "garnished:dragon_breath"
+    "garnished:dragon_breath",
+    "createornithopterglider:rope"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
