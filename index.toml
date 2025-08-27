@@ -1647,6 +1647,11 @@ hash = "468aa5d77980b1b47f5dea83623b0ef726eeee27425f30e4ce927ca0dcc569e4"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "f0c97c0212ddda5c012ba451a123d4b39e89f402cc70d38d31dc9098736ec07f"
+metafile = true
+
+[[files]]
 file = "mods/maintenancemode.pw.toml"
 hash = "55c90ab9545e0756c95a0b22dafb076555d05fccd1f84036ed62140915f6ab51"
 metafile = true

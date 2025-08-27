@@ -46,6 +46,9 @@ same Minecraft version (e.g. 1.21.1).
 - Added keybinds for Handheld Drill (Create: Dreams & Desires).
 - Added Golden Mixer (Create: Dreams & Desires).
 - Added alternative recipe for Straw (Create Crafts & Additions).
+- Added Amethyst Magnum Torch (Magnum Torch).
+- Added Diamond Magnum Torch (Magnum Torch).
+- Added Emerald Magnum Torch (Magnum Torch).
 - Added mods:
   - Configurable
   - Create Waystones Recipes
@@ -57,6 +60,7 @@ same Minecraft version (e.g. 1.21.1).
   - Jade
   - Jade Addons
   - Leaves Be Gone
+  - Magnum Torch
   - MmmMmmMmmMmm
   - Pick Up Notifier
 - Added resource packs:
