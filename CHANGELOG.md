@@ -70,6 +70,7 @@ same Minecraft version (e.g. 1.21.1).
 - Ornithopter Glider now requires Supplementaries Ropes.
 - Farmer's Delight Rope is no longer a Catenary item.
 - All Chains are now Catenary compatible.
+- Mobs with Sophisticated Backpacks no longer plays jukebox music.
 - Updated mods:
   - Balm 21.0.48 => 21.0.49
   - Chat Heads 0.13.18 => 0.13.20
