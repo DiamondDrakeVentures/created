@@ -17,6 +17,8 @@ lost+found
 # Project ignores
 licenses.csv
 server/
+tools/catenary_chain/catenary_chain
+tools/catenary_chain/catenary_chain.exe
 tools/license_report/license_report
 tools/license_report/license_report.exe
 tools/make_server_both/make_server_both
