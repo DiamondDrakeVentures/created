@@ -38,6 +38,7 @@ same Minecraft version (e.g. 1.21.1).
 - Added recipe for Display Collector (Create: Extra Gauges).
 - Added string connection to all panels (Create: Extra Gauges).
 - Added an option to lock the body rotation for custom bow animation (Not Enough Animations).
+- Added an overlay showing picked up items (Pick Up Notifier).
 - Added mods:
   - Configurable
   - Create Waystones Recipes
@@ -47,6 +48,7 @@ same Minecraft version (e.g. 1.21.1).
   - Jade
   - Jade Addons
   - MmmMmmMmmMmm
+  - Pick Up Notifier
 - Added resource packs:
   - Create Waystones Texture + GUI
 
