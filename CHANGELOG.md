@@ -40,6 +40,7 @@ same Minecraft version (e.g. 1.21.1).
 - Added an option to lock the body rotation for custom bow animation (Not Enough Animations).
 - Added an overlay showing picked up items (Pick Up Notifier).
 - Added a UI to Name Tag (Easy Anvil).
+- Added `amendments:cauldron_crafting` recipe type (Amendments).
 - Added mods:
   - Configurable
   - Create Waystones Recipes
@@ -108,7 +109,17 @@ same Minecraft version (e.g. 1.21.1).
 - Anvils are repairable with an Iron Block (Easy Anvil).
 - Name Tags can be renamed at no cost (Easy Anvil).
 - Name field now accepts formatting codes (Easy Anvil).
+- Buntings can now be placed on walls and ceilings (Supplementaries).
+- Lunch Basket and Sack can now use unique GUI textures (Supplementaries).
+- Lunch Basket can now be dyed all colors similar to Leather items (Supplementaries).
+- Bomb and Slingshot will now emit equally spaced particles (Supplementaries).
+- Candle Holder recipes now use one Ingot instead of three (Supplementaries).
+- Lunch Basket will now be set on a cooldown when eating an item with cooldown (Supplementaries).
+- All liquids can now bubble (Amendments).
+- All recipes now work both in-world and with hand interaction (Amendments).
+- Improved Sign screen renderer (Amendments).
 - Updated mods:
+  - Amendments 1.2.24 => 2.0.5
   - Aquatic Additions 4.0 => 4.1
   - Balm 21.0.48 => 21.0.49
   - Bookshelf 21.1.67 => 21.1.68
@@ -135,6 +146,7 @@ same Minecraft version (e.g. 1.21.1).
   - Kiwi 15.6.1 => 15.6.2
   - KleeSlabs 21.1.6 => 21.1.7
   - KotlinLangForge 2.10.1-k2.2.0-3.0 => 2.10.5-k2.2.10-3.0
+  - Moonlight Lib 2.20.7 => 2.22.2
   - Mysterious Mountain Lib 1.1.8 => 1.2.14
   - Neruina 2.3.1-beta.1 => 3.0.3
   - Not Enough Animations 1.10.1 => 1.10.2
@@ -144,6 +156,7 @@ same Minecraft version (e.g. 1.21.1).
   - Sophisiticated Backpacks 3.24.19.1292 => 3.24.21.1314
   - Sophisticated Core 1.3.59.1062 => 1.3.64.1090
   - Sophisticated Storage 1.4.46.1216 => 1.4.50.1235
+  - Supplementaries 3.3.5 => 3.4.9
   - Waystones 21.1.20 => 21.1.22
   - Wavey Capes 1.6.1.1 => 1.6.2
 
@@ -200,6 +213,9 @@ same Minecraft version (e.g. 1.21.1).
 - Fixed a potential datapack error with cooking recipes in KubeJS (Farmer's Delight).
 - Fixed an issue with the eating animation (Not Enough Animations).
 - Fixed an issue with animations when the left hand is the main hand (Not Enough Animations).
+- Fixed Bunting recipes (Supplementaries).
+- Fixed Wall Sign model being one pixel too tall (Amendments).
+- Fixed an issue where Stew recipes gave less than intended (Amendments).
 
 ### Security
 
