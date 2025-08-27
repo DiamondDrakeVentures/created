@@ -134,7 +134,7 @@ hash = "1a88e2d5e1c9f9b1c489e3eae00c12053e70e24b9dfcb5bac36c842cb397e4d2"
 
 [[files]]
 file = "config/fancymenu/customization/ddv_title_screen_layout.txt"
-hash = "6ec90409b4015ed0264b0bbe89836b631d17e4cc1eacced0bd8a7db1af213add"
+hash = "43fdb1cbd01dbd836a4ba712bbda4fd4205572c44b51d16377cea5103b87726f"
 
 [[files]]
 file = "config/fancymenu/customization/ddv_universal_layout.txt"
@@ -142,7 +142,7 @@ hash = "115f4e90acad292cbaf1e5da4b811e67113f8ee72523b1f0e3218172e25178b7"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "e206e31a387fa146b51574edf6ed64702d6beff9731cd728b5c064f66e44c8c0"
+hash = "6c5e53c8a4c7439ee0783f6b57bbcee6fde5bf84df7a7e7e1a7a80d91ee45356"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"

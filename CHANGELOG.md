@@ -10,6 +10,20 @@ However, each version is only backwards compatible within the same Game Version.
 For example, v1.2.0 is backwards compatible with v1.0.0 as long as they are both installed on the
 same Minecraft version (e.g. 1.21.1).
 
+## [UNRELEASED]
+
+### Added
+
+### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+### Security
+
 ## [0.3.0] - 2025-08-27
 
 ### Added

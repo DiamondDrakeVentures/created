@@ -248,7 +248,7 @@ element {
 
 element {
   interactable = false
-  source = Create(D) 0.3.0%n%{"placeholder":"loadername"} {"placeholder":"loaderver"} ({"placeholder":"loadedmods"} / {"placeholder":"totalmods"})%n%Minecraft {"placeholder":"mcversion"}
+  source = Create(D) 0.4.0%n%{"placeholder":"loadername"} {"placeholder":"loaderver"} ({"placeholder":"loadedmods"} / {"placeholder":"totalmods"})%n%Minecraft {"placeholder":"mcversion"}
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -1361,4 +1361,3 @@ vanilla_button {
   is_hidden = true
   automated_button_clicks = 0
 }
-
