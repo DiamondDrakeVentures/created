@@ -10,7 +10,7 @@ However, each version is only backwards compatible within the same Game Version.
 For example, v1.2.0 is backwards compatible with v1.0.0 as long as they are both installed on the
 same Minecraft version (e.g. 1.21.1).
 
-## [UNRELEASED]
+## [0.3.0] - 2025-08-27
 
 ### Added
 
@@ -237,8 +237,6 @@ same Minecraft version (e.g. 1.21.1).
 - Fixed updating issue with Smart Hopper (Create: Dreams & Desires).
 - Fixed Redstone Relay (Create Crafts & Additions).
 - Fixed broken compatibility recipes (Create Crafts & Additions).
-
-### Security
 
 ## [0.2.1] - 2025-08-13
 
