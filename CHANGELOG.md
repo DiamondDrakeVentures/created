@@ -39,11 +39,13 @@ same Minecraft version (e.g. 1.21.1).
 - Added string connection to all panels (Create: Extra Gauges).
 - Added an option to lock the body rotation for custom bow animation (Not Enough Animations).
 - Added an overlay showing picked up items (Pick Up Notifier).
+- Added a UI to Name Tag (Easy Anvil).
 - Added mods:
   - Configurable
   - Create Waystones Recipes
   - Diagonal Fences
   - Diagonal Windows
+  - Easy Anvil
   - Ender Dragon Fight Remastered: Create(D) Edition
   - Global Packs
   - Jade
@@ -100,6 +102,11 @@ same Minecraft version (e.g. 1.21.1).
 - Fences now connect diagonally (Diagonal Fences).
 - Glass Panes now connect diagonally (Diagonal Windows).
 - Iron Bars now connect diagonally (Diagonal Windows).
+- Items now stay inside the Anvil (Easy Anvil).
+- Anvil cost scale a lot less aggressively (Easy Anvil).
+- Anvils are repairable with an Iron Block (Easy Anvil).
+- Name Tags can be renamed at no cost (Easy Anvil).
+- Name field now accepts formatting codes (Easy Anvil).
 - Updated mods:
   - Aquatic Additions 4.0 => 4.1
   - Balm 21.0.48 => 21.0.49
