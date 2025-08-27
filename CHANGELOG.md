@@ -43,6 +43,7 @@ same Minecraft version (e.g. 1.21.1).
   - Configurable
   - Create Waystones Recipes
   - Diagonal Fences
+  - Diagonal Windows
   - Ender Dragon Fight Remastered: Create(D) Edition
   - Global Packs
   - Jade
@@ -97,6 +98,8 @@ same Minecraft version (e.g. 1.21.1).
 - Wild Cabbage and Sea Beet can now generate on any biome tagged with `minecraft:is_beach` (Farmer's Delight).
 - Cooking Pot can no longer be accessed in Spectator mode.
 - Fences now connect diagonally (Diagonal Fences).
+- Glass Panes now connect diagonally (Diagonal Windows).
+- Iron Bars now connect diagonally (Diagonal Windows).
 - Updated mods:
   - Aquatic Additions 4.0 => 4.1
   - Balm 21.0.48 => 21.0.49
