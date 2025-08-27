@@ -1907,11 +1907,6 @@ hash = "c5fd50416e7cabd4c5c69cd527ab9d2d8f5adbb30046501e7340526e232b16de"
 metafile = true
 
 [[files]]
-file = "mods/shetiphiancore.pw.toml"
-hash = "16c279fe840d55a49fa813913b9a1fd5446f9626f3b9267b88b32d4a8b7303e2"
-metafile = true
-
-[[files]]
 file = "mods/signcopy.pw.toml"
 hash = "c2c45b391e7f1c8360d044d9c927b763e5738138448304376fd3ee31c7e4a5c7"
 metafile = true

@@ -153,6 +153,7 @@ same Minecraft version (e.g. 1.21.1).
 - Removed mods:
   - Ender Dragon Fight Remastered
   - Multibeds
+  - ShetiPhianCore
   - Paxi
 
 ### Fixed
