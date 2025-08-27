@@ -7,7 +7,7 @@
 	pet_deaths = true
 	#Show death message for named entities.
 	#Default Value: true
-	named_entity_deaths = true
+	named_entity_deaths = false
 	#Show death message for players.
 	#Default Value: true
 	player_deaths = true
@@ -18,7 +18,7 @@
 [death_message_components]
 	#Add position component to death messages.
 	#Default Value: true
-	position_component = true
+	position_component = false
 	#Who should be allowed to click the position component to teleport there.
 	#Normal player can only teleport to their own death position once in a given time frame, if enabled.
 	#Operators can teleport to any death position without limitations, if enabled.
@@ -27,10 +27,10 @@
 	allow_teleporting = "NO_ONE"
 	#Add distance component to death messages.
 	#Default Value: true
-	distance_component = true
+	distance_component = false
 	#Add dimension component to death messages.
 	#Default Value: true
-	dimension_component = true
+	dimension_component = false
 	#Amount of seconds in which teleporting to the last death point is possible.
 	#Set to -1 to remove time limit.
 	#Default Value: 300

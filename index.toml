@@ -54,7 +54,7 @@ hash = "4bf69e6b552014f7d8b800342cc99f58c117bb7d2cc0ca5e702f689b4f83f068"
 
 [[files]]
 file = "config/deathfinder-server.toml"
-hash = "a70d4aa1f8970b5d54e55e37381393efad021a5307aa1499f72807181007e061"
+hash = "c54b1c4757f75615f37e823cf0d811e182bfee08f665255291e347cb26ec52c8"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
