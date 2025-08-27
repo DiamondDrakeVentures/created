@@ -58,7 +58,7 @@ jobs:
             allowUpdates: true
             name: ${{ env.TAG_NAME }}
             draft: true
-            tag: ${{ env.VERSION_ID }}
+            tag: ${{ env.TAG_NAME }}
             bodyFile: RELEASE.md
 
   release-modrinth:
@@ -92,6 +92,6 @@ jobs:
             allowUpdates: true
             name: ${{ env.TAG_NAME }}
             draft: false
-            tag: ${{ env.VERSION_ID }}
+            tag: ${{ env.TAG_NAME }}
             omitBodyDuringUpdate: true
             replacesArtifacts: false
