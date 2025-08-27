@@ -114,6 +114,7 @@ same Minecraft version (e.g. 1.21.1).
 - Removed recipe for Farmer's Delight Rope using Straws.
 - Removed mods:
   - Ender Dragon Fight Remastered
+  - Multibeds
   - Paxi
 
 ### Fixed

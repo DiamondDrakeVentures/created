@@ -1692,11 +1692,6 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
-file = "mods/multibeds.pw.toml"
-hash = "9863c39a8080d66ec2aa480fe5948643ee355ec39b147310b2d3f8b0e5135615"
-metafile = true
-
-[[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "0cd80499ad61c0617dfee679bb5dcd37870fd2895fd6f2f5fa0ed00b716a84ff"
 metafile = true
