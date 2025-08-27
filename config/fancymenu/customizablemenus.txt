@@ -1,8 +1,5 @@
 type = customizablemenus
 
-net.minecraft.client.gui.screens.TitleScreen {
-}
-
 net.minecraft.client.gui.screens.LevelLoadingScreen {
 }
 
@@ -101,3 +98,19 @@ me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
 
 net.minecraft.client.gui.screens.options.SoundOptionsScreen {
 }
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+net.minecraft.client.gui.screens.DisconnectedScreen {
+}
+
+info.u_team.oauth_account_manager.screen.AccountsScreen {
+}
+
+info.u_team.oauth_account_manager.screen.AddAccountOpenLinkScreen {
+}
+
+info.u_team.oauth_account_manager.screen.AddAccountOAuthScreen {
+}
+
