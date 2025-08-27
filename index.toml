@@ -249,6 +249,14 @@ file = "datapacks/created/data/create_dragons_plus/recipe/ending/end_stone_from_
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
+file = "datapacks/created/data/create_jetpack/recipe/jetpack.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/create_jetpack/recipe/netherite_jetpack.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
 file = "datapacks/created/data/create_synthetic_pressure/recipe/compacting/compressing_graphite.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
@@ -341,6 +349,10 @@ file = "datapacks/created/data/created/recipe/hydraulic_compacting/graphite.json
 hash = "0929899d8a10b01acee6449fa13957c45eb0ff6104be26a227e75fce0decc634"
 
 [[files]]
+file = "datapacks/created/data/created/recipe/jetpack.json"
+hash = "2307adef48875f0260bf592191034ca0bc1bd35caaf833565859e56e814247f9"
+
+[[files]]
 file = "datapacks/created/data/created/recipe/milling/blackstone.json"
 hash = "6c0ec72cbafb60d61b0b2e8faf9743ce415b64739d79f1fba43afc8f4cbde627"
 
@@ -351,6 +363,10 @@ hash = "265d5f5c2f10ad8bcbb67f8cde8d689a1532b9764282dd10e0c66bbf156a853c"
 [[files]]
 file = "datapacks/created/data/created/recipe/milling/granite.json"
 hash = "635b0c378364571b4be65d26322374c433677282bf28791548b6dfea91fd3a47"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/netherite_jetpack.json"
+hash = "2456e2309a6ebaab70a87c7a244ed7978bf8788c0324f8250c5b5bd3e241c014"
 
 [[files]]
 file = "datapacks/created/data/created/recipe/rope.json"

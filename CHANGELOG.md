@@ -130,6 +130,7 @@ same Minecraft version (e.g. 1.21.1).
 - All recipes now work both in-world and with hand interaction (Amendments).
 - Improved Sign screen renderer (Amendments).
 - Tweaked recipes (Create: Dreams & Desires).
+- Adjusted Jetpack recipes to utilize Immersive Aircraft sail instead of Elytra.
 - Updated mods:
   - Amendments 1.2.24 => 2.0.5
   - Aquatic Additions 4.0 => 4.1
