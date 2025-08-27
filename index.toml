@@ -1117,6 +1117,11 @@ hash = "58216e34b640bd4fcb425ba4a5fcdf8db313420263525746816889210eeb8133"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "54c0985498a40c7b9c63e336c11c1c48770dbfdf50c07dff988c1b086d26ba2f"
 metafile = true
