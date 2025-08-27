@@ -1,13 +1,13 @@
 name = "Configurable"
-filename = "configurable-3.2.1+1.21.1-neoforge.jar"
+filename = "configurable-3.2.5+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lGffrQ3O/versions/OJwyGyZn/configurable-3.2.1%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/lGffrQ3O/versions/d16JfjUH/configurable-3.2.5%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "c638b4416746aa423f8a7878bc8783e74fcd7bc053d0b7e8147dba7dfbd7a4c5b011a61d507515c46c7b69487ca67c0699a4929e509701b1d1ae2e898e9f7deb"
+hash = "6dc134a01fdffdd3479c890fe48ea96c5dc2ea2483ce715e5a42879207801cc116d08ede4a7c40f77615edb4c46fec7e5d7bde4b0e7226da9c306fc9b31465c6"
 
 [update]
 [update.modrinth]
 mod-id = "lGffrQ3O"
-version = "OJwyGyZn"
+version = "d16JfjUH"

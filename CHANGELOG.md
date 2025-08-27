@@ -29,6 +29,15 @@ same Minecraft version (e.g. 1.21.1).
 - Added Ending recipe for Bucket of Dragon's Breath.
 - Added Hydraulic Compacting recipe for processing Graphite.
 - Added Hydraulic Compacting recipe for Diamond from Diamond Shards.
+- Added a new ponder to factory gauge to explain the expanded recipes feature (Create: Extra Gauges).
+- Added Integer Selector (Create: Extra Gauges).
+- Added the String Gauge (Create: Extra Gauges).
+- Added the Display Collector (Create: Extra Gauges).
+- Added cache system configurable in client side config (Create: Extra Gauges).
+- Added Passive Gauge (Create: Extra Gauges).
+- Added recipe for Display Collector (Create: Extra Gauges).
+- Added string connection to all panels (Create: Extra Gauges).
+- Added an option to lock the body rotation for custom bow animation (Not Enough Animations).
 - Added mods:
   - Configurable
   - Create Waystones Recipes
@@ -71,26 +80,55 @@ same Minecraft version (e.g. 1.21.1).
 - Farmer's Delight Rope is no longer a Catenary item.
 - All Chains are now Catenary compatible.
 - Mobs with Sophisticated Backpacks no longer plays jukebox music.
+- Rebalanced armor (Aquatic Additions).
+- Bulk Fermenters and Distillation Towers now only require one heat source (Create: Diesel Generators).
+- Bulk Fermenters now can only hold up to 1,000 mB per tank per fluid type (Create: Diesel Generators).
+- Modified some recipes (Create: Diesel Generators).
+- Factory gagues can now craft larger recipes as long as there are less than 10 different items in the recipe (Create: Extra Gauges).
+- Small recipe can match larger auto crafters if configured in the GUI (Create: Extra Gauges).
+- Panels now update instantly with a configurable max update per tick (Create: Extra Gauges).
+- Levers and analog levers now directly connect to gauges without redstone links, though redstone updates are not instantaneous (Create: Extra Gauges).
+- Changed textures of Counter and Comparator Gauges (Create: Extra Gauges).
+- Integer Gauge can now change the stock amount of a factory gauge (Create: Extra Gauges).
+- Rich Soil Farmland can now be hydrated by any fluid type capable of hydration (Farmer's Delight).
+- Wild Cabbage and Sea Beet can now generate on any biome tagged with `minecraft:is_beach` (Farmer's Delight).
+- Cooking Pot can no longer be accessed in Spectator mode.
 - Updated mods:
+  - Aquatic Additions 4.0 => 4.1
   - Balm 21.0.48 => 21.0.49
+  - Bookshelf 21.1.67 => 21.1.68
   - Chat Heads 0.13.18 => 0.13.20
+  - Configurable 3.2.1 => 3.2.5
+  - Create: Diesel Generators 1.3.4 => 1.3.5
+  - Create: Extra Gauges 1.1.1 => 2.0.5
   - Create: Garnished 2.1.6.2 => 2.1.6.5
   - Create: Hypertubes 0.2.4 => 0.2.5
   - Create More: Parallel Pipes 1.1.0 => 1.1.1
   - Create: Peaceful 2.0.0 => 2.0.1
   - Create Train Parts 0.1.3 => 0.2.0
+  - Enchantment Descriptions 21.1.7 => 21.1.8
+  - Entity Model Features 2.4.1 => 3.0.1
+  - Entity Texture Features 6.2.9 => 7.0.1
   - Every Compat (Stone Zone) 1.21-2.10.6 => 1.21-2.10.8
+  - Geckolib 4.7.6 => 4.7.7
+  - FancyMenu 3.6.4 => 3.7.0
+  - Farmer's Delight 1.2.8 => 1.2.9
+  - Fusion 1.2.10 => 1.2.11a
   - Friends&Foes 4.0.7 => 4.0.8
   - Fzzy Config 0.7.1+1.21+neoforge => 0.7.2+1.21+neoforge
   - Just Blahaj 2.0.3 => 2.0.5
+  - Kiwi 15.6.1 => 15.6.2
   - KleeSlabs 21.1.6 => 21.1.7
-  - KotlinLangForge 2.10.1-k2.2.0-3.0 => 2.10.3-k2.2.0-3.0
-  - Neruina 2.3.1-beta.1 => 3.0.0
+  - KotlinLangForge 2.10.1-k2.2.0-3.0 => 2.10.5-k2.2.10-3.0
+  - Mysterious Mountain Lib 1.1.8 => 1.2.14
+  - Neruina 2.3.1-beta.1 => 3.0.3
+  - Not Enough Animations 1.10.1 => 1.10.2
+  - Packet Fixer 3.1.4 => 3.2.0
   - Puzzles Lib v21.1.36 => v21.1.38
   - Simple Voice Chat 2.5.35 => 2.5.36
-  - Sophisiticated Backpacks 3.24.19.1292 => 3.24.19.1301
-  - Sophisticated Core 1.3.59.1062 => 1.3.63.1086
-  - Sophisticated Storage 1.4.46.1216 => 1.4.47.1223
+  - Sophisiticated Backpacks 3.24.19.1292 => 3.24.21.1314
+  - Sophisticated Core 1.3.59.1062 => 1.3.64.1090
+  - Sophisticated Storage 1.4.46.1216 => 1.4.50.1235
   - Waystones 21.1.20 => 21.1.22
   - Wavey Capes 1.6.1.1 => 1.6.2
 
@@ -134,6 +172,18 @@ same Minecraft version (e.g. 1.21.1).
 - Fixed issues with Tank Upgrade I/O when handling fluids with NBT components (Sophisticated Core).
 - Fixed an issue where chests and shulker boxes are see through when there are hidden tier or upgrade slots displayed when the player has storage tool or relevant upgrade in hand (Sophisticated Storage).
 - Fixed Dragon's Breath Ending recipe.
+- Fixed Bulk Fermenters voiding items (Create: Diesel Generators).
+- Fixed modular engine crash on servers (Create: Diesel Generators).
+- Fixed train engine sounds disappearing after reloading the world (Create: Diesel Generators).
+- Fixed panels rendering/connections color issues (Create: Extra Gauges).
+- Fixed issues with Factory Gauges (Create: Extra Gauges).
+- Fixed an issue with large autocrafting when passing by a Re-packager (Create: Extra Gauges).
+- Fixed Cooking Pot allowing players to cook and store up to 99 servings (Farmer's Delight).
+- Fixed Create integration milling recipes using invalid field, causing them to never finish processing (Farmer's Delight).
+- Fixed Rabbit Stew not returning bowls after being eating (Farmer's Delight).
+- Fixed a potential datapack error with cooking recipes in KubeJS (Farmer's Delight).
+- Fixed an issue with the eating animation (Not Enough Animations).
+- Fixed an issue with animations when the left hand is the main hand (Not Enough Animations).
 
 ### Security
 
