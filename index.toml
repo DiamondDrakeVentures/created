@@ -142,7 +142,7 @@ hash = "115f4e90acad292cbaf1e5da4b811e67113f8ee72523b1f0e3218172e25178b7"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "9075d4747e625fe164687f356980154ebc4449f7bbbda33bd555253e8d86240d"
+hash = "e206e31a387fa146b51574edf6ed64702d6beff9731cd728b5c064f66e44c8c0"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
