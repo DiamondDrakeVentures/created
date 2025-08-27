@@ -56,6 +56,7 @@ same Minecraft version (e.g. 1.21.1).
   - Global Packs
   - Jade
   - Jade Addons
+  - Leaves Be Gone
   - MmmMmmMmmMmm
   - Pick Up Notifier
 - Added resource packs:
