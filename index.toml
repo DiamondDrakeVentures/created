@@ -1797,16 +1797,6 @@ hash = "8cbcc3af33fc2526dd0951ac88ce03a5589cf7f46e41b62b9f2b38780fe8a8a7"
 metafile = true
 
 [[files]]
-file = "mods/pandalib.pw.toml"
-hash = "b688d00256deb31244972e7cd14ae300762ffb04cd7d6d11edd9cddb02195807"
-metafile = true
-
-[[files]]
-file = "mods/pandas-falling-trees.pw.toml"
-hash = "17d8f71ce8116dafddbc8ea08f7bf089fcfc4a1c3b2544277df66b458ce21878"
-metafile = true
-
-[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
 metafile = true

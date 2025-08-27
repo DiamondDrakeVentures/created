@@ -191,6 +191,8 @@ same Minecraft version (e.g. 1.21.1).
   - Multibeds
   - ShetiPhianCore
   - Paxi
+  - Panda's Falling Trees
+  - PandaLib
 
 ### Fixed
 
