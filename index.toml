@@ -149,6 +149,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "9bbdaaf3cc126b1cb7d7de511f1b9756f89663b4b30bef8e3ad05473f3e4c327"
 
 [[files]]
+file = "config/fml.toml"
+hash = "494775131c0b19fe3a757453861afce4d58d90278bb05a5bfed335d40dbfbedc"
+
+[[files]]
 file = "config/global_packs.toml"
 hash = "859a14ad23a46fc50985ebc95dde21024a311daf972907f150b413be80ec6f08"
 
@@ -179,6 +183,18 @@ hash = "7ccbfd542d699a4da6472b5e23e5bf388e959dda1ccfb66694dcaadb4983aa41"
 [[files]]
 file = "config/saturn-optimizations.toml"
 hash = "4e71aa46661b461100c7f71fc134213a167ab2b2c9fc5d8f20d46feeb48077b6"
+
+[[files]]
+file = "config/simple-custom-early-loading.json"
+hash = "79b3695db34f5dadc30fc592470bc139c8096d96a9daaa89bc6532a4e863cdb5"
+
+[[files]]
+file = "config/simple-custom-early-loading/ddv-bricks.png"
+hash = "4e8320e2f14678fb35323466ccd87a49aa2f02997ad342487b8b523f1dadfe13"
+
+[[files]]
+file = "config/simple-custom-early-loading/ddv-diamond.png"
+hash = "525f1b29e1fc885890ebf715a26773a5b5a5d5340dd7e772e4e56e090324ed72"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
@@ -1929,6 +1945,11 @@ metafile = true
 [[files]]
 file = "mods/signcopy.pw.toml"
 hash = "c2c45b391e7f1c8360d044d9c927b763e5738138448304376fd3ee31c7e4a5c7"
+metafile = true
+
+[[files]]
+file = "mods/simple-custom-early-loading.pw.toml"
+hash = "18ac036cd5661abb6977b1acc0926565430cbb24edc366a386f9047bdebf74f5"
 metafile = true
 
 [[files]]

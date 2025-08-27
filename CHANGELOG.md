@@ -63,6 +63,7 @@ same Minecraft version (e.g. 1.21.1).
   - Magnum Torch
   - MmmMmmMmmMmm
   - Pick Up Notifier
+  - Simple Custom Early Loading
 - Added resource packs:
   - Create Waystones Texture + GUI
 
