@@ -57,6 +57,7 @@ same Minecraft version (e.g. 1.21.1).
 
 ### Changed
 
+- Updated NeoForge loader 21.1.196 => 21.1.203.
 - Adjusted Limestone crushing/milling recipes (Create: Garnished).
 - Adjusted Dragon's Breath fluids to be inclusive of the one from Create: Dragons Plus (Create: Garnished).
 - Improved emoji compatibility (Chat Heads).
