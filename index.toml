@@ -858,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
-hash = "59ad052e60618924abec65d1ae84e37d61c522a155eb60c90823bb9f46e96bb2"
+hash = "80d8e54420806a0cfdc113dc559ae2e6bfa7dfcf44e176c7e230d7d371ca99e1"
 metafile = true
 
 [[files]]
@@ -1058,7 +1058,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "0d3bcce402b76cfa495a68c987e2a67a79a9bdf625a45266dec855610f1bd48e"
+hash = "27847eb1d842e418e2d7764c737879fdc6e3cb95b4bb23198d244f485e9b522c"
 metafile = true
 
 [[files]]

@@ -41,6 +41,11 @@ same Minecraft version (e.g. 1.21.1).
 - Added an overlay showing picked up items (Pick Up Notifier).
 - Added a UI to Name Tag (Easy Anvil).
 - Added `amendments:cauldron_crafting` recipe type (Amendments).
+- Added Handheld Saw (Create: Dreams & Desires).
+- Added Handheld Drill (Create: Dreams & Desires).
+- Added keybinds for Handheld Drill (Create: Dreams & Desires).
+- Added Golden Mixer (Create: Dreams & Desires).
+- Added alternative recipe for Straw (Create Crafts & Additions).
 - Added mods:
   - Configurable
   - Create Waystones Recipes
@@ -118,6 +123,7 @@ same Minecraft version (e.g. 1.21.1).
 - All liquids can now bubble (Amendments).
 - All recipes now work both in-world and with hand interaction (Amendments).
 - Improved Sign screen renderer (Amendments).
+- Tweaked recipes (Create: Dreams & Desires).
 - Updated mods:
   - Amendments 1.2.24 => 2.0.5
   - Aquatic Additions 4.0 => 4.1
@@ -125,7 +131,9 @@ same Minecraft version (e.g. 1.21.1).
   - Bookshelf 21.1.67 => 21.1.68
   - Chat Heads 0.13.18 => 0.13.20
   - Configurable 3.2.1 => 3.2.5
+  - Create Crafts & Additions 1.5.1 => 1.5.2
   - Create: Diesel Generators 1.3.4 => 1.3.5
+  - Create: Dreams & Desires 2.2a-BETA => 2.2c-BETA
   - Create: Extra Gauges 1.1.1 => 2.0.5
   - Create: Garnished 2.1.6.2 => 2.1.6.5
   - Create: Hypertubes 0.2.4 => 0.2.5
@@ -216,6 +224,10 @@ same Minecraft version (e.g. 1.21.1).
 - Fixed Bunting recipes (Supplementaries).
 - Fixed Wall Sign model being one pixel too tall (Amendments).
 - Fixed an issue where Stew recipes gave less than intended (Amendments).
+- Fixed an issue where Smart Hoppper void items (Create: Dreams & Desires).
+- Fixed updating issue with Smart Hopper (Create: Dreams & Desires).
+- Fixed Redstone Relay (Create Crafts & Additions).
+- Fixed broken compatibility recipes (Create Crafts & Additions).
 
 ### Security
 
