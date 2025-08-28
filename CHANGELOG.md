@@ -20,7 +20,12 @@ same Minecraft version (e.g. 1.21.1).
 
 ### Removed
 
+- Removed mods:
+  - Animal Garden - Owl
+
 ### Fixed
+
+- Fixed an issue where entities (including players) cannot move when in any depth of water ([#5](https://github.com/DiamondDrakeVentures/created/issues/5)).
 
 ### Security
 

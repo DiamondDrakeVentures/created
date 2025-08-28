@@ -42,7 +42,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "e32a2e109b210e13a864f3849b8cc916093888693d37e379ad8c9012fe348121"
+hash = "ac04854058d04db9f4df470cc8c62dfd846ac140e9aa786481780bcab0696cd2"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -541,11 +541,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "4a17b94185b5ec445085170c8c339dfb6337f4235deb5f721436386551669bc7"
-metafile = true
-
-[[files]]
-file = "mods/animal-garden-owl.pw.toml"
-hash = "31b13137df9143524847f2bdb49d94e6ba496d30b90277b7494d54d71d052e06"
 metafile = true
 
 [[files]]
