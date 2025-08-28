@@ -23,3 +23,5 @@ tools/license_report/license_report
 tools/license_report/license_report.exe
 tools/make_server_both/make_server_both
 tools/make_server_both/make_server_both.exe
+tools/packdiff/packdiff
+tools/packdiff/packdiff.exe
