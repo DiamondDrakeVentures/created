@@ -42,7 +42,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "2b653f82d8ef8e28bdd01ea67acfe9fb2f27700ab6a7841c1f419c77f1b2bda9"
+hash = "ce921207a6552c533eecc579eb2604069e1b37596cc1dcd55cbfc86625d1e447"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -1631,6 +1631,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "6917553073df67745da1d535cc6107839a76b54081b1b6f368a38c723f5fd8c7"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "9ca14134538c66b6d8ef74107f6b15ba9487ec632d984427e84ad38aa47afa60"
 metafile = true
 
 [[files]]

@@ -1093,6 +1093,11 @@
     "modId": "leavesbegone",
     "version": "21.1.0"
   },
+  "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar": {
+    "jarName": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+    "modId": "legendarytooltips",
+    "version": "1.5.5"
+  },
   "lithium-neoforge-0.15.0+mc1.21.1.jar": {
     "jarName": "lithium-neoforge-0.15.0+mc1.21.1.jar",
     "modId": "lithium",

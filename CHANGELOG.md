@@ -20,6 +20,7 @@ same Minecraft version (e.g. 1.21.1).
 - Added mods:
   - Chorus Fruit Drops Nearby
   - CoroUtil
+  - Legendary Tooltips
   - Recipe Fixer
   - Traveler's Titles
   - What Are They Up To
@@ -27,6 +28,7 @@ same Minecraft version (e.g. 1.21.1).
 ### Changed
 
 - Chorus Fruit now drops at the base of the Chorus Tree (Chorus Fruit Drops Nearby).
+- Changed item tooltips for more immersion (Legendary Tooltips).
 
 ### Deprecated
 
