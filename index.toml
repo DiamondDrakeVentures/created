@@ -42,7 +42,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "38826ee0ffee6ee25175e49d7fccac37f1fad4c50feb0543b6c06def2b6eb960"
+hash = "f86f82b978a931f922e2c5465270e8b49d1532a3c0064f1a5489ccb5d7332ea1"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -1921,6 +1921,11 @@ hash = "9d2221afea391b82aaf0d79d1966f52e9551de1d20f2917985d4cfd109b937e9"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "714b35496dbf7cf89814db58ba625b3fc5d0cfb4c180f7eeda8d77beaac20b0c"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "c83705becd548879473132552de960f9d5975fa0edaeeb2d4665a4e35457423e"
 metafile = true
@@ -2248,6 +2253,11 @@ metafile = true
 [[files]]
 file = "mods/updating-world-icon.pw.toml"
 hash = "049242d53616cd1cafd66ef3f122ab9faa52c9e0713cb5ad751e1a9339ba94a1"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "2c4995bdee3b963d237076b10e2097b5ffac8f5c7637525f9fccc8a8220bcf6c"
 metafile = true
 
 [[files]]

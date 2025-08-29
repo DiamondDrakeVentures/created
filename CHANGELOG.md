@@ -19,13 +19,17 @@ same Minecraft version (e.g. 1.21.1).
 - Added a title overlay showing the current dimension and Waystone name when switching dimensions or navigating through Waystones (Traveler's Titles).
 - Added cosmetic items (Lucky's Wardrobe).
 - Backported crafting recipe for Bundle from 1.21.2.
+- Backported Chase the Skies update (Vanilla Backport: Chase the Skies, The Garden Awakens).
+- Backported The Garden Awakens update (Vanilla Backport: Chase the Skies, The Garden Awakens).
 - Added mods:
   - Chorus Fruit Drops Nearby
   - CoroUtil
   - Legendary Tooltips
   - Lucky's Wardrobe
+  - Platform
   - Recipe Fixer
   - Traveler's Titles
+  - Vanilla Backport: Chase the Skies, The Garden Awakens
   - What Are They Up To
 
 ### Changed
