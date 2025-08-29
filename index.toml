@@ -2445,6 +2445,10 @@ file = "resourcepacks/created/assets/additionallanterns/models/entity/connectibl
 hash = "f3b408409c9424aa3232d22fc6c9f733d8bd91d1e7b24414e0d92a385faa4938"
 
 [[files]]
+file = "resourcepacks/created/assets/created/lang/en_us.json"
+hash = "b3b62e768628e18f633d5d40cc1c804c44d5b327e37e68ab26cf068b314acc47"
+
+[[files]]
 file = "resourcepacks/created/pack.mcmeta"
 hash = "15be68cecb7716fce2a49163f628e4db09b22eb9cfc57bf412d796e696ecabc4"
 
