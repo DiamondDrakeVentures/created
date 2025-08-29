@@ -16,10 +16,12 @@ same Minecraft version (e.g. 1.21.1).
 
 - Added missing translations to tags.
 - Added an overlay showing what other players are doing (inventory screen, pause menu, etc.) over their player models (What Are They Up To).
+- Added a title overlay showing the current dimension and Waystone name when switching dimensions or navigating through Waystones (Traveler's Titles).
 - Added mods:
   - Chorus Fruit Drops Nearby
   - CoroUtil
   - Recipe Fixer
+  - Traveler's Titles
   - What Are They Up To
 
 ### Changed

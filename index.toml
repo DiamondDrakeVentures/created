@@ -42,7 +42,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "1b53594791d8b57dbec656371e63d1c0d92635008f022323d0166714c8a8c627"
+hash = "2b653f82d8ef8e28bdd01ea67acfe9fb2f27700ab6a7841c1f419c77f1b2bda9"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -203,6 +203,10 @@ hash = "c0645f1aa1c5c4c7a336fd6bc188600c10eeba636067054076d85586fb2626e3"
 [[files]]
 file = "config/the_ruler.json"
 hash = "d0b9741bc36af0902e2e967762df2e6827714a3c8cfedd23ab5bf361f49e2840"
+
+[[files]]
+file = "config/travelerstitles-neoforge-1_21.toml"
+hash = "691bc5090ac306c0538d7b14a9dbd0f4dc2a39239832420f8780e38d43b57c12"
 
 [[files]]
 file = "config/watut-client.toml"
@@ -2182,6 +2186,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "b7edb8bf6ab6913509a777faa013241784c3a75a966a1c62e4ddd786ecd2392f"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
 metafile = true
 
 [[files]]
