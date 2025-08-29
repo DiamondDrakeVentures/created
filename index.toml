@@ -42,7 +42,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "417155f8c8e1ef0ace28be05f25db6cd9c4b4377d4fccb2420f378492e903403"
+hash = "f9ea48677b7f9b02ef2454fb4b149e4b1d04a5f5844017c869bc0fd9ba2128eb"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -1245,7 +1245,7 @@ metafile = true
 
 [[files]]
 file = "mods/edfr-created.pw.toml"
-hash = "a601acd70ffeef3cef68592305ff28b2a82f85702f3d726b89533d33bd82b707"
+hash = "bd8ca3d9e0b8018f90db1b5bb93c08370f76eeb6e66f0d244a3627d5339da8be"
 metafile = true
 
 [[files]]

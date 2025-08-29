@@ -40,6 +40,7 @@ same Minecraft version (e.g. 1.21.1).
 - Liquids that boost the Leteos process now use their own tag (My Nether's Delight).
 - Updated mods:
   - EMI Addon: Extra Mod Integrations 1.0.2 => 1.0.3
+  - Ender Dragon Fight Remastered: Create(D) Edition 5.0.0-2cbec9c => 5.0.0-8ba9aa2
   - Kiwi 15.6.2 => 15.7.0
   - Moonlight Lib 2.22.2 => 2.22.6
   - My Nether's Delight 1.8 => 1.9
