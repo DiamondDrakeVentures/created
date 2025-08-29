@@ -41,8 +41,10 @@ same Minecraft version (e.g. 1.21.1).
 - Updated mods:
   - EMI Addon: Extra Mod Integrations 1.0.2 => 1.0.3
   - Kiwi 15.6.2 => 15.7.0
+  - Moonlight Lib 2.22.2 => 2.22.6
   - My Nether's Delight 1.8 => 1.9
   - Sophisticated Core 1.3.64.1090 => 1.3.65.1096
+  - Supplementaries 3.4.9 => 3.4.12
 
 ### Deprecated
 
@@ -54,6 +56,7 @@ same Minecraft version (e.g. 1.21.1).
 ### Fixed
 
 - Fixed an issue where entities (including players) cannot move when in any depth of water ([#5](https://github.com/DiamondDrakeVentures/created/issues/5)).
+- Fixed missing tags (Supplementaries).
 
 ### Security
 

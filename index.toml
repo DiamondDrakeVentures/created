@@ -42,7 +42,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "f42ade7b247bb279984a6b39caa0a2b64e9921a35dd3451ab8aea30942274b37"
+hash = "417155f8c8e1ef0ace28be05f25db6cd9c4b4377d4fccb2420f378492e903403"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -1770,7 +1770,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5c6d12d8c577babd20233ed8d00c2e2db931b75dc5685aded16eb01f404ea0a1"
+hash = "4d1ab868ca7542d8490f2d42864c877fc5f38661f69dfa421ebddc9c53449471"
 metafile = true
 
 [[files]]
@@ -2140,7 +2140,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7ae94feb12c30ee5d80659e4386c0e40aeb512fb9144860d882ec27d2b16bd14"
+hash = "489cfc28628c32983d6432199dbf0a2e272ddf238b321fd4278c5799933775d0"
 metafile = true
 
 [[files]]

@@ -1223,10 +1223,10 @@
     "modId": "molten_vents",
     "version": "2.1.1"
   },
-  "moonlight-1.21-2.22.2-neoforge.jar": {
-    "jarName": "moonlight-1.21-2.22.2-neoforge.jar",
+  "moonlight-1.21-2.22.6-neoforge.jar": {
+    "jarName": "moonlight-1.21-2.22.6-neoforge.jar",
     "modId": "moonlight",
-    "version": "1.21-2.22.2"
+    "version": "1.21-2.22.6"
   },
   "MouseTweaks-neoforge-mc1.21-2.26.1.jar": {
     "jarName": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
@@ -1601,10 +1601,10 @@
     "modId": "supermartijn642corelib",
     "version": "1.1.18+a"
   },
-  "supplementaries-1.21-3.4.9-neoforge.jar": {
-    "jarName": "supplementaries-1.21-3.4.9-neoforge.jar",
+  "supplementaries-1.21-3.4.12-neoforge.jar": {
+    "jarName": "supplementaries-1.21-3.4.12-neoforge.jar",
     "modId": "supplementaries",
-    "version": "1.21-3.4.9"
+    "version": "1.21-3.4.12"
   },
   "surveyor-0.6.26+1.21.jar": {
     "jarName": "surveyor-0.6.26+1.21.jar",
