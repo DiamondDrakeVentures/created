@@ -336,6 +336,11 @@
     "modId": "corn_delight",
     "version": "1.1.8-1.21.1"
   },
+  "coroutil-neoforge-1.21.0-1.3.8.jar": {
+    "jarName": "coroutil-neoforge-1.21.0-1.3.8.jar",
+    "modId": "coroutil",
+    "version": "1.21.0-1.3.8"
+  },
   "CrashAssistant-neoforge-1.20.6-1.21.4-1.9.15.jar": {
     "jarName": "CrashAssistant-neoforge-1.20.6-1.21.4-1.9.15.jar",
     "modId": "crash_assistant",
@@ -1695,6 +1700,11 @@
     "jarName": "walljump-1.21.1-1.3.5-neoforge.jar",
     "modId": "walljump",
     "version": "1.21.1-1.3.5-neoforge"
+  },
+  "watut-neoforge-1.21.0-1.2.7.jar": {
+    "jarName": "watut-neoforge-1.21.0-1.2.7.jar",
+    "modId": "watut",
+    "version": "1.21.0-1.2.7"
   },
   "Waves-1.21-1.5.1.jar": {
     "jarName": "Waves-1.21-1.5.1.jar",

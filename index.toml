@@ -42,7 +42,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "609454f45f61bddd321fe7e246135954c097d0ec72636ef2d195e9934b353930"
+hash = "1b53594791d8b57dbec656371e63d1c0d92635008f022323d0166714c8a8c627"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -203,6 +203,22 @@ hash = "c0645f1aa1c5c4c7a336fd6bc188600c10eeba636067054076d85586fb2626e3"
 [[files]]
 file = "config/the_ruler.json"
 hash = "d0b9741bc36af0902e2e967762df2e6827714a3c8cfedd23ab5bf361f49e2840"
+
+[[files]]
+file = "config/watut-client.toml"
+hash = "e776512cae2b324e67293a907c1dfa339b5abb618773fb9943c17a7f69a01601"
+
+[[files]]
+file = "config/watut-common.toml"
+hash = "93d4055b22552b80ae5f96d396b335910993ab7010b562a34291adade59df4f6"
+
+[[files]]
+file = "config/watut-item-arm-adjustments.json"
+hash = "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982"
+
+[[files]]
+file = "config/watut-server.toml"
+hash = "77c32650cc543180e5d03cf079956b631da769ef0c845cc75f34d95718be91f3"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -826,6 +842,11 @@ metafile = true
 [[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "a7216dad68fe8cabfbdcced66ad94e1da20d23fe531e03022f877ffead92df50"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
@@ -2206,6 +2227,11 @@ metafile = true
 [[files]]
 file = "mods/weaker-spiderwebs.pw.toml"
 hash = "d6b0ed1eb5b08188824a4f2a4048a0c0f966c373ea375cdad45c028a2e667e56"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
