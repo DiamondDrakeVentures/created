@@ -42,7 +42,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "ce921207a6552c533eecc579eb2604069e1b37596cc1dcd55cbfc86625d1e447"
+hash = "25d985c865ac36cf6ba41630e6888044ca1a4d6d09534337c828103ab38f1003"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -1360,7 +1360,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "6f59e18621f30c6dc0ffa7f34324b423f3e3a7a8c251560c6a1dd835b6bce87a"
+hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
@@ -1595,7 +1595,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "30a5e8525ea77af93247c73d490eb6baa3fce2d34a742c479e4320d53beb536d"
+hash = "43477628e2c7de01503b70f1e8bc48241e362cc9f0c1ba14ad67a3b728647d12"
 metafile = true
 
 [[files]]
@@ -1780,7 +1780,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
-hash = "0cd80499ad61c0617dfee679bb5dcd37870fd2895fd6f2f5fa0ed00b716a84ff"
+hash = "2f6c9613ab64a27f2ba7ab55ed6d7557ffd06dff2d9db7a7e92b2d526e96a466"
 metafile = true
 
 [[files]]
@@ -2070,7 +2070,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "ed6e4600ff8e9f76816792ee47d92a9f1b35da732164baf4151902f8650a151d"
+hash = "81a45b2ab0d79e58b30a772d1b0da9e7462852a7a7f709ad575361e5f09b6b88"
 metafile = true
 
 [[files]]

@@ -29,6 +29,19 @@ same Minecraft version (e.g. 1.21.1).
 
 - Chorus Fruit now drops at the base of the Chorus Tree (Chorus Fruit Drops Nearby).
 - Changed item tooltips for more immersion (Legendary Tooltips).
+- Pump Upgrade now works with fluids in the world even when worn by player or in player inventory (Sophisticated Core).
+- When poaching fails, the entity may transform into another entity now (My Nether's Delight).
+- Striders now stay warm when they have the Pungency effect (My Nether's Delight).
+- Tools now wear out faster if they have the Curse of Poaching (My Nether's Delight).
+- Bullet Pepper drop rates are now lower (My Nether's Delight).
+- Trophies now push entities when powered or moved by Pistons (My Nether's Delight).
+- Recipes are adjusted to include Pepper Powder (My Nether's Delight).
+- Liquids that boost the Leteos process now use their own tag (My Nether's Delight).
+- Updated mods:
+  - EMI Addon: Extra Mod Integrations 1.0.2 => 1.0.3
+  - Kiwi 15.6.2 => 15.7.0
+  - My Nether's Delight 1.8 => 1.9
+  - Sophisticated Core 1.3.64.1090 => 1.3.65.1096
 
 ### Deprecated
 
