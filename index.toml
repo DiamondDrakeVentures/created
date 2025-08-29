@@ -42,7 +42,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "e69922ebf91ec2f3099a00688ac5cb299db7e3a259828e79840e4f6dca6b97d9"
+hash = "609454f45f61bddd321fe7e246135954c097d0ec72636ef2d195e9934b353930"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -731,6 +731,11 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "63f417eca4f251f85a5ae512394cbb9fa88dfdfb2b934b94637ba8b7dac1a831"
+metafile = true
+
+[[files]]
+file = "mods/chorus-fruit-drops-nearby.pw.toml"
+hash = "7c43368d113e61627d22a2581453b80d0ff21cf221a1b32b3a1bd05e717b181c"
 metafile = true
 
 [[files]]

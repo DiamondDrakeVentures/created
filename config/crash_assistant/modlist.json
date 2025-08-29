@@ -244,6 +244,11 @@
     "modId": "cherishedworlds",
     "version": "10.1.1+1.21.1"
   },
+  "chorusfruitdropsnearby-1.21.1-1.1.jar": {
+    "jarName": "chorusfruitdropsnearby-1.21.1-1.1.jar",
+    "modId": "chorusfruitdropsnearby",
+    "version": "1.1"
+  },
   "chunksfadein-neoforge-2.0.3-1.21.jar": {
     "jarName": "chunksfadein-neoforge-2.0.3-1.21.jar",
     "modId": "chunksfadein",

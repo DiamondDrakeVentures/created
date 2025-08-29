@@ -16,9 +16,12 @@ same Minecraft version (e.g. 1.21.1).
 
 - Added missing translations to tags.
 - Added mods:
+  - Chorus Fruit Drops Nearby
   - Recipe Fixer
 
 ### Changed
+
+- Chorus Fruit now drops at the base of the Chorus Tree (Chorus Fruit Drops Nearby).
 
 ### Deprecated
 
