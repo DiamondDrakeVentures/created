@@ -27,6 +27,7 @@ same Minecraft version (e.g. 1.21.1).
 
 ### Changed
 
+- Updated NeoForge loader 21.1.203 => 21.1.205.
 - Chorus Fruit now drops at the base of the Chorus Tree (Chorus Fruit Drops Nearby).
 - Changed item tooltips for more immersion (Legendary Tooltips).
 - Pump Upgrade now works with fluids in the world even when worn by player or in player inventory (Sophisticated Core).
