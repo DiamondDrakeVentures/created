@@ -1,0 +1,13 @@
+name = "Recipe Fixer"
+filename = "recipefixer-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nmc13D4j/versions/k8q5lCJD/recipefixer-1.0.0.jar"
+hash-format = "sha512"
+hash = "960801b3d87c02a2a459ea5051fb61f210c019b3ffb2bf3e6fbb5c9c74a08dc2b389c788eb3194bdef3a21b781a78f5346a79aa727ec89f01332acb1ed466af2"
+
+[update]
+[update.modrinth]
+mod-id = "Nmc13D4j"
+version = "k8q5lCJD"

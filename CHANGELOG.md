@@ -15,6 +15,8 @@ same Minecraft version (e.g. 1.21.1).
 ### Added
 
 - Added missing translations to tags.
+- Added mods:
+  - Recipe Fixer
 
 ### Changed
 

@@ -42,7 +42,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "ac04854058d04db9f4df470cc8c62dfd846ac140e9aa786481780bcab0696cd2"
+hash = "e69922ebf91ec2f3099a00688ac5cb299db7e3a259828e79840e4f6dca6b97d9"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -1886,6 +1886,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "f70753b73b9baee1550e932231cdca1da45c4516c6b7b8763a2a164e0bf375ce"
+metafile = true
+
+[[files]]
+file = "mods/recipe-fixer.pw.toml"
+hash = "71c9483d08c68be5149794565d81247de34215d2aad658db49f6c5280eaeb948"
 metafile = true
 
 [[files]]

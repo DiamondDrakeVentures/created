@@ -1368,6 +1368,11 @@
     "modId": "rechiseledcreate",
     "version": "1.0.2+a"
   },
+  "recipefixer-1.0.0.jar": {
+    "jarName": "recipefixer-1.0.0.jar",
+    "modId": "recipefixer",
+    "version": "1.0.0"
+  },
   "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar": {
     "jarName": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
     "modId": "reeses_sodium_options",
