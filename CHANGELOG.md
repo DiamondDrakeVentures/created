@@ -51,8 +51,11 @@ same Minecraft version (e.g. 1.21.1).
 
 ### Removed
 
+- Removed vanity slots (VanitySlots).
+  These slots are redundant to the cosmetic slots already added by the Accessories API.
 - Removed mods:
   - Animal Garden - Owl
+  - VanitySlots
 
 ### Fixed
 

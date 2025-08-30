@@ -42,7 +42,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "f9ea48677b7f9b02ef2454fb4b149e4b1d04a5f5844017c869bc0fd9ba2128eb"
+hash = "66d845d9ec3418a041a2b3a17f8f8afe5e0447c5b54460a236dd7c9576706672"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -2215,11 +2215,6 @@ metafile = true
 [[files]]
 file = "mods/updating-world-icon.pw.toml"
 hash = "049242d53616cd1cafd66ef3f122ab9faa52c9e0713cb5ad751e1a9339ba94a1"
-metafile = true
-
-[[files]]
-file = "mods/vanity.pw.toml"
-hash = "678ffbe44007654fa572af716c884f604a1368f23959f09740c8cf3701373186"
 metafile = true
 
 [[files]]
