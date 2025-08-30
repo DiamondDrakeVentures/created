@@ -161,6 +161,10 @@ file = "config/immersiveoverlays.json"
 hash = "b3992d30c2a1606504e38d6036b58381e20204dfa948383a9ea624277b71f09d"
 
 [[files]]
+file = "config/invmove.json"
+hash = "8466d48c96b43ed3293639665a9431571e44ece344b52ef806a4126dc70003ce"
+
+[[files]]
 file = "config/item_obliterator.json5"
 hash = "64e787b81af1a69a793e97f6de2257f77588387473cef2988540d7ed7f35f4d2"
 

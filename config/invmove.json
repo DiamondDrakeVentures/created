@@ -1,0 +1,26 @@
+{
+  "general": {
+    "enable": true,
+    "debugDisplay": false
+  },
+  "movement": {
+    "enable": true,
+    "jump": true,
+    "sneak": "Maintain",
+    "dismount": false,
+    "textFieldDisables": true,
+    "unrecognizedScreenDefault": true
+  },
+  "background": {
+    "enable": false,
+    "hideOnPause": "Show",
+    "unrecognizedScreenDefault": true
+  },
+  "allowedKeysOverrides": {
+    "key.createornithopterglider.boost_glider": true,
+    "key.push_to_talk": true,
+    "key.trashslot.toggle": true,
+    "key.disable_voice_chat": true,
+    "key.mute_microphone": true
+  }
+}
