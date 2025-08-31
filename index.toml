@@ -237,6 +237,14 @@ file = "config/worldedit/worldedit.properties"
 hash = "f77882aa51025e80a56daecbad967487351a918e01326980c884a20270971da5"
 
 [[files]]
+file = "datapacks/created/data/accessories/tags/item/belt.json"
+hash = "98513fe409c7a65a16425bf0bebd2fe2e517029a9fc0960cff209bfb366c8333"
+
+[[files]]
+file = "datapacks/created/data/accessories/tags/item/cape.json"
+hash = "c47c40758a3f15e55c391de1c65c61122f6fd4c1e791595a8a77e4e59dd9d109"
+
+[[files]]
 file = "datapacks/created/data/bettertridents/advancement/recipes/combat/trident.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
@@ -451,6 +459,10 @@ hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 [[files]]
 file = "datapacks/created/data/dndesires/recipe/dragon_breathing/ender_pearl_from_magma_cream.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/elytraslot/tags/item/elytra.json"
+hash = "da190105bc91c8d1370b26d87d4f0cb2ec06a05355fdcd05590b56766c908589"
 
 [[files]]
 file = "datapacks/created/data/farmersdelight/advancement/recipes/decorations/rope.json"

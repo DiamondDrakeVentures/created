@@ -40,6 +40,8 @@ same Minecraft version (e.g. 1.21.1).
 - Trophies now push entities when powered or moved by Pistons (My Nether's Delight).
 - Recipes are adjusted to include Pepper Powder (My Nether's Delight).
 - Liquids that boost the Leteos process now use their own tag (My Nether's Delight).
+- Elytra slot can be equipped either as Chestplate or on the Cape slot (rather than the Back slot).
+- Bundles can now be equipped in the Belt slot.
 - Updated mods:
   - EMI Addon: Extra Mod Integrations 1.0.2 => 1.0.3
   - Ender Dragon Fight Remastered: Create(D) Edition 5.0.0-2cbec9c => 5.0.0-8ba9aa2
