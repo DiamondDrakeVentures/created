@@ -1,0 +1,13 @@
+name = "Lucky's Wardrobe"
+filename = "luckyswardrobe-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zhIupQBu/versions/nkAh4uc7/luckyswardrobe-2.0.0.jar"
+hash-format = "sha512"
+hash = "6807f19d942b498ed25d1aff686d65fb19b03c9d87edb87fc432b50a22118a419d4b417c3ea4e902eafa165fef84306269f9d92e148e4b48e019778643b1538a"
+
+[update]
+[update.modrinth]
+mod-id = "zhIupQBu"
+version = "nkAh4uc7"

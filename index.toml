@@ -42,7 +42,7 @@ hash = "d364d21640ee221a928be7178b8af8ec89af2606598978dced351ca5d9be4839"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "66d845d9ec3418a041a2b3a17f8f8afe5e0447c5b54460a236dd7c9576706672"
+hash = "38826ee0ffee6ee25175e49d7fccac37f1fad4c50feb0543b6c06def2b6eb960"
 
 [[files]]
 file = "config/create_extra_casing-common.toml"
@@ -1660,6 +1660,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "28cd260c71c34d01f59ea210af1031e94d98b4d6bd72d5a153955ce754c9a76f"
+metafile = true
+
+[[files]]
+file = "mods/luckyowls-wardrobe.pw.toml"
+hash = "29df77bca784d60746347ada9cfb891a61fbdbf77c58867e3277057cbe5c218b"
 metafile = true
 
 [[files]]
