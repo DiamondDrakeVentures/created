@@ -325,12 +325,20 @@ file = "datapacks/created/data/created/advancement/recipes/root.json"
 hash = "300ec3f0a5446b43762a0e99d2bba4ea5c483a3105c4d5eab11e6da820e524c8"
 
 [[files]]
+file = "datapacks/created/data/created/advancement/recipes/tools/bundle.json"
+hash = "f51452e626c28ae2a5aef272aefced5e47e6fa7187f3126d27b78f5546a0a488"
+
+[[files]]
 file = "datapacks/created/data/created/advancement/recipes/tools/compass.json"
 hash = "f1486541cff04ad230048aca138f4fcc3833666e2637bea847a6f1000b438441"
 
 [[files]]
 file = "datapacks/created/data/created/advancement/recipes/tools/rope.json"
 hash = "41ed55daf1b506b8c318fa7ca4f42a5bbe4bf78d2d1bc090d199d0d12eabaf5c"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/bundle.json"
+hash = "9b21f679c362fc6519b35e2d5e371e1eaaca2068ea049a888ba0277e32e41726"
 
 [[files]]
 file = "datapacks/created/data/created/recipe/compacting/graphite_powder.json"
@@ -499,6 +507,14 @@ hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 [[files]]
 file = "datapacks/created/data/minecraft/advancement/recipes/decorations/lodestone.json"
 hash = "6ab2704611b297816e4a840986c0fd9e1a9d9447c13c4e10c9e0ba173fe6ba65"
+
+[[files]]
+file = "datapacks/created/data/minecraft/advancement/recipes/tools/bundle.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/minecraft/recipe/bundle.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
 file = "datapacks/created/data/minecraft/recipe/lodestone.json"
@@ -2513,6 +2529,14 @@ hash = "f3b408409c9424aa3232d22fc6c9f733d8bd91d1e7b24414e0d92a385faa4938"
 [[files]]
 file = "resourcepacks/created/assets/created/lang/en_us.json"
 hash = "42d3746ed3c6ef04f5c355a6f7033acbe50ea58eed6b1d32507a40af75398675"
+
+[[files]]
+file = "resourcepacks/created/assets/emi/index/stacks/bundle.json"
+hash = "19976919374b10d400a1bac97fcea9cf80401658ff982ee8fa8107ed2e11d858"
+
+[[files]]
+file = "resourcepacks/created/assets/emi/recipe/defaults/created.json"
+hash = "80f58c8a7395da5eec85069e533a321f14dda891781ce48bb41df837c13ec975"
 
 [[files]]
 file = "resourcepacks/created/pack.mcmeta"
