@@ -149,6 +149,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "9bbdaaf3cc126b1cb7d7de511f1b9756f89663b4b30bef8e3ad05473f3e4c327"
 
 [[files]]
+file = "config/farmersdelight-client.toml"
+hash = "e21ab99cf98913921f0ca6fded4b7f409fcc6ae3d9b727bd34da74f8f16efa7c"
+
+[[files]]
 file = "config/fml.toml"
 hash = "494775131c0b19fe3a757453861afce4d58d90278bb05a5bfed335d40dbfbedc"
 

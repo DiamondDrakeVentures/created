@@ -66,6 +66,7 @@ same Minecraft version (e.g. 1.21.1).
 
 - Fixed an issue where entities (including players) cannot move when in any depth of water ([#5](https://github.com/DiamondDrakeVentures/created/issues/5)).
 - Fixed missing tags (Supplementaries).
+- Fixed an issue where Farmer's Delight meals lists their effects twice ([#8](https://github.com/DiamondDrakeVentures/created/issues/8)).
 
 ### Security
 
