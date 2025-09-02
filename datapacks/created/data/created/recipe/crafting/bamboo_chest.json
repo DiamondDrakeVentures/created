@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:bamboo_planks"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "P P",
+    "PPP"
+  ],
+  "result": {
+    "components": {
+      "sophisticatedstorage:wood_type": "bamboo"
+    },
+    "count": 1,
+    "id": "sophisticatedstorage:chest"
+  }
+}

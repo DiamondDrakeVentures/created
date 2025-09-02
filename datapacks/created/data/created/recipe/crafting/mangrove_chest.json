@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:mangrove_planks"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "P P",
+    "PPP"
+  ],
+  "result": {
+    "components": {
+      "sophisticatedstorage:wood_type": "mangrove"
+    },
+    "count": 1,
+    "id": "sophisticatedstorage:chest"
+  }
+}

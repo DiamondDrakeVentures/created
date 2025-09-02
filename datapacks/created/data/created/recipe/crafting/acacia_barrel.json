@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:acacia_planks"
+    },
+    "S": {
+      "item": "minecraft:acacia_slab"
+    }
+  },
+  "pattern": [
+    "PSP",
+    "P P",
+    "PSP"
+  ],
+  "result": {
+    "components": {
+      "sophisticatedstorage:wood_type": "acacia"
+    },
+    "count": 1,
+    "id": "sophisticatedstorage:barrel"
+  }
+}

@@ -353,6 +353,94 @@ file = "datapacks/created/data/created/recipe/compass.json"
 hash = "8b59ebbdf150c5c90a3b9fcabe2757d543123d480fa07fa9c4a665f98350c6aa"
 
 [[files]]
+file = "datapacks/created/data/created/recipe/crafting/acacia_barrel.json"
+hash = "faed8d5062162decf7a690d5708647ae2637b2dc9ec8b9f7166af0ee16485ce4"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/acacia_chest.json"
+hash = "2979ed94af818de52e045bee345713b45f1d698d976fab901a319ac5f2ca4f9e"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/bamboo_barrel.json"
+hash = "98d506f3de34f3970a7c4fa18eeed2f2b50fa5ec8a860f546a21d4c791e7d6b3"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/bamboo_chest.json"
+hash = "d0f786227f19b3061286cd27f9a98f93e195f5707fa984ab9d1c3b1dbcc1e5a7"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/birch_barrel.json"
+hash = "9ff1cf227e96a72b833ac1b7ac7d8c4c786493cc077a16d9948d9433ce3d0d08"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/birch_chest.json"
+hash = "6273c36f3dde45a2d27d10be9df8222269ca5ba307d54757016c49f2e7ecf337"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/cherry_barrel.json"
+hash = "a5225d6dd09f26633b4ef443ae85c7af50bfe81247cb8185675da597538f8565"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/cherry_chest.json"
+hash = "ef7cc8a1163de066898239d32fd2afa93a8c7ef7a1835bf35083af53544c0127"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/crimson_barrel.json"
+hash = "f0efc302a61dd134af588d2ec5684fe2c7d52f1cf08bd2817185360a6ab8698a"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/crimson_chest.json"
+hash = "2fcaba17eac80278442857006aad844f21e64cdeca9c6d384833bd2bb23234fc"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/dark_oak_barrel.json"
+hash = "d0a9abddca672fb6ea557ecee900af843cada6d11bfeb2c36114548900ccadc7"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/dark_oak_chest.json"
+hash = "b4d6bb0d56f17c6b566750ed7230084b3a8aa4264c2f21c7ece35caed71165bd"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/jungle_barrel.json"
+hash = "6eb4830157e6e1458619cf2de955c62101918ec9f779b875fe0201be59250e0e"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/jungle_chest.json"
+hash = "e757c28cee62202963b851fc48f2837165c962ce5eecfd146d5ffec6f35ab0b9"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/mangrove_barrel.json"
+hash = "a09c0d371ef535fc04d19a54e3b0caff4f2fa1204b28c8687dc927b93aabe9f4"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/mangrove_chest.json"
+hash = "c599a1a50ab3414ef3f3e7de9fee282192942052d722093cdcefc18552dab4b4"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/oak_barrel.json"
+hash = "b035b80ec8c93e6edad85f5b39985318bdecef86ef1bb159e6d2ddd6adcd5e47"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/oak_chest.json"
+hash = "5abe1849405bedec11aab6219985d1ab663188b6235656695838d490433f03b5"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/spruce_barrel.json"
+hash = "2512b770dfa7ec8e283b3e5bfadeb703e221477602828d1342ad2e1316aaf657"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/spruce_chest.json"
+hash = "8f6356eefea8e9b114d0479567505bb7b99779b891f6665e3e6e429def7de42d"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/warped_barrel.json"
+hash = "a64e098d9455d4e0a4e3d593410a973eb5d8c1283c5fb7cced1946f7fa244c8c"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/warped_chest.json"
+hash = "7201cfc67e35e32f0acf2946c8c6366df88628423944993aa74185fe6c558a04"
+
+[[files]]
 file = "datapacks/created/data/created/recipe/crushing/blackstone.json"
 hash = "54ec544ba3887470d4ebf299a6eddcaa1137e63c2d033a4d030cab43acb09e35"
 
@@ -525,6 +613,102 @@ file = "datapacks/created/data/minecraft/recipe/lodestone.json"
 hash = "0bebf5b6b78319aab7c511e964203face9f4bd3ac56d437b97ef2b0d3e223acc"
 
 [[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/acacia_barrel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/acacia_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/bamboo_barrel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/bamboo_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/birch_barrel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/birch_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/cherry_barrel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/cherry_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/crimson_barrel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/crimson_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/dark_oak_barrel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/dark_oak_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/generic_barrel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/generic_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/jungle_barrel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/jungle_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/mangrove_barrel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/mangrove_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/oak_barrel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/oak_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/spruce_barrel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/spruce_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/warped_barrel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/sophisticatedstorage/recipe/warped_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "datapacks/created/data/supplementaries/advancement/recipes/rope.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
@@ -535,6 +719,50 @@ hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 [[files]]
 file = "datapacks/created/data/supplementaries/tags/item/ropes.json"
 hash = "0df3af4ebedf3046a3353fc922f063f5b321cff9a75c9f80ce7661d3392ce5a5"
+
+[[files]]
+file = "datapacks/created/data/woodworks/recipe/acacia_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/woodworks/recipe/bamboo_closet.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/woodworks/recipe/birch_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/woodworks/recipe/cherry_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/woodworks/recipe/crimson_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/woodworks/recipe/dark_oak_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/woodworks/recipe/jungle_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/woodworks/recipe/mangrove_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/woodworks/recipe/oak_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/woodworks/recipe/spruce_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "datapacks/created/data/woodworks/recipe/warped_chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "datapacks/created/pack.mcmeta"
