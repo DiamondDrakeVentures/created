@@ -589,6 +589,18 @@ file = "datapacks/created/data/farmersdelight/recipe/safety_net.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
+file = "datapacks/created/data/lootr/loot_table/blocks/lootr_barrel.json"
+hash = "9eef935d00ce5e6f30e52c7833daa1ac6c5b20ad0f2abe379db27262bda591c7"
+
+[[files]]
+file = "datapacks/created/data/lootr/loot_table/blocks/lootr_chest.json"
+hash = "b66e987987b63982f71d124b06776f8d5eaa98f77b992b3a2575cc54bfe8ae06"
+
+[[files]]
+file = "datapacks/created/data/lootr/loot_table/blocks/lootr_inventory.json"
+hash = "8ad65193214ae0622ef15f0409397dd66687e01948c7ce20336851fc17895527"
+
+[[files]]
 file = "datapacks/created/data/minecraft/advancement/adventure/use_lodestone.json"
 hash = "d497dae559b34e3dd204efdcb8ebba0c4eab081a7c8a97d8d0527fa65dcb4a91"
 
@@ -603,6 +615,14 @@ hash = "6ab2704611b297816e4a840986c0fd9e1a9d9447c13c4e10c9e0ba173fe6ba65"
 [[files]]
 file = "datapacks/created/data/minecraft/advancement/recipes/tools/bundle.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/minecraft/loot_table/blocks/barrel.json"
+hash = "68d3feeac477e3943d4e44b522b0cf49d8f5d5a7647fc151fb8f6b3a07b2bcc2"
+
+[[files]]
+file = "datapacks/created/data/minecraft/loot_table/blocks/chest.json"
+hash = "58b4d4ba86586d7695cafe74fca857e31e9b82866796a79870a979edefcf3ffd"
 
 [[files]]
 file = "datapacks/created/data/minecraft/recipe/barrel.json"
@@ -727,6 +747,50 @@ hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 [[files]]
 file = "datapacks/created/data/supplementaries/tags/item/ropes.json"
 hash = "0df3af4ebedf3046a3353fc922f063f5b321cff9a75c9f80ce7661d3392ce5a5"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/acacia_chest.json"
+hash = "05d20071d0fc5bdcd788229be813447b9cec5fb133e332c776b1f3c9fbc5bae7"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/bamboo_chest.json"
+hash = "c89b6030274eab6fc873b5965ccaefd0b65ecfb715799915a62af3d183e5f4ec"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/birch_chest.json"
+hash = "934b122f2349a21f4e1230272191e87776cfbaad5ec079a33f8da2cd5430478b"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/cherry_chest.json"
+hash = "12b0d2974e9344a3df2e78b239672f191493b4c1819169e2ccadb5ebbbec48ef"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/crimson_chest.json"
+hash = "9dd849c8dd6c0ddf9fc8a52b665bd611302677007f2a452511637d608de74978"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/dark_oak_chest.json"
+hash = "9c87a4d67ecdb012a74ea232987a358b74f923ba027be81229d656ba59b087f2"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/jungle_chest.json"
+hash = "bbeac6f51be87922cc5b2212122de3897dd7d87b3155a4680d4468c22669f634"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/mangrove_chest.json"
+hash = "6d6deaef08536034be6e19d7758aa3def7dc5f42cf0e4558f45fc1fc9caeaac0"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/oak_chest.json"
+hash = "1a38a0a632f41a90aa2000d1337b4e0816e3b1f45a18c0c1aced06aa8cbdc25e"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/spruce_chest.json"
+hash = "713429778318d978fd02173dd9192bc574ba42fbef87dc2e12705efbb5727d08"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/warped_chest.json"
+hash = "bd1013c48af097bfee8a102197832347724a8afdf48eeb29f53527722803718b"
 
 [[files]]
 file = "datapacks/created/data/woodworks/recipe/acacia_chest.json"

@@ -1,0 +1,5 @@
+{
+  "template": "woodworks_chest.tmpl.json",
+  "source": "woodworks_chest.source.csv",
+  "output": "{WoodType}_chest.json"
+}
