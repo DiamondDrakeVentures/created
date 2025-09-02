@@ -1,4 +1,6 @@
 namespace,id
+minecraft,chest
+minecraft,barrel
 sophisticatedstorage,generic_chest
 sophisticatedstorage,oak_chest
 sophisticatedstorage,birch_chest

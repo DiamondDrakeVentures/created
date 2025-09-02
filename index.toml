@@ -605,8 +605,16 @@ file = "datapacks/created/data/minecraft/advancement/recipes/tools/bundle.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
 
 [[files]]
+file = "datapacks/created/data/minecraft/recipe/barrel.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "datapacks/created/data/minecraft/recipe/bundle.json"
 hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "datapacks/created/data/minecraft/recipe/chest.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
 file = "datapacks/created/data/minecraft/recipe/lodestone.json"
