@@ -1,0 +1,5 @@
+{
+  "template": "disable_recipe.tmpl.json",
+  "source": "disable_recipe.source.csv",
+  "output": "{namespace}/recipe/{id}.json"
+}
