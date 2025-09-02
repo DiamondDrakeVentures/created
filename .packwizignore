@@ -22,3 +22,6 @@ README.md
 /tools/
 server/
 *.csv
+*.recipegen.json
+*.source.csv
+*.tmpl.json
