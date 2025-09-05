@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "biomesoplenty:hellbark_planks"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "P P",
+    "PPP"
+  ],
+  "result": {
+    "components": {
+      "sophisticatedstorage:wood_type": "biomesoplenty:hellbark"
+    },
+    "count": 1,
+    "id": "sophisticatedstorage:chest"
+  }
+}

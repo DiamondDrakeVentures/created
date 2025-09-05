@@ -369,6 +369,110 @@ file = "datapacks/created/data/created/recipe/crafting/bamboo_chest.json"
 hash = "d0f786227f19b3061286cd27f9a98f93e195f5707fa984ab9d1c3b1dbcc1e5a7"
 
 [[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_dead_barrel.json"
+hash = "2a5e4b475cef3ff6051e66d8f9c27515a607ec7aa3ccd0cb0e6fcd7748e8e829"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_dead_chest.json"
+hash = "3962db947f715f97b116c7cdb1933d9987c342062b2e5fd52ac52b573d5f92d0"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_empyreal_barrel.json"
+hash = "c4b9365fe61f9676adf8f7bbeb090228a3a58253c6e12176dd39585bb91d81b5"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_empyreal_chest.json"
+hash = "ef1937c9a5352f8f128c1196b8f7f3ebff2dcca2acfa06c39063d4ca7164528d"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_fir_barrel.json"
+hash = "e1dc30a47975377e35be2a44d4fe5de124eacff7e8923516f78faf98a752da6e"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_fir_chest.json"
+hash = "650d05f47e5e6b233bb499dd9c36f1ee331164af6a084e6fcfac762c1acfae06"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_hellbark_barrel.json"
+hash = "f6fbba1adb8c8eb12b49fc0fd1ab3402eb2dbc62d3d05e05204647828b4369be"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_hellbark_chest.json"
+hash = "436742f881dc4da51004cb6ad297db3b4fcdfd9b7181eaac03a8f2f897dd6c3c"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_jacaranda_barrel.json"
+hash = "4138d43618ae8e88acec2e465d2a9bc59b205cd56bd646a43359ca3f48361f78"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_jacaranda_chest.json"
+hash = "27cb2a5ed7766aee72580d7c22407f1b8a7edea97ff1f461ed83858488adc013"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_magic_barrel.json"
+hash = "11ef4f693df24eb83f61161ca47e2cdb8d432e2b2c630afdaf0377b60bf87459"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_magic_chest.json"
+hash = "85a9441761845384e7447157acb48e456f3d230c1c69f9df88ccf8ef2c3749d4"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_mahogany_barrel.json"
+hash = "065bbb97510c557955ba061001f6c438b6bffcc60f561ce25deb1d23490cdc06"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_mahogany_chest.json"
+hash = "a4c537fcab97a0b7d99b1304cbc1d78fef67498e0c211ce13bab8e9df641ee5b"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_maple_barrel.json"
+hash = "144ce3fdc54cfd7f5372cc2affdc72cad9cfe89e581568102850a7213c51181f"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_maple_chest.json"
+hash = "b21fd8ee7c9dbe0f25c6dea24d01db240d91c8cdadb009a387a66b2c8ac15c4d"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_palm_barrel.json"
+hash = "7ff872f8c33213a685e4144e7446651e537bec3072a465199d6eab66a66757bb"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_palm_chest.json"
+hash = "2aa68982ea8de21c78b408d82cff9118ec16f8f1a3f9f6cda66bda15a57d8f18"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_pine_barrel.json"
+hash = "63a1f8dbc147b7e3cc9ce89419de5af9f2b70a0e4225ee2d3c99a657197d2273"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_pine_chest.json"
+hash = "9090a829a78b678b747b37235c9737a51d5b50892db7ed331f6974cb84aec14b"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_redwood_barrel.json"
+hash = "9e79c2e53b0e2d2a9eca394e3301701de3852fff459004182e9aaef53f3bf250"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_redwood_chest.json"
+hash = "854a26dbb7fe31db35137dee4c1cd8cf1c8cd08fd44a596c47aa2cd4793dabc7"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_umbran_barrel.json"
+hash = "7fb596af39e38bdeb48c6911005ddc8331178db402784d93027127fc8359630a"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_umbran_chest.json"
+hash = "27981b0ea3876cd307a5fc71d302d93639634de23699785602ee0bf962191a52"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_willow_barrel.json"
+hash = "0edc429e655cbc74d2a0904fe4150571bcd277213a46a63906775dfd98871053"
+
+[[files]]
+file = "datapacks/created/data/created/recipe/crafting/biomesoplenty_willow_chest.json"
+hash = "ee53111be8d320b570cf08e0beed16b494622f697500d0b3a4e97a60f1443b04"
+
+[[files]]
 file = "datapacks/created/data/created/recipe/crafting/birch_barrel.json"
 hash = "9ff1cf227e96a72b833ac1b7ac7d8c4c786493cc077a16d9948d9433ce3d0d08"
 
@@ -755,6 +859,58 @@ hash = "05d20071d0fc5bdcd788229be813447b9cec5fb133e332c776b1f3c9fbc5bae7"
 [[files]]
 file = "datapacks/created/data/woodworks/loot_table/blocks/bamboo_chest.json"
 hash = "c89b6030274eab6fc873b5965ccaefd0b65ecfb715799915a62af3d183e5f4ec"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/biomesoplenty_dead_chest.json"
+hash = "6217c7eea62c4d9de4b8411089400484f1ea9c208d14674dbc778bf94d0ad5a6"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/biomesoplenty_empyreal_chest.json"
+hash = "d5551eeda2666d3ba1927832a7535a595b35a87ce95b4efb45ad6fdece27f72a"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/biomesoplenty_fir_chest.json"
+hash = "3afaadc26fd468416b7739b1df0b094dbafe9868cc20dbbc0dada858ccaba708"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/biomesoplenty_hellbark_chest.json"
+hash = "25b36fb545626e0786c1632b1b02ced612641f37dc6c3f7be81b49a45d12ab96"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/biomesoplenty_jacaranda_chest.json"
+hash = "48f1c9ece4f9b6c631cadbc39eb19a501483a2f1510030eb32b5be2290c110a5"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/biomesoplenty_magic_chest.json"
+hash = "b8bb07c7b40d9cf49eac8b0f7d617f51fa064be8fc071729787f1400867331e2"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/biomesoplenty_mahogany_chest.json"
+hash = "62696b9c498864be3d3e8fec25c2dcbaf28385da16e9c9ecfc3ca59396b42330"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/biomesoplenty_maple_chest.json"
+hash = "aa77b1705d75fd2df35ba27e759d55c511db7aa7d741e045b2e7f5bb46a401ba"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/biomesoplenty_palm_chest.json"
+hash = "d9896e03ea2a792070eda545fd93399d5f3415ee8d237e177e4dbe552ffdeccd"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/biomesoplenty_pine_chest.json"
+hash = "e32ce395e60d8dc54473e69a3e52a92995b5f48a784aea0d5448acb2286050b5"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/biomesoplenty_redwood_chest.json"
+hash = "40a4041e39e79b7d045c6bc1ffbf6ef204dbe377be94ab6c4c64b153f0f9531f"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/biomesoplenty_umbran_chest.json"
+hash = "f24d37e76625fd514bc6ea1eeddcacef88354ad66d71e30ae63ac0271ba4301d"
+
+[[files]]
+file = "datapacks/created/data/woodworks/loot_table/blocks/biomesoplenty_willow_chest.json"
+hash = "2b50de0f711680b67c0e2f45261cde73858e81b6b528536c1a0780b345cbcc4a"
 
 [[files]]
 file = "datapacks/created/data/woodworks/loot_table/blocks/birch_chest.json"
