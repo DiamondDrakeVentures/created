@@ -1,5 +1,5 @@
 {
   "template": "sophisticatedstorage_chest.tmpl.json",
-  "source": "sophisticatedstorage_wood.source.csv",
-  "output": "{sophisticatedstorage:wood_type}_chest.json"
+  "source": "../../../wood.source.csv",
+  "output": "{WoodType}_chest.json"
 }

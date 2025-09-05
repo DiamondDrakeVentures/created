@@ -1,0 +1,11 @@
+WoodType,Planks,Slab
+oak,minecraft:oak_planks,minecraft:oak_slab
+birch,minecraft:birch_planks,minecraft:birch_slab
+spruce,minecraft:spruce_planks,minecraft:spruce_slab
+jungle,minecraft:jungle_planks,minecraft:jungle_slab
+acacia,minecraft:acacia_planks,minecraft:acacia_slab
+dark_oak,minecraft:dark_oak_planks,minecraft:dark_oak_slab
+cherry,minecraft:cherry_planks,minecraft:cherry_slab
+bamboo,minecraft:bamboo_planks,minecraft:bamboo_slab
+crimson,minecraft:crimson_planks,minecraft:crimson_slab
+warped,minecraft:warped_planks,minecraft:warped_slab

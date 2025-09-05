@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "P": {
-      "item": "{P}"
+      "item": "{Planks}"
     },
     "S": {
-      "item": "{S}"
+      "item": "{Slab}"
     }
   },
   "pattern": [
@@ -16,7 +16,7 @@
   ],
   "result": {
     "components": {
-      "sophisticatedstorage:wood_type": "{sophisticatedstorage:wood_type}"
+      "sophisticatedstorage:wood_type": "{WoodType}"
     },
     "count": 1,
     "id": "sophisticatedstorage:barrel"
