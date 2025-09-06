@@ -128,5 +128,18 @@
   "tag.item.c.wires.electrum": "Electrum Wire",
   "tag.item.c.wires.gold": "Gold Wire",
   "tag.item.c.wires.iron": "Iron Wire",
-  "tag.item.c.wood_sticks": "Wood Sticks"
+  "tag.item.c.wood_sticks": "Wood Sticks",
+  "wood_name.sophisticatedstorage.biomesoplenty:fir": "Fir",
+  "wood_name.sophisticatedstorage.biomesoplenty:pine": "Pine",
+  "wood_name.sophisticatedstorage.biomesoplenty:maple": "Maple",
+  "wood_name.sophisticatedstorage.biomesoplenty:redwood": "Redwood",
+  "wood_name.sophisticatedstorage.biomesoplenty:mahogany": "Mahogany",
+  "wood_name.sophisticatedstorage.biomesoplenty:jacaranda": "Jacaranda",
+  "wood_name.sophisticatedstorage.biomesoplenty:palm": "Palm",
+  "wood_name.sophisticatedstorage.biomesoplenty:willow": "Willow",
+  "wood_name.sophisticatedstorage.biomesoplenty:dead": "Dead",
+  "wood_name.sophisticatedstorage.biomesoplenty:magic": "Magic",
+  "wood_name.sophisticatedstorage.biomesoplenty:umbran": "Umbran",
+  "wood_name.sophisticatedstorage.biomesoplenty:hellbark": "Hellbark",
+  "wood_name.sophisticatedstorage.biomesoplenty:empyreal": "Empyreal"
 }
